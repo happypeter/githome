@@ -1,10 +1,49 @@
+## 20210307 Power
+Power cable connected, and try hotmelt pipes.
+[img](imgs/20210307/)
+
+## 20210308 Power
+Power cable connected, and try hotmelt pipes.
+[img](imgs/20210308/)
+
+## 20210309 Power
+Power cable connected, and try hotmelt pipes.
+[img](imgs/20210309/)
+
+## 20210310 Power
+Power cable connected, and try hotmelt pipes.
+[img](imgs/20210310/)
+
+## 20210311 Power
+Power cable connected, and try hotmelt pipes.
+[img](imgs/20210311/)
+
+## 20210312 Power
+Power cable connected, and try hotmelt pipes.
+[img](imgs/20210312/)
+
+## 20210313 Roof Investigation
+some rafters are rotten, need to be replaced, more brick path built, remove the grass blocking the backdoor, tried the grinder handle
+[img](imgs/20210313/)
+
+## 20210314 Day Off
+Cool
+
+## 20210315 Power
+rest my finger, only did some shopping, took some picture of how civil projects are down
+[img](imgs/20210315/)
+
+## 20210316 Power
+Power cable connected, and try hotmelt pipes.
+[img](imgs/20210316/)
+
 ## 20210317 Grinder
 First time using a grinder.
-[img](imgs/20210317)
+[img](imgs/20210317/)
 
 ## 20210318 Hotmelt Pipes
 now I am master of water. Hotmelted PE and PPR pipes, all was done perfectly, except the most important one the old pipe to PE elbow joint. But I did another old pipe to PE T fitting, and then do pull and Smash test will piler and hammer, it is rock solid. This gave me some confidence on the bad elbow joint. P.S I did a lot of trails and wasted some pipe and fittings.
-[img](imgs/20210318)
+[img](imgs/20210318/)
 
 ## 20210319 Rainy Day
 Take a day off, more research on plumping.
