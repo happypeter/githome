@@ -1,4 +1,10 @@
 
+## 20210325 Sand and Cement
+sand and cement delivered, vs build stairs for a 2m dig [img](imgs/20210325/)
+
+## 20210326 Rest Wrist
+Pain because of digging
+
 ## 20210327 Clean Rooms
 Clean two rooms, move out the dirt with my new hand cart [img](imgs/20210327/)
 
