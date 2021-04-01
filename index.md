@@ -1,4 +1,8 @@
-## 20210318
+## 20210317 Grinder
+First time using a grinder.
+[img](imgs/20210317)
+
+## 20210318 Hotmelt Pipes
 now I am master of water. Hotmelted PE and PPR pipes, all was done perfectly, except the most important one the old pipe to PE elbow joint. But I did another old pipe to PE T fitting, and then do pull and Smash test will piler and hammer, it is rock solid. This gave me some confidence on the bad elbow joint. P.S I did a lot of trails and wasted some pipe and fittings.
 [img](imgs/20210318)
 
