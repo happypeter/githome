@@ -1,3 +1,7 @@
+## 20210320 Water Main
+water pipes are buried no less than 35cm deep, much more deep then the original depth, the shelves/tables/stools really helped
+[img](imgs/20210320/)
+
 ## 20210321 Plumping
 dig plumping holes, measured septic tank, found a stove notch where I can dig a hold under the foundation, then I don’t need to change the load bearing of the house
 [img](imgs/20210321/)
