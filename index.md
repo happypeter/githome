@@ -1,25 +1,24 @@
-## 20210307 Power
-Power cable connected, and try hotmelt pipes.
+## 20210307 cut grass
+First thing first.
 [img](imgs/20210307/)
 
-## 20210308 Power
-Power cable connected, and try hotmelt pipes.
+## 20210308 Septic Tank
+plumping, find the water pipes, found a big septic tank
 [img](imgs/20210308/)
 
-## 20210309 Power
-Power cable connected, and try hotmelt pipes.
+## 20210309 Pave Path
+new tools, destroy the stove, gate path, power wiring
 [img](imgs/20210309/)
 
-## 20210310 Power
-Power cable connected, and try hotmelt pipes.
+## 20210310 Still Frozen
+clean the yard, cut grass, clear the path to toliet, had to leave the dirty on the ground alone because it’s still frozen
 [img](imgs/20210310/)
 
-## 20210311 Power
-Power cable connected, and try hotmelt pipes.
-[img](imgs/20210311/)
+## 20210311 PE vs PPR
+shopping for pipe parts, now I see how to connect PPR and PE, and wh en to use hot melt and when threaded joint
 
-## 20210312 Power
-Power cable connected, and try hotmelt pipes.
+## 20210312 Pipe is 20cm
+measured diamater of my new pipe, the old pipe, they all bigger than 20cm, I gets small errors are common, and should not cause issue when I do hot melting. And, building brick road is fun.
 [img](imgs/20210312/)
 
 ## 20210313 Roof Investigation
