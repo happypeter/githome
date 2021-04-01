@@ -1,6 +1,9 @@
-## 20210324 Digup the Septic Tank Outlet
-the outlet was protected by a tile and a hole lot broken breaks. And I set up
-the foundation to store sand and cement. [img](imgs/20210324/)
+## 20210323 Clean up the Septic Tank Outlet
+dig up the outlet of the septic tank, surprised by how well the pipe was protected from plugged by earth with just a few random bricks
+[img](imgs/20210323/)
+
+## 20210324 Clean up the Septic Tank Outlet
+I also set up the foundation to store sand and cement. [img](imgs/20210324/)
 
 ## 20210325 Sand and Cement
 sand and cement delivered, vs build stairs for a 2m dig [img](imgs/20210325/)
