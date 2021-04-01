@@ -1,3 +1,7 @@
+## 20210323 Path to Septic Tank
+dig up the path to the tank
+[img](imgs/20210322/)
+
 ## 20210323 Clean up the Septic Tank Outlet
 dig up the outlet of the septic tank, surprised by how well the pipe was protected from plugged by earth with just a few random bricks
 [img](imgs/20210323/)
