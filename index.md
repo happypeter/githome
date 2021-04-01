@@ -1,4 +1,8 @@
-## 20210323 Path to Septic Tank
+## 20210321 Plumping
+dig plumping holes, measured septic tank, found a stove notch where I can dig a hold under the foundation, then I don’t need to change the load bearing of the house
+[img](imgs/20210321/)
+
+## 20210322 Path to Septic Tank
 dig up the path to the tank
 [img](imgs/20210322/)
 
