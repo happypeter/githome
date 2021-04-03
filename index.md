@@ -89,3 +89,12 @@ insulate.
 ## 20210331 Clean Yard
 clean the grass, move the soil, move grass out
 [img](imgs/20210331/)
+
+## 20210401 Ventilation
+More research on ventilation and plumping.
+
+## 20210402 Bought My First PVC Pipe
+For laundry drain.
+
+## 20210403 Show Githome To Everybody
+My sister and Mum are my client, sort of, I will try to make them love Githome. [img](imgs/20210403)
