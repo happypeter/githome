@@ -98,3 +98,11 @@ For laundry drain.
 
 ## 20210403 Show Githome To Everybody
 My sister and Mum are my client, sort of, I will try to make them love Githome. [img](imgs/20210403)
+
+## 20210404 Help from Mom and WangPeng
+We cleaned the part of the yard in front of house. Moved lots of bricks and
+dirt of both 炕 out, it was hard work.
+[img](imgs/20210404)
+
+## 20210405 Take A Day Off
+Fingers and wrist are painful.

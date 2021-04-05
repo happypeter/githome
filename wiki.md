@@ -380,6 +380,12 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   part of the sturcture, I went to 慕义寨, checked other old house, the roofs
   are all in good shape.
 
+## Living Room
+
+- living room also bedroom, so wo need a versatile bed
+- a bed https://youtu.be/0df9v3xCzeU?t=85
+- sofa bed https://youtu.be/XwjFD6romAY?t=43
+
 ## Bathroom
 
 - toliet needs to stay in it's own room
