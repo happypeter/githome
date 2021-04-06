@@ -106,3 +106,8 @@ dirt of both 炕 out, it was hard work.
 
 ## 20210405 Take A Day Off
 Fingers and wrist are painful.
+
+## 20210406 Chain Saw
+First time used a chain saw. Build my first concrete slab. Took door off with
+grinder.
+[img](imgs/20210406)
