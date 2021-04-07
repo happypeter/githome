@@ -84,39 +84,62 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 
 ## Plumping
 
-- how to glue PVC
-  - push to as far as you can go, hold for 5 seconds
-- pipes should be buried in wall
-  - otherwise how can you install a cabinet neatly
-- pre-filter
-  - one day maybe I will get a after-filter https://youtu.be/QLm89HA4EFU?t=107
-  - for big particals, sand, rust...these things are not just bad for human,
-    but also may detroy your devices.
-- washing machine pipe has to be 2inch, not 1.5 https://youtu.be/xpsLXmntINE?t=31
-- will two traps for toliet slow down the drain?
-  - yes, you should not have a P trap for toliet.
-  - not everybody use p trap under a toliet
-    - https://youtu.be/gqwAETNyTnE?t=322
-- clean out hole https://youtu.be/bbqZ12QhoY4?t=205
-- venting
-  - 1.5 inch according to USA code
-    - https://youtu.be/bbqZ12QhoY4?t=254
+- pipe size, ref: https://m.pchouse.com.cn/x/275/2759828.html
+  - toliet
+    - use 110mm outside diameter PVC
+  - kitchen 75mm
+  - main vent: 50mm
+  - laundry drain 50mm
+- toliet
+  - don't use sanitary tee horizontally https://youtu.be/xpsLXmntINE?t=105
+    - use these https://youtu.be/w5fMZBRtQ24?t=132 for horizontally connect two pipes
+  - use 45 degree if you want to turn https://youtu.be/xpsLXmntINE?t=113
+  - don't need P trap
+  - flange and pipe dia is different https://youtu.be/bbqZ12QhoY4?t=161
+  - https://www.youtube.com/watch?v=AEJ9tJTs7ro
+- laundry
+  - use P for everything https://youtu.be/xpsLXmntINE?t=13
+  - washing machine pipe has to be 2inch, not 1.5 https://youtu.be/xpsLXmntINE?t=31
+  - you need a vent close to washing machine https://youtu.be/Y2o8upCxcqA
+- vent
+  - avode vent below flood level https://youtu.be/xpsLXmntINE?t=243
+  - use san tee to join vertial and horizontal https://youtu.be/bbqZ12QhoY4?t=325
+  - 1.5 inch according to USA code https://youtu.be/bbqZ12QhoY4?t=254
   - use chimney for vent
   - S trap is not safe https://youtu.be/Y2o8upCxcqA?t=256
+    - change it into P https://youtu.be/zGofkKOP2SU?t=102
   - wikipedia:'This is usually avoided by venting the drain pipes downstream of the trap'
   - https://trustfourstar.com/what-is-a-p-trap-for-sinks A p-trap should be installed where possible because p-traps can be attached to a vented drain pipe where s-traps cannot be vented.
   - you can have multiple vents all connected to your main vent https://youtu.be/Y2o8upCxcqA?t=164
     - you need grade for the connecton https://youtu.be/bbqZ12QhoY4?t=284
     - or you can share one vent, but you need thicker pipes(drain pipes, not vent pipes) https://youtu.be/gqwAETNyTnE?t=418
   - the main vent outlet should not be too big, otherwise strong wind may
-    produce problems
+    lead to bounce of toliet water https://youtu.be/Y2o8upCxcqA?t=202
+- cleanout
+
+  - where to have them https://youtu.be/bbqZ12QhoY4?t=215
+
+- kitchen
+  - silicone to glue strainer https://youtu.be/VqBAMEbo-OE?t=109
+- general
+  - don't use two tees together, use double tee https://youtu.be/xpsLXmntINE?t=214
+  - don't make too big slope, you will siphone out your p-trap https://youtu.be/xpsLXmntINE?t=235
+  - don't use short radius 90 degree fittings(for toliet or vent, short ones are OK) https://youtu.be/xpsLXmntINE?t=395
+- how to glue PVC
+  - use grinder to cut pipes https://www.bilibili.com/video/BV1rk4y1k7pw
+  - push to as far as you can go, hold for 5 seconds https://youtu.be/VqBAMEbo-OE?t=87
+  - make the pipe surface clean before applying the glue, use right glue for the pipe
+- pipes should be buried in wall
+  - otherwise how can you install a cabinet neatly
+  - the glue will melt the pipe, so make sure the surface is clean before applying glue to the pipe
+- pre-filter
+
+  - one day maybe I will get a after-filter https://youtu.be/QLm89HA4EFU?t=107
+  - for big particals, sand, rust...these things are not just bad for human,
+    but also may detroy your devices.
+
 - DONT have a drain you don't use very often, when the water seal dries, it is
   a smell hole.
-- Do I need a P/U trap for everything? https://www.bilibili.com/video/BV1rk4y1k7pw
-  - Yes, but I think I can use a P trap for multiple drains
-    - but washing machine drain has to be directly connected to vent,
-      otherwise large amount of water pour in at once may destroy the seal of nearby traps.
-      - https://youtu.be/zGofkKOP2SU?t=74
 - septic tank
   - well cover the main access top hole to keep rain water away
   - inlet pipe 110mm dia PVC
@@ -136,7 +159,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - drywell
   - build with bricks https://www.bilibili.com/video/BV13t4y1Q7pW
     - only need concrete for the top https://www.bilibili.com/video/BV1Bg4y1q7NZ
-  - use stones around the drain https://youtu.be/SzwRYma7W4c?t=128
+  - use gravels around the drain https://youtu.be/SzwRYma7W4c?t=128
   - this is the really professional dry well https://youtu.be/SzwRYma7W4c?t=175
   - you can build a dry well with just small stones https://youtu.be/AcIZtWarDuk?t=356
   - input hole: 97cm deep, output hole(drain): 100cm deep(ground to hole center)
@@ -180,7 +203,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     changes overtime, therefore is widely used as long distance main city water pipe.
     because it's flexibility, you save a lot of fittings.
   - welding temperature 210 degree C
-- if your supply use 4 pipe, does not make a lot sense to use 6 pipe in home https://www.163.com/dy/article/FLHV3S95054034NQ.html
+- if your supply use 4(20mm) pipe, does not make a lot sense to use 6(25mm) pipe in home https://www.163.com/dy/article/FLHV3S95054034NQ.html
 - join metal pipe with ppr https://youtu.be/aUeyjugrdDM?t=264
 - my plan
   - have a main valve at the door place, then inside rooms do all the pipes
@@ -537,6 +560,10 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - 18(per bag)x10RMB for cement
 - 130(per sqm)x2RMB for sand
 - 5(per bag)x2RMB for graval
+- PVC pipe
+  - 50mm diameter 20RMB/4m x2 total: 40RMB
+  - 110mm diameter 50RMB/4m x2 total: 100RMB
+  - total: 140RMB
 - May Hire: 240 per labor per day, may needs 7 days to finish the painting of
   githome, Putty included. If I want the meterial+labor, it is 25RMB/sqm,
   githome is around 120sqm(wall surface), so it's 3000RMB for water proof
