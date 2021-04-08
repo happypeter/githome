@@ -117,4 +117,12 @@ More research on plumping.
 
 
 ## 20210408 Drywell
-Done a lot. NO.1 Installed smart toliet, it's awesome. NO.2 
+Done a lot. NO.1 Installed smart toliet, it's awesome. NO.2 Excavator took
+down the concrete cow feeders. NO.3 trench and drywell hole(2.2m deep, reach
+water table). NO.4 Build the drywell, use big brick block to cover the water,
+then use small brick block to build a flat surface for the bottom of drywell,
+then use gravels, then use sand to make the surface really flat, with the help
+of my level. The last three imgs are snapshot from Bilibili videos, I am
+inspired to change the way I lay down the bricks, and make the well larger
+tomorrow.
+[img](imgs/20210408)
