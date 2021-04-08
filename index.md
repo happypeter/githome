@@ -111,3 +111,10 @@ Fingers and wrist are painful.
 First time used a chain saw. Build my first concrete slab. Took door off with
 grinder.
 [img](imgs/20210406)
+
+## 20210407 Day Off
+More research on plumping.
+
+
+## 20210408 Drywell
+Done a lot. NO.1 Installed smart toliet, it's awesome. NO.2 

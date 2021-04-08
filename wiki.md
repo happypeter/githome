@@ -84,6 +84,9 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 
 ## Plumping
 
+- sewer pipes
+  - from house foundation hole to the inlet of septic tank, 4.2m
+  - from house foundation hole to the inlet of drywell, 7m
 - pipe size, ref: https://m.pchouse.com.cn/x/275/2759828.html
   - toliet
     - use 110mm outside diameter PVC
@@ -141,17 +144,19 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - DONT have a drain you don't use very often, when the water seal dries, it is
   a smell hole.
 - septic tank
+  - seal pipe penetration https://www.youtube.com/watch?v=QGLTaFf9Z1g
   - well cover the main access top hole to keep rain water away
   - inlet pipe 110mm dia PVC
   - needs to be burried under frozen earth https://www.bilibili.com/video/BV1GE411a73c
   - https://youtu.be/ycrwcFXsAdA?t=32 Use a T pipe for outlet of a septic tank.
   - I need a drainwell lid like this https://youtu.be/l8UvTkgmFsc?t=59
-  - Note: new shit will float, so the surface is not clean water https://www.bilibili.com/video/BV18J411q7E1/
   - It's very common to have a one chamber tank, as long as you have a outlet
     pipe going uphill, neither scum or sludge is a worry, cause inside water
     level will always be above outlet pipe hole
-  - so maybe I need a tee for outlet pipe (inside the tank)
+  - do I need a tee for outlet pipe (inside the tank)?
     - https://www.bilibili.com/video/BV1Bk4y1C7Ct
+    - No, because my septic tank(used to be a biogas tank) has outlet pipe
+      goes uphill, the don't need to worry about the floating waste
   - bathroom water does not go into septic tank https://www.bilibili.com/video/BV1ZE411v7Fn
   - maybe I need a leach field rather than a drywell https://abccesspoolandsepticpumping.com/components-septic-system
 - DIY concrete lid
@@ -411,6 +416,9 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 
 ## Bathroom
 
+- 大白智净 smart toliet
+  - the faucet has it's built-in filter, so clean it from time to time
+  - don't connect the toliet inlet with hot solar device pipe in any way, cause you may injury your ass
 - toliet needs to stay in it's own room
   - not together with anything, not shower, not washing machine
   - needs a powerful sparyer for its own
