@@ -126,3 +126,10 @@ of my level. The last three imgs are snapshot from Bilibili videos, I am
 inspired to change the way I lay down the bricks, and make the well larger
 tomorrow.
 [img](imgs/20210408)
+
+## 20210409 Day Off
+
+## 20210410 Destroy the Inlet Concrete
+Made the hole trough the wall. Destroyed the inlet concrete structure. More
+bricks to deal with the rised water table.
+[img](imgs/20210410)

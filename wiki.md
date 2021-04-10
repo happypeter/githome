@@ -1,3 +1,7 @@
+## Design Goals
+
+- try to build everything modular/portable/usable as possible, cause I don't know when the gov will take down the whole village
+
 ## entryway
 
 - MUST HAVES: mirror, tmper storage(a table or shelf), shoe stools
@@ -84,6 +88,8 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 
 ## Plumping
 
+- incoming water must come into the yard from west
+  - I became convinced of this after I did trench for the sewer.
 - sewer pipes
   - from house foundation hole to the inlet of septic tank, 4.2m
   - from house foundation hole to the inlet of drywell, 7m
@@ -129,6 +135,9 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - don't make too big slope, you will siphone out your p-trap https://youtu.be/xpsLXmntINE?t=235
   - don't use short radius 90 degree fittings(for toliet or vent, short ones are OK) https://youtu.be/xpsLXmntINE?t=395
 - how to glue PVC
+  - lay all pipes and fittings on site, then cut
+  - wear water proof gloves for the glue
+  - use grinder to get round edge of pipe wall for esay pluging in
   - use grinder to cut pipes https://www.bilibili.com/video/BV1rk4y1k7pw
   - push to as far as you can go, hold for 5 seconds https://youtu.be/VqBAMEbo-OE?t=87
   - make the pipe surface clean before applying the glue, use right glue for the pipe
@@ -151,14 +160,8 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - https://youtu.be/ycrwcFXsAdA?t=32 Use a T pipe for outlet of a septic tank.
   - I need a drainwell lid like this https://youtu.be/l8UvTkgmFsc?t=59
   - It's very common to have a one chamber tank, as long as you have a outlet
-    pipe going uphill, neither scum or sludge is a worry, cause inside water
-    level will always be above outlet pipe hole
-  - do I need a tee for outlet pipe (inside the tank)?
-    - https://www.bilibili.com/video/BV1Bk4y1C7Ct
-    - No, because my septic tank(used to be a biogas tank) has outlet pipe
-      goes uphill, the don't need to worry about the floating waste
+    pipe going uphill(in the case of my outlet pipe, the outside is 30cm or more higher then inside hole, with inside hole sink in water all the time), neither scum or sludge is a worry, cause inside water level will always be above outlet pipe hole
   - bathroom water does not go into septic tank https://www.bilibili.com/video/BV1ZE411v7Fn
-  - maybe I need a leach field rather than a drywell https://abccesspoolandsepticpumping.com/components-septic-system
 - DIY concrete lid
   - https://www.youtube.com/watch?v=Ys26t1daYjw
 - drywell
@@ -416,9 +419,6 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 
 ## Bathroom
 
-- 大白智净 smart toliet
-  - the faucet has it's built-in filter, so clean it from time to time
-  - don't connect the toliet inlet with hot solar device pipe in any way, cause you may injury your ass
 - toliet needs to stay in it's own room
   - not together with anything, not shower, not washing machine
   - needs a powerful sparyer for its own
@@ -559,6 +559,23 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - swill bucket
   - with filter and drain at the bottom of course
 
+## interior walls
+
+- use wood frames like a typical US home does https://youtu.be/Arkq3lLuo0U?t=476
+
+## windows and doors
+
+- pocket doors or barn doors are nice interior options
+
+## Portable Home? or not
+
+- serious considering build with shipping containers https://www.youtube.com/watch?v=LvUI3-0QkI0
+  - purchasable in china https://www.bilibili.com/video/BV1dK411J7kS
+- drawbacks
+  - doing structural work is generally against my philosophy, which is only work on things need to be custimized. Everyone want a strong spacious rooms, that should be build by professionals with large machines, not me by hand.
+    - people is building and have done a lot of strong houses, should be cheap to rent
+  - even you build with shipping container, you still needs a strong foundation and all the plumbing, and yard and its walls, that's not go without cost.
+
 ## Cost
 
 - 4000RMB/year for rent
@@ -577,3 +594,4 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   githome is around 120sqm(wall surface), so it's 3000RMB for water proof
   painting.
 - May Hire: 20RMB/sqm for the false ceiling with plaster board.
+- Excavator for cow feeders, trench, drywell 900RMB
