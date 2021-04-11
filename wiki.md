@@ -89,11 +89,11 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 ## Plumping
 
 - incoming water must come into the yard from west
-  - I became convinced of this after I did trench for the sewer.
-- sewer pipes
+  - I became convinced of this after I did trenches for the sewer.
+- sewer pipe length
   - from house foundation hole to the inlet of septic tank, 4.2m
   - from house foundation hole to the inlet of drywell, 7m
-- pipe size, ref: https://m.pchouse.com.cn/x/275/2759828.html
+- pipe diamaters, ref: https://m.pchouse.com.cn/x/275/2759828.html
   - toliet
     - use 110mm outside diameter PVC
   - kitchen 75mm
@@ -103,18 +103,28 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - don't use sanitary tee horizontally https://youtu.be/xpsLXmntINE?t=105
     - use these https://youtu.be/w5fMZBRtQ24?t=132 for horizontally connect two pipes
   - use 45 degree if you want to turn https://youtu.be/xpsLXmntINE?t=113
-  - don't need P trap
-  - flange and pipe dia is different https://youtu.be/bbqZ12QhoY4?t=161
+  - flange and pipe dia are different https://youtu.be/bbqZ12QhoY4?t=161
   - https://www.youtube.com/watch?v=AEJ9tJTs7ro
 - laundry
   - use P for everything https://youtu.be/xpsLXmntINE?t=13
-  - washing machine pipe has to be 2inch, not 1.5 https://youtu.be/xpsLXmntINE?t=31
   - you need a vent close to washing machine https://youtu.be/Y2o8upCxcqA
 - vent
+  - how many vents do I need? can kitchen, laundry and toliet share man vent?
+    - have vents go alone the roof horizontally is a way to share https://youtu.be/C9Keoe0nh_E?t=102
+    - I will try hard to share vents, cause otherwise I need to use another open chimney, which leads to more heat loss in winter
+    - kitchen use one vent, one vent between toliet and washing machine
+      - they don't need to go to roof, just taller than the sink
+      - drill a hole, just under the countertop(so that the pipes are hidden under the countertop) to connect the two vents, then they go together to the main vent
+    - septic tank has one vent, that is the main vent, and all the vents connect to, go through chimney above the roof
+    - I will first let the kitchen sink go without it's own vent, it's 75mm connecting to 110mm, must be some room for air
+      - but I will make it possible to add vent, if things do not turn out right
   - avode vent below flood level https://youtu.be/xpsLXmntINE?t=243
   - use san tee to join vertial and horizontal https://youtu.be/bbqZ12QhoY4?t=325
   - 1.5 inch according to USA code https://youtu.be/bbqZ12QhoY4?t=254
-  - use chimney for vent
+  - use chimney for vent, note, the vent top needs to be higher than the chimney, in case snow plug the chimney
+    - Maybe I should not hide vent pipe in the chimney, hard to fix, hard to do insulation
+      - I can just expose it inside room, let it go into chimey only when it gets close to the room
+    - if the main pipe is hidden in the wall, how I can connect another vent(from kitchen) pipe to it?
   - S trap is not safe https://youtu.be/Y2o8upCxcqA?t=256
     - change it into P https://youtu.be/zGofkKOP2SU?t=102
   - wikipedia:'This is usually avoided by venting the drain pipes downstream of the trap'
@@ -124,7 +134,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     - or you can share one vent, but you need thicker pipes(drain pipes, not vent pipes) https://youtu.be/gqwAETNyTnE?t=418
   - the main vent outlet should not be too big, otherwise strong wind may
     lead to bounce of toliet water https://youtu.be/Y2o8upCxcqA?t=202
-- cleanout
+- cleanouts
 
   - where to have them https://youtu.be/bbqZ12QhoY4?t=215
 
@@ -139,12 +149,10 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - wear water proof gloves for the glue
   - use grinder to get round edge of pipe wall for esay pluging in
   - use grinder to cut pipes https://www.bilibili.com/video/BV1rk4y1k7pw
-  - push to as far as you can go, hold for 5 seconds https://youtu.be/VqBAMEbo-OE?t=87
-  - make the pipe surface clean before applying the glue, use right glue for the pipe
-- pipes should be buried in wall
-  - otherwise how can you install a cabinet neatly
-  - the glue will melt the pipe, so make sure the surface is clean before applying glue to the pipe
-- pre-filter
+  - the glue will melt the pipe, so make the pipe surface clean before applying the glue, use right glue for the pipe
+  - push to as far as you can go, trun the pipe a bit to make glue even, hold for 5 seconds https://youtu.be/VqBAMEbo-OE?t=87
+- pipes should be buried in wall, otherwise how can you install a cabinet neatly
+- prefilter
 
   - one day maybe I will get a after-filter https://youtu.be/QLm89HA4EFU?t=107
   - for big particals, sand, rust...these things are not just bad for human,
@@ -235,12 +243,23 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 
 ## Insulation
 
+- why I can not have insulation false ceiling?
+  - once I have false ceiling. ventilation is MUST in winter to prevent the
+    wood to rot
+    - https://www.bilibili.com/video/BV1cy4y117Tc according to him ventilation
+      is not always necessary for wood
+  - but then I have to build a very thick false ceiling to stop the coldness
+    in attic space and make the original 10cm concrete heat proofing roof useless
+  - out door air connected ventilation is a MUST, espeially in winter
+    - I may need to install a professional heat recovery ventilator to push the air flow and
+      keep bugs away
+- roof insulation, replace the clay layer with foam/rockfiber, https://youtu.be/ibjiChTQZEI?t=105
 - material
   - wear mask and long sleeves to install both firberglass and stonewool https://youtu.be/wH4Oyj4fNxQ?t=503
   - fiberglass holds the water BAD https://youtu.be/5OEvZXSNaoY?t=209
-    - Rockwool won't change shape due to water(dementional stability), lower
-      thermal drift
+    - Rockwool won't change shape due to water(dementional stability), lower thermal drift
       - not absorbant to water, water proof https://youtu.be/wH4Oyj4fNxQ?t=386
+      - https://youtu.be/3hBoPcNtL54?t=1252
     - rockwool is a better product, and is twice as expensive https://youtu.be/wH4Oyj4fNxQ?t=284
     - the r value all come from how much air they trap https://youtu.be/wH4Oyj4fNxQ?t=316
   - https://youtu.be/OJ9u3pDQeM4?t=71
@@ -366,50 +385,10 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - heat proof roof
   - paste a film on top of the roof, search 拼多多 '防晒隔热膜'
 
-## Ceiling
+## laundry
 
-- basic info
-  - beam to floor height: 259cm
-  - rafter: 12cm diameter and 172cm long
-- use wood frame to hold drywall for the false ceiling, so that I can nail for
-  lighting fixtures.
-- roof style with wood exposed
-  https://www.bilibili.com/video/BV1iK4y1b7Gj?t=11m
-- https://youtu.be/weTsUYj0FXI?t=769 condensation is the root of all evil,
-  when it comes rotten wood.
-- My plan:
-
-  - insulation: replace the clay layer with foam/rockfiber, https://youtu.be/ibjiChTQZEI?t=105
-  - structure: fix rotten rafters, support the broken beam with a pillar
-  - aesthetic: hide everything(beams, rafters, cable pipes) with platerboard ceiling
-    - leave a vent on the ceiling, let room air go freely to the attic space, so
-      we don't need real ventilation
-      - https://youtu.be/dee7g_HtMIQ?t=95
-    - so the false ceiling is not for insulation
-
-- why I can not have insulation false ceiling?
-  - once I have false ceiling. ventilation is MUST in winter to prevent the
-    wood to rot
-    - https://www.bilibili.com/video/BV1cy4y117Tc according to him ventilation
-      is not always necessary for wood
-  - but then I have to build a very thick false ceiling to stop the coldness
-    in attic space and make the original 10cm concrete heat proofing roof useless
-  - out door air connected ventilation is a MUST, espeially in winter
-    - I may need to install a professional heat recovery ventilator to push the air flow and
-      keep bugs away
-- clean old beams
-  - https://youtu.be/5yi3AbIs378?t=280
-- HOWTO build the false ceiling https://www.bilibili.com/video/BV1Sy4y1m7PY
-  - wood frame is not for plasterboard ceiling, if you don't want cracks
-- About wood https://www.bilibili.com/video/BV1cy4y117Tc
-  - most wood is now imported from other countries
-  - the wood is pre-processed to kill bugs and dried
-- bath ceiling
-  - water proof drywall https://www.zhihu.com/zvideo/1346402176063963138
-    - 180RMB/sqm
-- the roof was built with fly ash, very good heat isulator, strong enough as
-  part of the sturcture, I went to 慕义寨, checked other old house, the roofs
-  are all in good shape.
+- wall hung hampers
+- hang basins and everything
 
 ## Living Room
 
@@ -452,10 +431,6 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   safe, check https://en.wikipedia.org/wiki/Dropped_ceiling to see the
   possible danger of hiding cables above a false ceiling
 
-## Septic tank
-
-- how to clean a tank, https://youtu.be/mz1HJnGtKPw?t=751
-
 ## Basic Info
 
 - Why I love the new githome
@@ -471,13 +446,6 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - so inside space is: 9mx4.7m=42.3m2
   - ceiling height: 320cm
 
-## Floor
-
-- after finishing the base layers, give it a week before you do the hard
-  surface
-- isulation https://www.youtube.com/watch?v=I2lG_7loVhc
-- 自流平 self leveling concrete https://www.bilibili.com/video/BV1Zv411k7zU?t=1m52s
-
 ## Kitchen
 
 - floor must be un sticky to stains, choose the right painting
@@ -490,6 +458,8 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - countertop with drain is life-changer, a MUST HAVE for always cooking mum
 - different height for sink and stove https://www.sohu.com/a/161454935_99890682
 - install counterop https://www.youtube.com/watch?v=HLi0ZVJKzYM
+- build a U shape counter with one side against the north wall
+  - lighting should not be a problem, the north side gets a windows, the west and east side all gets sunshine from south
 
 ## toliet
 
@@ -537,9 +507,6 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - exterior painting
   - gray walls with a bit white https://www.pinterest.jp/pin/68742177999/
   - expose the stones https://www.pinterest.jp/pin/80290805840569948/
-- use white windows for the old house
-  - https://www.pinterest.jp/pin/844493668152552/
-  - white is good https://youtu.be/zBCbbXlVOhs?t=283
 - protect water damaged wall https://www.bilibili.com/video/BV12a4y157WT
 
 - moisture protection
@@ -559,12 +526,57 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - swill bucket
   - with filter and drain at the bottom of course
 
-## interior walls
+## interior surface (walls, ceiling and floors)
+
+- ceiling basic info
+
+  - beam to floor height: 259cm
+  - rafter: 12cm diameter and 172cm long
+
+  - structure: fix rotten rafters, support the broken beam with a pillar
+  - aesthetic: hide everything(beams, rafters, cable pipes) with platerboard ceiling
+    - leave a vent on the ceiling, let room air go freely to the attic space, so
+      we don't need real ventilation
+      - https://youtu.be/dee7g_HtMIQ?t=95
+    - so the false ceiling is not for insulation
+
+- use wood frame to hold drywall for the false ceiling, so that I can nail for
+  lighting fixtures.
+- roof style with wood exposed
+  https://www.bilibili.com/video/BV1iK4y1b7Gj?t=11m
+- https://youtu.be/weTsUYj0FXI?t=769 condensation is the root of all evil,
+  when it comes rotten wood.
+- clean old beams
+  - https://youtu.be/5yi3AbIs378?t=280
+- HOWTO build the false ceiling https://www.bilibili.com/video/BV1Sy4y1m7PY
+  - wood frame is not for plasterboard ceiling, if you don't want cracks
+- About wood https://www.bilibili.com/video/BV1cy4y117Tc
+  - most wood is now imported from other countries
+  - the wood is pre-processed to kill bugs and dried
+- bath ceiling
+  - water proof drywall https://www.zhihu.com/zvideo/1346402176063963138
+    - 180RMB/sqm
+- the roof was built with fly ash, very good heat isulator, strong enough as
+  part of the sturcture, I went to 慕义寨, checked other old house, the roofs
+  are all in good shape.
+
+- Floor
+
+  - after finishing the base layers, give it a week before you do the hard surface
+  - self leveling concrete https://www.bilibili.com/video/BV1Zv411k7zU?t=1m52s
 
 - use wood frames like a typical US home does https://youtu.be/Arkq3lLuo0U?t=476
+- use drywall for all the walls, to hide pipes and water tanks
+
+- So once the wall surface is cleaned, I don't need to apply concrete on top
+  - unless I need to enhance the structure
+  - I may install rockfiber for insulation inside dry walls
+- some ceilings may also use drywall
+  - https://www.bilibili.com/video/BV17t4y1D74f/
 
 ## windows and doors
 
+- use black/drakgray windows, because the house aleadys have a lot of white shape or lines decorations, black is kind of invisible, does not add more details
 - pocket doors or barn doors are nice interior options
 
 ## Portable Home? or not
@@ -586,9 +598,25 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - 130(per sqm)x2RMB for sand
 - 5(per bag)x2RMB for graval
 - PVC pipe
-  - 50mm diameter 20RMB/4m x2 total: 40RMB
-  - 110mm diameter 50RMB/4m x2 total: 100RMB
-  - total: 140RMB
+  - 50mm pipe 20RMB/4m x3 total: 60RMB
+  - 50mm vent cowl 3.8RMB
+  - 75mm diameter 36RMB/4m x2 total: 72RMB
+  - 110mm diameter 50RMB/4m x3 total: 150RMB
+  - 110mm 45degree elbow 5rmb x 2 total: 10RMB
+  - 50mm T with lid 4EMB
+  - to buy
+    - 50mm pipe(for vent) x4
+    - 50mm direct connector(直连) x 4
+    - 50mm 90degree elbow（90 度弯头） x 6
+    - 50mm T(三通) x 5
+    - 50mm cap（管帽） x 2
+    - 50mm P trap with checkout(P 型检查口存水弯) x 2
+    - 50mm wye（斜三通） x 4
+    - 50mm stand checkout x 1
+    - 75mm P trap with checkouts x 1
+    - 110mm wye（斜三通） x 2
+    - 110mm 45degree elbow（45 度弯头）x 2(ordered)
+    - 110mm cap(管帽) x 1
 - May Hire: 240 per labor per day, may needs 7 days to finish the painting of
   githome, Putty included. If I want the meterial+labor, it is 25RMB/sqm,
   githome is around 120sqm(wall surface), so it's 3000RMB for water proof

@@ -133,3 +133,7 @@ tomorrow.
 Made the hole trough the wall. Destroyed the inlet concrete structure. More
 bricks to deal with the rised water table.
 [img](imgs/20210410)
+
+## 20210410 Plumping Research
+Day off the physical work, but did real hard research on plumping, PVC
+connection and venting.
