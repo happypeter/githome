@@ -100,6 +100,8 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - main vent: 50mm
   - laundry drain 50mm
 - toliet
+  - from the center of the drain hole to side wall 15inch, the the back finished wall 12inch
+    - https://hammerpedia.clickfunnels.com/order-form
   - don't use sanitary tee horizontally https://youtu.be/xpsLXmntINE?t=105
     - use these https://youtu.be/w5fMZBRtQ24?t=132 for horizontally connect two pipes
   - use 45 degree if you want to turn https://youtu.be/xpsLXmntINE?t=113
@@ -110,6 +112,9 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - you need a vent close to washing machine https://youtu.be/Y2o8upCxcqA
 - vent
   - how many vents do I need? can kitchen, laundry and toliet share man vent?
+    - septic tank and toliet share one vent
+    - I don't need a vent at the location where pipes go out of the house and where chimeny stands
+      - all we need is to connect all the vents together, go the wall to the chimeny
     - have vents go alone the roof horizontally is a way to share https://youtu.be/C9Keoe0nh_E?t=102
     - I will try hard to share vents, cause otherwise I need to use another open chimney, which leads to more heat loss in winter
     - kitchen use one vent, one vent between toliet and washing machine
@@ -151,6 +156,9 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - use grinder to cut pipes https://www.bilibili.com/video/BV1rk4y1k7pw
   - the glue will melt the pipe, so make the pipe surface clean before applying the glue, use right glue for the pipe
   - push to as far as you can go, trun the pipe a bit to make glue even, hold for 5 seconds https://youtu.be/VqBAMEbo-OE?t=87
+- how to bury PVC?
+  - at least 900mm under ground, 100mm sand under, 300mm sand above pipe
+    - https://baike.baidu.com/item/UPVC%E7%AE%A1/10346548
 - pipes should be buried in wall, otherwise how can you install a cabinet neatly
 - prefilter
 
@@ -173,6 +181,8 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - DIY concrete lid
   - https://www.youtube.com/watch?v=Ys26t1daYjw
 - drywell
+  - make sure the drywell is easily accessible during rain season, native people sometimes needs to pump the water out
+  - add a cleanout on the outlet pipe is a good idea https://youtu.be/qWAAZpEMN20?t=135
   - build with bricks https://www.bilibili.com/video/BV13t4y1Q7pW
     - only need concrete for the top https://www.bilibili.com/video/BV1Bg4y1q7NZ
   - use gravels around the drain https://youtu.be/SzwRYma7W4c?t=128
@@ -401,68 +411,27 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - toliet needs to stay in it's own room
   - not together with anything, not shower, not washing machine
   - needs a powerful sparyer for its own
-  - which flush type shoud I use? siphon toliet?
-- wall hung vanity https://youtu.be/AWFtNaEyfCk?t=9
+- wet and dry zone
+  - shower is definetly wet zone, so requires its own drain and floor water barrier
+- why not a all-in-one portable prefabricated toliet unit?
+
+  - the floor is above the room floor, not safe when floor is wet
+  - I don't think I need a door for the toliet
+  - I want to share a exhaust fan with shower
+  - so some simple half-transparent 1.5m glass screen will do
+  - I will build everything(shower/toliet) right on the floor and use black frame glass as seperators
+
+- wall hung vanity
+  - just a small basin, no need for extra space, otherwise more clean work
+  - no drawer or cabinet needed, install floating shelves on the side
 - hang everything
 - vent
   - https://youtu.be/PqrZWd_CQIE?t=54
   - install a exhaust fan https://youtu.be/AXP4uhIbmyQ?t=806
 
-## Power
-
-- switch/sockets need to be 36inches away from water https://youtu.be/NfRuLlTp5s8?t=442
-- 漏电保护器 leakage protector is a MUST HAVE, Elon pluged a knife into a socket today.
-  - how to install a braker https://www.youtube.com/watch?v=mYJTFMqJFS4
-- how to differentiate Neutral wire, Live wire and ground wire https://www.zhihu.com/zvideo/1354431516022386688
-- 4sqmm for air conditioning, 6sqmm for heater
-  - https://zhuanlan.zhihu.com/p/71841887
-- hide cords in PVC pipe is common practice
-  - use fire-proof pipes, PVC is qualified
-  - leave enough space for air to go through
-- electric radiator can not be connected to common socket
-- fridge needs it's own low votage switch
-- power meter
-  - the number on it is how many kw you've consumed
-  - the fourth switch(red one, new) is connected to my power meter
-- the incoming power cable is 6 sq mm, so the maximum power capacity is 6 sq
-  mm, right now it is 4 sq mm(copper, installed 18years ago, recommended for 4kw usage) for outdoor cable, indoor is just 1.5 sq mm
-- how to fix cord in wall https://youtu.be/ABVi60it-uc?t=27
-- all the wiring will be done on the surface, making it easy to modify and
-  safe, check https://en.wikipedia.org/wiki/Dropped_ceiling to see the
-  possible danger of hiding cables above a false ceiling
-
-## Basic Info
-
-- Why I love the new githome
-  - no tall building in front to stop the light in winter and wind in summer
-  - septic tank in the yard
-- structure
-  - roof is build with a once piece concrete thing, felt safe walking on top
-- sizes
-  - yard: 15.5x48.5 steps, one step is 60cm, so 9.3x29.1sm=270sm
-  - wall thickness: some 48cm
-  - interior width: 470cm
-  - exterior length: some 10m
-  - so inside space is: 9mx4.7m=42.3m2
-  - ceiling height: 320cm
-
-## Kitchen
-
-- floor must be un sticky to stains, choose the right painting
-- sewer pipe 5cm diameter
-- fridge should not be put in kitchen
-  - hot, close to stove
-  - make kitchen hard to mop
-  - no need, things in fridge are usually not dirty or leaky
-  - dinning room is a good place
-- countertop with drain is life-changer, a MUST HAVE for always cooking mum
-- different height for sink and stove https://www.sohu.com/a/161454935_99890682
-- install counterop https://www.youtube.com/watch?v=HLi0ZVJKzYM
-- build a U shape counter with one side against the north wall
-  - lighting should not be a problem, the north side gets a windows, the west and east side all gets sunshine from south
-
 ## toliet
 
+- how to install wall hung toliet https://youtu.be/UNw3Sy4uP1Y?t=114
 - most simple design https://www.bilibili.com/video/BV1L741177RV/
   - if you are not to sensitive to the smell, all it takes is a well https://www.bilibili.com/video/BV197411T7qy no sewer or septic tank needed.
 - air ventilation and pipe slope https://youtu.be/e8YpYmGTigI?t=180
@@ -515,6 +484,58 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - https://www.youtube.com/watch?v=xQT_ZasSdos How to Cut a Pass-Through in a Load Bearing Wall | Ask This Old House
 - How to chase a wall and fit a metal back box - Chasing a Concrete Wall https://www.youtube.com/watch?v=g_spnVPsJ4I
 
+## Power
+
+- switch/sockets need to be 36inches away from water https://youtu.be/NfRuLlTp5s8?t=442
+- 漏电保护器 leakage protector is a MUST HAVE, Elon pluged a knife into a socket today.
+  - how to install a braker https://www.youtube.com/watch?v=mYJTFMqJFS4
+- how to differentiate Neutral wire, Live wire and ground wire https://www.zhihu.com/zvideo/1354431516022386688
+- 4sqmm for air conditioning, 6sqmm for heater
+  - https://zhuanlan.zhihu.com/p/71841887
+- hide cords in PVC pipe is common practice
+  - use fire-proof pipes, PVC is qualified
+  - leave enough space for air to go through
+- electric radiator can not be connected to common socket
+- fridge needs it's own low votage switch
+- power meter
+  - the number on it is how many kw you've consumed
+  - the fourth switch(red one, new) is connected to my power meter
+- the incoming power cable is 6 sq mm, so the maximum power capacity is 6 sq
+  mm, right now it is 4 sq mm(copper, installed 18years ago, recommended for 4kw usage) for outdoor cable, indoor is just 1.5 sq mm
+- how to fix cord in wall https://youtu.be/ABVi60it-uc?t=27
+- all the wiring will be done on the surface, making it easy to modify and
+  safe, check https://en.wikipedia.org/wiki/Dropped_ceiling to see the
+  possible danger of hiding cables above a false ceiling
+
+## Basic Info
+
+- Why I love the new githome
+  - no tall building in front to stop the light in winter and wind in summer
+  - septic tank in the yard
+- structure
+  - roof is build with a once piece concrete thing, felt safe walking on top
+- sizes
+  - yard: 15.5x48.5 steps, one step is 60cm, so 9.3x29.1sm=270sm
+  - wall thickness: some 48cm
+  - interior width: 470cm
+  - exterior length: some 10m
+  - so inside space is: 9mx4.7m=42.3m2
+  - ceiling height: 320cm
+
+## Kitchen
+
+- floor must be un sticky to stains, choose the right painting
+- have two bowl sink, mum will use one as her swill bucket
+- fridge should not be put in kitchen
+  - hot, close to stove
+  - make kitchen hard to mop
+  - no need, things in fridge are usually not dirty or leaky
+  - dinning room is a good place
+- different height for sink and stove https://www.sohu.com/a/161454935_99890682
+- install counterop https://www.youtube.com/watch?v=HLi0ZVJKzYM
+- build a U shape counter with one side against the north wall
+  - lighting should not be a problem, the north side gets a windows, the west and east side all gets sunshine from south
+
 ## cleaning system
 
 - hang everything
@@ -528,6 +549,8 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 
 ## interior surface (walls, ceiling and floors)
 
+- use water-proof plaster for kitchen/bathroom
+  - https://www.bilibili.com/video/BV1oU4y1H7R4
 - ceiling basic info
 
   - beam to floor height: 259cm
@@ -598,17 +621,17 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - 130(per sqm)x2RMB for sand
 - 5(per bag)x2RMB for graval
 - PVC pipe
-  - 50mm pipe 20RMB/4m x3 total: 60RMB
+  - 50mm pipe 20RMB/4m x7 total: 140RMB
   - 50mm vent cowl 3.8RMB
   - 75mm diameter 36RMB/4m x2 total: 72RMB
   - 110mm diameter 50RMB/4m x3 total: 150RMB
   - 110mm 45degree elbow 5rmb x 2 total: 10RMB
   - 50mm T with lid 4EMB
+  - PVC Glue: 15RMB(for the big can) and 5RMB(for the small)
+  - 50mm T(三通) 3RMB x 2 total: 6RMB
   - to buy
-    - 50mm pipe(for vent) x4
     - 50mm direct connector(直连) x 4
     - 50mm 90degree elbow（90 度弯头） x 6
-    - 50mm T(三通) x 5
     - 50mm cap（管帽） x 2
     - 50mm P trap with checkout(P 型检查口存水弯) x 2
     - 50mm wye（斜三通） x 4
