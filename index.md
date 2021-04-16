@@ -188,4 +188,12 @@ Day off the physical work.
 
 Knock a rock off the foundation. Put more bricks in the drywell, water table is too high, my drywell will be turned to a leach field. Hammer tested the PVC pipe, not as strong as PE pipe, but still not very easy to crash.
 
-[img](imgs/20210414)
+[img](imgs/20210415)
+
+## 20210414 Drywell
+
+One day later, the water only low down 1cm or so, not too good. After cutting
+foundation stone with grinder and clay inlet pipe with an ax, now I get the
+grade I need for the main drain pipe.
+
+[img](imgs/20210415)

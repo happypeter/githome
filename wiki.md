@@ -1,3 +1,7 @@
+## style
+
+- warm color is great https://youtu.be/9By4mh34Rvg?t=154
+
 ## Design Goals
 
 - try to build everything modular/portable/usable as possible, cause I don't know when the gov will take down the whole village
@@ -101,6 +105,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - laundry drain 50mm
 - toliet
   - from the center of the drain hole to side wall 15inch, the the back finished wall 12inch
+    - I will make it 40cm to the finished wall, 48cm to the unfinished wall
     - https://hammerpedia.clickfunnels.com/order-form
   - don't use sanitary tee horizontally https://youtu.be/xpsLXmntINE?t=105
     - use these https://youtu.be/w5fMZBRtQ24?t=132 for horizontally connect two pipes
@@ -142,6 +147,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - cleanouts
 
   - where to have them https://youtu.be/bbqZ12QhoY4?t=215
+  - right out of house https://youtu.be/Qbf6r3CL8Fg?t=348
 
 - kitchen
   - silicone to glue strainer https://youtu.be/VqBAMEbo-OE?t=109
@@ -168,6 +174,8 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 
 - DONT have a drain you don't use very often, when the water seal dries, it is
   a smell hole.
+- use gravels to build a strong foundation for the pipes
+  - https://youtu.be/Qbf6r3CL8Fg?t=144
 - septic tank
   - seal pipe penetration https://www.youtube.com/watch?v=QGLTaFf9Z1g
   - well cover the main access top hole to keep rain water away
@@ -182,7 +190,15 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - https://www.youtube.com/watch?v=Ys26t1daYjw
 - drywell
   - make sure the drywell is easily accessible during rain season, native people sometimes needs to pump the water out
-  - add a cleanout on the outlet pipe is a good idea https://youtu.be/qWAAZpEMN20?t=135
+  - because the water table is not deep enough, I need to do two things: NO.1 turn my drywell to leach field with a pumpable/checkable container(a distribution box, in the term of leach field) at the outlet of septic tank. NO.2 put shower/washing machine water to the septic tank, cause the tank is huge.
+  - two much water is not good for septic tank, espeically with chemicals killing bacteria.
+    - https://www.hometalk.com/44297189/q-is-it-ok-to-connect-washing-machine-to-septic-tank 'Bleach and drain cleaner is very bad for the bacteria'
+    - 'normal amounts do not affect the proper operation of household sewage treatment systems. However, excessive quantities can be harmful.' https://alseptic.com/septic-system-dos-donts/
+  - leach field
+    - the idea is keep the dirt away from the gravels https://youtu.be/SjZ95sGaD-k?t=485
+    - a filter is a MUST if you want a leach filed rather than a drywell https://youtu.be/Qbf6r3CL8Fg?t=449
+    - use lots of gravels https://youtu.be/bBhLlkhaWY4?t=467
+    - cover the gravels with cloth on the top https://youtu.be/LN4-ZcDuSUs?t=573
   - build with bricks https://www.bilibili.com/video/BV13t4y1Q7pW
     - only need concrete for the top https://www.bilibili.com/video/BV1Bg4y1q7NZ
   - use gravels around the drain https://youtu.be/SzwRYma7W4c?t=128
@@ -611,6 +627,13 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     - people is building and have done a lot of strong houses, should be cheap to rent
   - even you build with shipping container, you still needs a strong foundation and all the plumbing, and yard and its walls, that's not go without cost.
 
+## Shed
+
+- put it in the west side of the house to keep the wall from setting sun
+- for bikes
+- tools
+- make it portable
+
 ## Cost
 
 - 4000RMB/year for rent
@@ -645,4 +668,4 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   githome is around 120sqm(wall surface), so it's 3000RMB for water proof
   painting.
 - May Hire: 20RMB/sqm for the false ceiling with plaster board.
-- Excavator for cow feeders, trench, drywell 900RMB
+- Excavator for cow feeders, trench, tll 900RMB
