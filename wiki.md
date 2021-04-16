@@ -197,6 +197,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - leach field
     - the idea is keep the dirt away from the gravels https://youtu.be/SjZ95sGaD-k?t=485
     - a filter is a MUST if you want a leach filed rather than a drywell https://youtu.be/Qbf6r3CL8Fg?t=449
+    - maybe I should build concrete pipe connect to the leach field covered with slab, then I don't need to worry about dirt/waste plug the tiny holes on leach field pipes
     - use lots of gravels https://youtu.be/bBhLlkhaWY4?t=467
     - cover the gravels with cloth on the top https://youtu.be/LN4-ZcDuSUs?t=573
   - build with bricks https://www.bilibili.com/video/BV13t4y1Q7pW
@@ -280,6 +281,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     - I may need to install a professional heat recovery ventilator to push the air flow and
       keep bugs away
 - roof insulation, replace the clay layer with foam/rockfiber, https://youtu.be/ibjiChTQZEI?t=105
+  - masterLi: cover everything with drywall, seal the drywall perfectly, that's means no venting for the beams and rafters, he's confident that will cause no trouble. I like the idea, plasterboard is now another layer of insulation. Now the false ceiling is part of the roof, so I don't have a attic space really, just a compact roof. But, for security, I may check the wood behind the plasterboard from time to time.
 - material
   - wear mask and long sleeves to install both firberglass and stonewool https://youtu.be/wH4Oyj4fNxQ?t=503
   - fiberglass holds the water BAD https://youtu.be/5OEvZXSNaoY?t=209
@@ -302,7 +304,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - the biggest heat killer winter is air flow https://youtu.be/BDTYAz6pEHY?t=389
   - how? https://youtu.be/vShj1l0PnF0?t=238 plastic sheets
   - air flow prevention with spray foam https://youtu.be/1BcqeQJqp08?t=135
-  - exaust fans are big enemies to sealing https://youtu.be/1BcqeQJqp08?t=586
+  - exhaust fans are big enemies to sealing https://youtu.be/1BcqeQJqp08?t=586
 - How to vent attic space?
   - my father's house use shingle vent plus gable vent, that's a lot of
     venting, that's why the attic area is always same temperature as outer
@@ -434,6 +436,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - the floor is above the room floor, not safe when floor is wet
   - I don't think I need a door for the toliet
   - I want to share a exhaust fan with shower
+    - MasterLi: hide the fan behind plasterboard(Chinese drywell, 石膏板), drill a hole on the wall, share the hole with drainline venting
   - so some simple half-transparent 1.5m glass screen will do
   - I will build everything(shower/toliet) right on the floor and use black frame glass as seperators
 
@@ -567,6 +570,11 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 
 - use water-proof plaster for kitchen/bathroom
   - https://www.bilibili.com/video/BV1oU4y1H7R4
+- use steam room board 桑拿板 for the wall
+- ceiling
+  - cover everything with drywall, wrap around beam to keep the height of the room
+  - it's a good idea brought by MasterLi
+  - as to insulation and venting, check insulation
 - ceiling basic info
 
   - beam to floor height: 259cm
@@ -579,14 +587,10 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
       - https://youtu.be/dee7g_HtMIQ?t=95
     - so the false ceiling is not for insulation
 
-- use wood frame to hold drywall for the false ceiling, so that I can nail for
+- use wood frame to hold plasterboard for the false ceiling, so that I can nail for
   lighting fixtures.
-- roof style with wood exposed
-  https://www.bilibili.com/video/BV1iK4y1b7Gj?t=11m
 - https://youtu.be/weTsUYj0FXI?t=769 condensation is the root of all evil,
   when it comes rotten wood.
-- clean old beams
-  - https://youtu.be/5yi3AbIs378?t=280
 - HOWTO build the false ceiling https://www.bilibili.com/video/BV1Sy4y1m7PY
   - wood frame is not for plasterboard ceiling, if you don't want cracks
 - About wood https://www.bilibili.com/video/BV1cy4y117Tc

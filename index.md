@@ -197,3 +197,7 @@ foundation stone with grinder and clay inlet pipe with an ax, now I get the
 grade I need for the main drain pipe.
 
 [img](imgs/20210415)
+
+## 20210414 MasterLi
+
+After last night's rain, the water level of my leach field did not raise at all, surprise! MasterLi came, he suggested use plasterboard to cover everything on the ceiling. I wanted to polish and expose some of the beams, he said the wax oil will cost a fortune. His plan is to make the plasterboard part of the compact roof, no attic space, so no need to vent. I think it is a great idea.
