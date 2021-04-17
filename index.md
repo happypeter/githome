@@ -198,6 +198,20 @@ grade I need for the main drain pipe.
 
 [img](imgs/20210415)
 
-## 20210414 MasterLi
+## 20210416 MasterLi
 
 After last night's rain, the water level of my leach field did not raise at all, surprise! MasterLi came, he suggested use plasterboard to cover everything on the ceiling. I wanted to polish and expose some of the beams, he said the wax oil will cost a fortune. His plan is to make the plasterboard part of the compact roof, no attic space, so no need to vent. I think it is a great idea.
+
+## 20210417 grade
+
+After Knocking two big rocks off the foundation. Now I finally had enough room
+for the pipes. I followed these steps to get the grade. S1. Try to get as low
+as possible at the outlet of the tank, fix one end the PVC pipe there. S2.
+Make the other end at the same level. S3. Since it is a 4m pipe, then I need
+the end close to the foundation 10cm higher, so I use two bricks above the
+original ground. S4. Get the outside end of the pipe going through the house
+wall at the same level of the S3 end. S5. Get inside the room, get the other
+end at the same level of the outside end, that is make the pipe perfectly
+horizontal. S6, since it is a 2m or so pipe, so add one brick under the pipe.
+
+[img](imgs/20210417)

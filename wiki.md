@@ -1,3 +1,17 @@
+## TODOs
+
+- tear off bathroom floor for plumping
+- move dirt out from bedroom
+- get people meausure window size
+- clean the surface of wall walls
+- buy surface enhancement glue 墙固
+- buy plasterboard and steamroom board
+- buy concrete work tools(if necessary)
+- fix the gaps and holes on the wall with cement
+- install windows
+- install boards on the walls and ceilings
+- floor heating
+
 ## style
 
 - warm color is great https://youtu.be/9By4mh34Rvg?t=154
@@ -568,9 +582,24 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 
 ## interior surface (walls, ceiling and floors)
 
+- materials
+
+  - use steam room board 桑拿板 for the wall
+    - it's perfectly OK to mix steamroom board with white
+    - so I think I will use steamroom board for kitchen and bath
+      - toliet https://www.pinterest.jp/pin/717057571924820193/
+      - kitchen ceiling https://www.pinterest.jp/pin/AZrSbmjzpQWevqzDmTWfPDUoTaw2iwwmQGSAx2HxqMv8-Wtf_9CbnyQ/
+      - bath https://www.sohu.com/a/352211714_559938 https://www.pinterest.jp/pin/351912460681803/ https://www.pinterest.jp/pin/805581452086030279/ https://www.pinterest.jp/pin/427067977167172517/
+  - kitchen wall in front of stove?
+    - use large piece of wood board, cover with some special painting or wall paper that is easy to clean
+  - I don't like Porcelain tile, cause it is not reusable
+  - can I use steamroom board in place of
+  - use 生态板 plywood if you want solid feel for the wall
+  - use plasterboard when for ceiling and where you need to open holes, cause its clean look
+  - try to use more expensiv [e wood because its reusable
+
 - use water-proof plaster for kitchen/bathroom
   - https://www.bilibili.com/video/BV1oU4y1H7R4
-- use steam room board 桑拿板 for the wall
 - ceiling
   - cover everything with drywall, wrap around beam to keep the height of the room
   - it's a good idea brought by MasterLi
@@ -605,15 +634,19 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 
 - Floor
 
+  - I still love 自流平 cement floor.
   - after finishing the base layers, give it a week before you do the hard surface
   - self leveling concrete https://www.bilibili.com/video/BV1Zv411k7zU?t=1m52s
 
 - use wood frames like a typical US home does https://youtu.be/Arkq3lLuo0U?t=476
-- use drywall for all the walls, to hide pipes and water tanks
 
-- So once the wall surface is cleaned, I don't need to apply concrete on top
-  - unless I need to enhance the structure
-  - I may install rockfiber for insulation inside dry walls
+- walls
+
+  - So once the wall surface is cleaned
+  - firstly I need to enhance the structure
+  - use wall glue 墙固 to keep the clay layer from falling in the future, as MasterLi guided.
+  - use plasterboard for all the walls, to hide pipes and water tanks
+
 - some ceilings may also use drywall
   - https://www.bilibili.com/video/BV17t4y1D74f/
 
@@ -667,9 +700,11 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     - 110mm wye（斜三通） x 2
     - 110mm 45degree elbow（45 度弯头）x 2(ordered)
     - 110mm cap(管帽) x 1
+- MaterLi
+  - 300RMB/day
 - May Hire: 240 per labor per day, may needs 7 days to finish the painting of
   githome, Putty included. If I want the meterial+labor, it is 25RMB/sqm,
   githome is around 120sqm(wall surface), so it's 3000RMB for water proof
   painting.
 - May Hire: 20RMB/sqm for the false ceiling with plaster board.
-- Excavator for cow feeders, trench, tll 900RMB
+- Excavator for cow feeders, trench, hole 900RMB
