@@ -121,14 +121,14 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - NO.6 P connects to 75mm secondary main drain line. Note: secondary main drain line is behind dry wall. That’s means the end of P can go perfectly vertically to reach the secondary main drain. 
     - fittings:  75mm a san tees, a 45degree+wye.
   - NO.7 outdoor faucet
-  - NO.8 basin for both laundry and vanity, A 50mm P trap setup. 
-    - Fittings: 50mm, a 90degree elbow, a P trap, a san tee, a 45degree, 
+  - NO.8 vanity, A 50mm P trap setup. 
+    - Fittings: 50mm, a 90degree elbow, a P trap, a san tee, a 45degree+wye, 
   - NO.9 shower drain, build the main P trap here, that other  floor drains share. Note: outlet of the P face north, so that vent line can touch the wall. 
     - Fittings: a 75mm P trap
   - NO.10 vent between toliet and washing machine, to avoid, washing flush, destory toliet water seal
-    - Fittings:  50mm a 90degree elbow, 75mm san tee connected to 50mm
-  - NO.11 kitchen and vanity basin drain join here
-    - Fittings:  50mm wye and 45degree set, 75mm wye and 45degree set
+    - Fittings: 50mm a 90degree elbow, 75mm san tee connected to 50mm
+  - NO.11 kitchen join here
+    - Fittings: 110-75mm wye and 45degree set
 
 - drain pipe length
   - from house foundation hole to the inlet of septic tank, 4.2m

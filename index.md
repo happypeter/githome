@@ -215,3 +215,8 @@ end at the same level of the outside end, that is make the pipe perfectly
 horizontal. S6, since it is a 2m or so pipe, so add one brick under the pipe.
 
 [img](imgs/20210417)
+
+## 20210418 Plumping plan
+Img 1 is the plumbing plan, Img2 is the floor plan for things.
+
+[img](imgs/20210418)
