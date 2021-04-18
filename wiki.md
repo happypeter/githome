@@ -106,15 +106,42 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     - https://www.youtube.com/watch?v=g73-6j3Yzl8
 
 ## Plumping: Drain and Sewer
+- the design, as in my sketch file
+  - NO.1 kitchen pipe goes in there. 50mm pipe. 
+    - fittings: 50mm, 90degree elbow, San Tee,  50mm to 75mm connector. 75mm 45degree+Wye
+    - Don't use san tee for the vertical connect, if water reach the bottom here https://youtu.be/bbqZ12QhoY4?t=191.
+  - NO.2 bury the main drain deeper, so I can get the grade I need for 75mm secondary main drain pipe. 
+    - fittings: a 110mm Wye, a 110 to 75 connector, a 75mm 45degree 
+  - NO.3 Just a 90degree turn.
+    - fittings: 110m a wye and 45degree
+  - NO.4 Outdoor 90 degree turn and cleanout place.
+    - Fittings: a 110 cleanout, a wye and a 45degree
+  - NO.5 vent on the wall, also for exhaust fan, end of main plumping vent.
+    - Fittings: a 50mm vent mesh screen, 4 way Tee.
+  - NO.6 P connects to 75mm secondary main drain line. Note: secondary main drain line is behind dry wall. That’s means the end of P can go perfectly vertically to reach the secondary main drain. 
+    - fittings:  75mm a san tees, a 45degree+wye.
+  - NO.7 outdoor faucet
+  - NO.8 basin for both laundry and vanity, A 50mm P trap setup. 
+    - Fittings: 50mm, a 90degree elbow, a P trap, a san tee, a 45degree, 
+  - NO.9 shower drain, build the main P trap here, that other  floor drains share. Note: outlet of the P face north, so that vent line can touch the wall. 
+    - Fittings: a 75mm P trap
+  - NO.10 vent between toliet and washing machine, to avoid, washing flush, destory toliet water seal
+    - Fittings:  50mm a 90degree elbow, 75mm san tee connected to 50mm
+  - NO.11 kitchen and vanity basin drain join here
+    - Fittings:  50mm wye and 45degree set, 75mm wye and 45degree set
+
 - drain pipe length
   - from house foundation hole to the inlet of septic tank, 4.2m
   - from house foundation hole to the inlet of drywell, 7m
 - pipe diamaters, ref: https://m.pchouse.com.cn/x/275/2759828.html
   - toliet: 110mm outside diameter PVC
-  - main drain: 110mm
-  - main vent: 50mm
-  - kitchen: 50mm
-  - laundry: 50mm
+  - main drain line: 110mm
+  - secondary main line: 75mm
+  - vent line: 50mm
+  - kitchen: 50mm, connected to use secondary main line
+  - toliet floor drain: 50mm, connected to washing machine drain
+  - shower floor drain: 50mm, connected to washing machine drain
+  - washing machine drain: use secondary main line
 - Use P, S trap is not safe
   - https://youtu.be/Y2o8upCxcqA?t=256
   - https://youtu.be/zGofkKOP2SU?t=102
@@ -123,7 +150,12 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - where to have them https://youtu.be/bbqZ12QhoY4?t=215
   - right out of house https://youtu.be/Qbf6r3CL8Fg?t=348
   - toliet cleanout https://youtu.be/bbqZ12QhoY4?t=62
-- vents
+- traps and vents
+  - add filter at the end the vent line to keep small bugs away
+  - three floor drains(washing machine, toliet, shower) share one P trap
+    - that is the the P for the middle of the three drain, the one used by washing machine, like https://www.quartzbyaco.com.au/how-to-design-a-bathroom-drainage-system/
+    - don't bother to have a cleanout at the bottom/turn the P, make sure the drain cover of the middle/washing machine drain is easy to remove.
+    - floor drains tend to dry very often, except the shower floor drain. Sharing means there is always water seal.
   - septic tank and toliet share one vent
   - have vents go alone the roof horizontally is a way to share https://youtu.be/C9Keoe0nh_E?t=102
   - kitchen use one vent, one vent between toliet and washing machine so they share one vent
@@ -241,7 +273,6 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - incoming water main valve and filter https://www.bilibili.com/video/BV1Uv411B7g1
 
 ## Insulation
-
 - why I can not have insulation false ceiling?
   - once I have false ceiling. ventilation is MUST in winter to prevent the
     wood to rot
@@ -267,10 +298,8 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     - 'closed cell spray foam' is special, the rest are all about the same r
       value, around 3.6
 - “Houses need to BREATHE!” - Shut your filthy mouth https://www.youtube.com/watch?v=CIcrXut_EFA
-
   - we need the house be perfectly air-tight, then we need controlled
     ventilation system
-
 - four layers to control
   - water, air, Vapor, Thermal(insulation)
 - why well-sealed false ceiling and everything?
@@ -322,8 +351,6 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     control ice daming. (But when the snow is too thick, it will have its own r
     value, and ice daming will happen again, but that's not sth I need to worry
     about)
-
-- why NOT vented attic?
 - how to insulate without attic?
   - have a nice compact roof(as the house was built)
   - insulation on top of roof(with air insulation and barrier) also works https://youtu.be/Ld8pzIu45F8?t=1739
@@ -342,9 +369,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - Wangpeng suggested if we have thick wall, we don't really need wall
     insulation so much. I aggree, at least not as key as ceiling/floor/windows.
 - ceiling
-
   - aviod condensation/ventilation
-
     - old houses don't need ventilation to avoid moisture, partly because they
       have chimneys https://youtu.be/QEPzyrynU6Q?t=299
       - and also because the glazing is poor and foam is lacking, the inside
@@ -360,7 +385,6 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - depending on where you have a vent to outside the house in your attic
     space, you maybe need to do insulation on ceiling or false ceiling
     - https://youtu.be/fJ9-mCl6Luk?t=220
-
 - Spray Polyurethane Foam
   - https://www.youtube.com/watch?v=6-xPIgRLuBE
   - http://www.xdbw11.com/15591418-Products-16986822/
@@ -387,32 +411,27 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - paste a film on top of the roof, search 拼多多 '防晒隔热膜'
 
 ## laundry
-
 - wall hung hampers
 - hang basins and everything
 
 ## Living Room
-
 - living room also bedroom, so wo need a versatile bed
 - a bed https://youtu.be/0df9v3xCzeU?t=85
 - sofa bed https://youtu.be/XwjFD6romAY?t=43
 
 ## Bathroom
-
 - toliet needs to stay in it's own room
   - not together with anything, not shower, not washing machine
   - needs a powerful sparyer for its own
 - wet and dry zone
   - shower is definetly wet zone, so requires its own drain and floor water barrier
 - why not a all-in-one portable prefabricated toliet unit?
-
   - the floor is above the room floor, not safe when floor is wet
   - I don't think I need a door for the toliet
   - I want to share a exhaust fan with shower
     - MasterLi: hide the fan behind plasterboard(Chinese drywell, 石膏板), drill a hole on the wall, share the hole with drainline venting
   - so some simple half-transparent 1.5m glass screen will do
   - I will build everything(shower/toliet) right on the floor and use black frame glass as seperators
-
 - wall hung vanity
   - just a small basin, no need for extra space, otherwise more clean work
   - no drawer or cabinet needed, install floating shelves on the side
@@ -422,7 +441,6 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - install a exhaust fan https://youtu.be/AXP4uhIbmyQ?t=806
 
 ## toliet
-
 - how to install wall hung toliet https://youtu.be/UNw3Sy4uP1Y?t=114
 - most simple design https://www.bilibili.com/video/BV1L741177RV/
   - if you are not to sensitive to the smell, all it takes is a well https://www.bilibili.com/video/BV197411T7qy no sewer or septic tank needed.
@@ -469,7 +487,6 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - gray walls with a bit white https://www.pinterest.jp/pin/68742177999/
   - expose the stones https://www.pinterest.jp/pin/80290805840569948/
 - protect water damaged wall https://www.bilibili.com/video/BV12a4y157WT
-
 - moisture protection
   - https://zhidao.baidu.com/question/217846722.html
 - cut a hole on a load-bearing wall
@@ -477,7 +494,6 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - How to chase a wall and fit a metal back box - Chasing a Concrete Wall https://www.youtube.com/watch?v=g_spnVPsJ4I
 
 ## Power
-
 - switch/sockets need to be 36inches away from water https://youtu.be/NfRuLlTp5s8?t=442
 - 漏电保护器 leakage protector is a MUST HAVE, Elon pluged a knife into a socket today.
   - how to install a braker https://www.youtube.com/watch?v=mYJTFMqJFS4
@@ -500,7 +516,6 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   possible danger of hiding cables above a false ceiling
 
 ## Basic Info
-
 - Why I love the new githome
   - no tall building in front to stop the light in winter and wind in summer
   - septic tank in the yard
@@ -515,7 +530,6 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - ceiling height: 320cm
 
 ## Kitchen
-
 - floor must be un sticky to stains, choose the right painting
 - have two bowl sink, mum will use one as her swill bucket
 - fridge should not be put in kitchen
@@ -529,7 +543,6 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - lighting should not be a problem, the north side gets a windows, the west and east side all gets sunshine from south
 
 ## cleaning system
-
 - hang everything
   - including toliet
 - mop
@@ -540,9 +553,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - with filter and drain at the bottom of course
 
 ## interior surface (walls, ceiling and floors)
-
 - materials
-
   - use steam room board 桑拿板 for the wall
     - it's perfectly OK to mix steamroom board with white
     - so I think I will use steamroom board for kitchen and bath
@@ -564,17 +575,14 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - it's a good idea brought by MasterLi
   - as to insulation and venting, check insulation
 - ceiling basic info
-
   - beam to floor height: 259cm
   - rafter: 12cm diameter and 172cm long
-
   - structure: fix rotten rafters, support the broken beam with a pillar
   - aesthetic: hide everything(beams, rafters, cable pipes) with platerboard ceiling
     - leave a vent on the ceiling, let room air go freely to the attic space, so
       we don't need real ventilation
       - https://youtu.be/dee7g_HtMIQ?t=95
     - so the false ceiling is not for insulation
-
 - use wood frame to hold plasterboard for the false ceiling, so that I can nail for
   lighting fixtures.
 - https://youtu.be/weTsUYj0FXI?t=769 condensation is the root of all evil,
@@ -590,32 +598,25 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - the roof was built with fly ash, very good heat isulator, strong enough as
   part of the sturcture, I went to 慕义寨, checked other old house, the roofs
   are all in good shape.
-
 - Floor
-
   - I still love 自流平 cement floor.
   - after finishing the base layers, give it a week before you do the hard surface
   - self leveling concrete https://www.bilibili.com/video/BV1Zv411k7zU?t=1m52s
-
 - use wood frames like a typical US home does https://youtu.be/Arkq3lLuo0U?t=476
-
 - walls
-
   - So once the wall surface is cleaned
   - firstly I need to enhance the structure
   - use wall glue 墙固 to keep the clay layer from falling in the future, as MasterLi guided.
   - use plasterboard for all the walls, to hide pipes and water tanks
-
 - some ceilings may also use drywall
   - https://www.bilibili.com/video/BV17t4y1D74f/
 
 ## windows and doors
-
 - use black/drakgray windows, because the house aleadys have a lot of white shape or lines decorations, black is kind of invisible, does not add more details
 - pocket doors or barn doors are nice interior options
 
 ## Portable Home? or not
-
+- 深河大集 bazzar is the place to buy second hand shipping container houses
 - serious considering build with shipping containers https://www.youtube.com/watch?v=LvUI3-0QkI0
   - purchasable in china https://www.bilibili.com/video/BV1dK411J7kS
 - drawbacks
@@ -624,14 +625,12 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - even you build with shipping container, you still needs a strong foundation and all the plumbing, and yard and its walls, that's not go without cost.
 
 ## Shed
-
 - put it in the west side of the house to keep the wall from setting sun
 - for bikes
 - tools
 - make it portable
 
 ## Cost
-
 - 4000RMB/year for rent
 - 400RMB/year for cleaning
 - 159RMB for the ladder
@@ -652,10 +651,10 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     - 50mm direct connector(直连) x 4
     - 50mm 90degree elbow（90 度弯头） x 6
     - 50mm cap（管帽） x 2
-    - 50mm P trap with checkout(P 型检查口存水弯) x 2
+    - 50mm P trap with cleanout(P 型检查口存水弯) x 2
     - 50mm wye（斜三通） x 4
-    - 50mm stand checkout x 1
-    - 75mm P trap with checkouts x 1
+    - 50mm stand cleanout x 1
+    - 75mm P trap with cleanouts x 1
     - 110mm wye（斜三通） x 2
     - 110mm 45degree elbow（45 度弯头）x 2(ordered)
     - 110mm cap(管帽) x 1
