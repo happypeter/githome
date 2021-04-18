@@ -1,6 +1,6 @@
 ## TODOs
 
-- tear off bathroom floor for plumping
+- tear off bathroom floor for plumbing
 - move dirt out from bedroom
 - get people meausure window size
 - buy vapor barrier film
@@ -105,7 +105,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - how to break the wall, bigger windows https://youtu.be/3nmK8qZzOsU?t=388
     - https://www.youtube.com/watch?v=g73-6j3Yzl8
 
-## Plumping: Drain and Sewer
+## Plumbing: Drain and Sewer
 - the design, as in my sketch file
   - NO.1 kitchen pipe goes in there. 50mm pipe. 
     - fittings: 50mm, 90degree elbow, San Tee,  50mm to 75mm connector. 75mm 45degree+Wye
@@ -116,7 +116,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     - fittings: 110m a wye and 45degree
   - NO.4 Outdoor 90 degree turn and cleanout place.
     - Fittings: a 110 cleanout, a wye and a 45degree
-  - NO.5 vent on the wall, also for exhaust fan, end of main plumping vent.
+  - NO.5 vent on the wall, also for exhaust fan, end of main plumbing vent.
     - Fittings: a 50mm vent mesh screen, 4 way Tee.
   - NO.6 P connects to 75mm secondary main drain line. Note: secondary main drain line is behind dry wall. That’s means the end of P can go perfectly vertically to reach the secondary main drain. 
     - fittings:  75mm a san tees, a 45degree+wye.
@@ -220,7 +220,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - DIY concrete slab https://www.youtube.com/watch?v=Ys26t1daYjw
     - use lots of gravels, and you should keep the dirt away from the gravels https://youtu.be/SjZ95sGaD-k?t=485 I don't use cloth, but slab.
 
-## Plumping: incoming water/water supply
+## Plumbing: incoming water/water supply
 - prefilter
   - one day maybe I will get a after-filter https://youtu.be/QLm89HA4EFU?t=107
   - for big particals, sand, rust...these things are not just bad for human,
@@ -447,7 +447,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - air ventilation and pipe slope https://youtu.be/e8YpYmGTigI?t=180
   - https://youtu.be/AEJ9tJTs7ro?t=66
 - The ideal slope of any drain line is ¼ inch per foot(12inch) of pipe.
-  - any plumping fixture needs a trap to keep the smell away https://youtu.be/gqwAETNyTnE?t=348
+  - any plumbing fixture needs a trap to keep the smell away https://youtu.be/gqwAETNyTnE?t=348
   - any trap needs a venting https://youtu.be/gqwAETNyTnE?t=357
     - traps can share one venting
   - still need a indoor toliet for the baby
