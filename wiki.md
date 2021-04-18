@@ -3,6 +3,7 @@
 - tear off bathroom floor for plumping
 - move dirt out from bedroom
 - get people meausure window size
+- buy vapor barrier film
 - clean the surface of wall walls
 - buy surface enhancement glue 墙固
 - buy plasterboard and steamroom board
@@ -104,178 +105,141 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - how to break the wall, bigger windows https://youtu.be/3nmK8qZzOsU?t=388
     - https://www.youtube.com/watch?v=g73-6j3Yzl8
 
-## Plumping
-
-- incoming water must come into the yard from west
-  - I became convinced of this after I did trenches for the sewer.
-- sewer pipe length
+## Plumping: Drain and Sewer
+- drain pipe length
   - from house foundation hole to the inlet of septic tank, 4.2m
   - from house foundation hole to the inlet of drywell, 7m
 - pipe diamaters, ref: https://m.pchouse.com.cn/x/275/2759828.html
-  - toliet
-    - use 110mm outside diameter PVC
-  - kitchen 75mm
+  - toliet: 110mm outside diameter PVC
+  - main drain: 110mm
   - main vent: 50mm
-  - laundry drain 50mm
-- toliet
-  - from the center of the drain hole to side wall 15inch, the the back finished wall 12inch
-    - I will make it 40cm to the finished wall, 48cm to the unfinished wall
-    - https://hammerpedia.clickfunnels.com/order-form
-  - don't use sanitary tee horizontally https://youtu.be/xpsLXmntINE?t=105
-    - use these https://youtu.be/w5fMZBRtQ24?t=132 for horizontally connect two pipes
-  - use 45 degree if you want to turn https://youtu.be/xpsLXmntINE?t=113
-  - flange and pipe dia are different https://youtu.be/bbqZ12QhoY4?t=161
-  - https://www.youtube.com/watch?v=AEJ9tJTs7ro
-- laundry
-  - use P for everything https://youtu.be/xpsLXmntINE?t=13
-  - you need a vent close to washing machine https://youtu.be/Y2o8upCxcqA
-- vent
-  - how many vents do I need? can kitchen, laundry and toliet share man vent?
+  - kitchen: 50mm
+  - laundry: 50mm
+- Use P, S trap is not safe
+  - https://youtu.be/Y2o8upCxcqA?t=256
+  - https://youtu.be/zGofkKOP2SU?t=102
+  - https://trustfourstar.com/what-is-a-p-trap-for-sinks
+- cleanouts
+  - where to have them https://youtu.be/bbqZ12QhoY4?t=215
+  - right out of house https://youtu.be/Qbf6r3CL8Fg?t=348
+  - toliet cleanout https://youtu.be/bbqZ12QhoY4?t=62
+- vents
+  - share vents
     - septic tank and toliet share one vent
-    - I don't need a vent at the location where pipes go out of the house and where chimeny stands
-      - all we need is to connect all the vents together, go the wall to the chimeny
     - have vents go alone the roof horizontally is a way to share https://youtu.be/C9Keoe0nh_E?t=102
-    - I will try hard to share vents, cause otherwise I need to use another open chimney, which leads to more heat loss in winter
-    - kitchen use one vent, one vent between toliet and washing machine
-      - they don't need to go to roof, just taller than the sink
-      - drill a hole, just under the countertop(so that the pipes are hidden under the countertop) to connect the two vents, then they go together to the main vent
-    - septic tank has one vent, that is the main vent, and all the vents connect to, go through chimney above the roof
-    - I will first let the kitchen sink go without it's own vent, it's 75mm connecting to 110mm, must be some room for air
-      - but I will make it possible to add vent, if things do not turn out right
-  - avode vent below flood level https://youtu.be/xpsLXmntINE?t=243
+    - kitchen use one vent, one vent between toliet and washing machine so they share one vent
+  - avoid vent below flood level https://youtu.be/xpsLXmntINE?t=243
   - use san tee to join vertial and horizontal https://youtu.be/bbqZ12QhoY4?t=325
-  - 1.5 inch according to USA code https://youtu.be/bbqZ12QhoY4?t=254
-  - use chimney for vent, note, the vent top needs to be higher than the chimney, in case snow plug the chimney
-    - Maybe I should not hide vent pipe in the chimney, hard to fix, hard to do insulation
-      - I can just expose it inside room, let it go into chimey only when it gets close to the room
-    - if the main pipe is hidden in the wall, how I can connect another vent(from kitchen) pipe to it?
-  - S trap is not safe https://youtu.be/Y2o8upCxcqA?t=256
-    - change it into P https://youtu.be/zGofkKOP2SU?t=102
-  - wikipedia:'This is usually avoided by venting the drain pipes downstream of the trap'
-  - https://trustfourstar.com/what-is-a-p-trap-for-sinks A p-trap should be installed where possible because p-traps can be attached to a vented drain pipe where s-traps cannot be vented.
+  - use 50mm pipes for the vent(1.5 inch according to USA code https://youtu.be/bbqZ12QhoY4?
   - you can have multiple vents all connected to your main vent https://youtu.be/Y2o8upCxcqA?t=164
     - you need grade for the connecton https://youtu.be/bbqZ12QhoY4?t=284
     - or you can share one vent, but you need thicker pipes(drain pipes, not vent pipes) https://youtu.be/gqwAETNyTnE?t=418
-  - the main vent outlet should not be too big, otherwise strong wind may
-    lead to bounce of toliet water https://youtu.be/Y2o8upCxcqA?t=202
-- cleanouts
-
-  - where to have them https://youtu.be/bbqZ12QhoY4?t=215
-  - right out of house https://youtu.be/Qbf6r3CL8Fg?t=348
-
-- kitchen
-  - silicone to glue strainer https://youtu.be/VqBAMEbo-OE?t=109
-- general
-  - don't use two tees together, use double tee https://youtu.be/xpsLXmntINE?t=214
-  - don't make too big slope, you will siphone out your p-trap https://youtu.be/xpsLXmntINE?t=235
-  - don't use short radius 90 degree fittings(for toliet or vent, short ones are OK) https://youtu.be/xpsLXmntINE?t=395
 - how to glue PVC
   - lay all pipes and fittings on site, then cut
   - wear water proof gloves for the glue
   - use grinder to get round edge of pipe wall for esay pluging in
   - use grinder to cut pipes https://www.bilibili.com/video/BV1rk4y1k7pw
   - the glue will melt the pipe, so make the pipe surface clean before applying the glue, use right glue for the pipe
-  - push to as far as you can go, trun the pipe a bit to make glue even, hold for 5 seconds https://youtu.be/VqBAMEbo-OE?t=87
+  - push to as far as you can go, trun the pipe a bit to make glue even, hold for 5 seconds https://youtu.be/VqBAMEbo-OE?t=87ß
+- DONTs
+  - don't expose pipes outside the finished walls, otherwise how can you install a cabinet neatly
+  - don't use the main vent outlet too big, otherwise strong wind may
+    lead to bounce of toliet water https://youtu.be/Y2o8upCxcqA?t=202
+  - don't use chimney as main vent, it is upward facing, lose most heat, not easy to install one-way valve
+    - I will seal all the chimneys before winter
+  - don't have a drain you don't use very often, when the water seal dries, it is
+    a smell hole.
+  - don't use two tees together, use double tee https://youtu.be/xpsLXmntINE?t=214
+  - don't make too big slope, you will siphone out your p-trap https://youtu.be/xpsLXmntINE?t=235
+  - don't use short radius 90 degree fittings(for toliet or vent, short ones are OK) https://youtu.be/xpsLXmntINE?t=395
+  - don't use sanitary tee horizontally https://youtu.be/xpsLXmntINE?t=105
+    - use these https://youtu.be/w5fMZBRtQ24?t=132 for horizontally connect two pipes
+    - use 45 degree if you want to turn https://youtu.be/xpsLXmntINE?t=113
+- toliet
+  - from the center of the drain hole to side wall 15inch, the the back finished wall 12inch
+    - I will make it 40cm to the finished wall, 48cm to the unfinished wall
+    - https://hammerpedia.clickfunnels.com/order-form
+- laundry
+  - use P for everything https://youtu.be/xpsLXmntINE?t=13
+  - you need a vent close to washing machine https://youtu.be/Y2o8upCxcqA
+- kitchen
+  - silicone to glue strainer https://youtu.be/VqBAMEbo-OE?t=109
 - how to bury PVC?
   - at least 900mm under ground, 100mm sand under, 300mm sand above pipe
     - https://baike.baidu.com/item/UPVC%E7%AE%A1/10346548
-- pipes should be buried in wall, otherwise how can you install a cabinet neatly
+  - use gravels to build a strong foundation for the pipes https://youtu.be/Qbf6r3CL8Fg?t=144
 - prefilter
-
   - one day maybe I will get a after-filter https://youtu.be/QLm89HA4EFU?t=107
   - for big particals, sand, rust...these things are not just bad for human,
     but also may detroy your devices.
-
-- DONT have a drain you don't use very often, when the water seal dries, it is
-  a smell hole.
-- use gravels to build a strong foundation for the pipes
-  - https://youtu.be/Qbf6r3CL8Fg?t=144
 - septic tank
+  - inlet hole center: 97cm deep, outlet hole: 100cm deep(ground to hole center)
   - seal pipe penetration https://www.youtube.com/watch?v=QGLTaFf9Z1g
   - well cover the main access top hole to keep rain water away
   - inlet pipe 110mm dia PVC
   - needs to be burried under frozen earth https://www.bilibili.com/video/BV1GE411a73c
   - https://youtu.be/ycrwcFXsAdA?t=32 Use a T pipe for outlet of a septic tank.
-  - I need a drainwell lid like this https://youtu.be/l8UvTkgmFsc?t=59
   - It's very common to have a one chamber tank, as long as you have a outlet
     pipe going uphill(in the case of my outlet pipe, the outside is 30cm or more higher then inside hole, with inside hole sink in water all the time), neither scum or sludge is a worry, cause inside water level will always be above outlet pipe hole
-  - bathroom water does not go into septic tank https://www.bilibili.com/video/BV1ZE411v7Fn
-- DIY concrete lid
-  - https://www.youtube.com/watch?v=Ys26t1daYjw
-- drywell
-  - make sure the drywell is easily accessible during rain season, native people sometimes needs to pump the water out
-  - because the water table is not deep enough, I need to do two things: NO.1 turn my drywell to leach field with a pumpable/checkable container(a distribution box, in the term of leach field) at the outlet of septic tank. NO.2 put shower/washing machine water to the septic tank, cause the tank is huge.
-  - two much water is not good for septic tank, espeically with chemicals killing bacteria.
-    - https://www.hometalk.com/44297189/q-is-it-ok-to-connect-washing-machine-to-septic-tank 'Bleach and drain cleaner is very bad for the bacteria'
-    - 'normal amounts do not affect the proper operation of household sewage treatment systems. However, excessive quantities can be harmful.' https://alseptic.com/septic-system-dos-donts/
-  - leach field
+- leach field
+  - I won't use pipes with smalls holes, I use concrete lid to cover the whole area and build concrete spacious channels underneath
+    - then I don't need to have filters for the tank outlet, and I don't need to cover the gravels with cloth on the top https://youtu.be/LN4-ZcDuSUs?t=573
+  - make the D-box really big, so I may be able to open it and clean the tunnels
+  - make sure the underground is easily accessible during rain season, native people sometimes needs to pump the water out from their drywell.
+  - why a drywell does not make it?
+    - water table not deep enough in my yard
+  - DIY concrete lid https://www.youtube.com/watch?v=Ys26t1daYjw
+  - use lots of gravels
     - the idea is keep the dirt away from the gravels https://youtu.be/SjZ95sGaD-k?t=485
-    - a filter is a MUST if you want a leach filed rather than a drywell https://youtu.be/Qbf6r3CL8Fg?t=449
-    - maybe I should build concrete pipe connect to the leach field covered with slab, then I don't need to worry about dirt/waste plug the tiny holes on leach field pipes
-    - use lots of gravels https://youtu.be/bBhLlkhaWY4?t=467
-    - cover the gravels with cloth on the top https://youtu.be/LN4-ZcDuSUs?t=573
-  - build with bricks https://www.bilibili.com/video/BV13t4y1Q7pW
-    - only need concrete for the top https://www.bilibili.com/video/BV1Bg4y1q7NZ
-  - use gravels around the drain https://youtu.be/SzwRYma7W4c?t=128
-  - this is the really professional dry well https://youtu.be/SzwRYma7W4c?t=175
+    -  https://youtu.be/bBhLlkhaWY4?t=467
   - you can build a dry well with just small stones https://youtu.be/AcIZtWarDuk?t=356
-  - input hole: 97cm deep, output hole(drain): 100cm deep(ground to hole center)
   - house foundation 75cm
   - 2m deep, 3m diameter(enough for ten years use MAYBE)
   - after two resonable big rain with the manhole uncovered, the water level
     is still at the drain, that means the I can fill safe to dump how much water I want
-- hot melt water main facuet https://www.bilibili.com/video/BV1HJ411v7Dm/?t=52s
-  - don't install water filter before the walls are painted.
-- hot melt tricks https://www.bilibili.com/video/BV1YE411w7KK
-  - PPR needs 2 seconds 260DegreeC contact with the heater
-  - rub the model surface when you are done
-  - how to do it neatly https://www.bilibili.com/video/BV1if4y1D7kM
-    - don't melt too long part of the pipe
-- use tank for kitchen and bathroom, but outdoor faucet should connect to
+
+## Plumping: incoming water/water supply
+- materials
+  - PE is more flexiable, used as outdoor water supply, ppr is harder, used as indoor water supply https://zhuanlan.zhihu.com/p/141037695
+  - my water main pipe is '白色自来水管子 PE 管' on Pinduoduo
+    - diameter 20mm(seems a bit bigger than 20mm, but much much smaller than
+    25mm)
+    - this is called 4 分管 DN15,https://www.pipestd.com/schedule-std-pipe-1-2-inch-dn15-mm/
+    - main land standard, the outside diamater is 20mm, US standard is 21.3mm
+    - it is flexible enough to be buried undergrand and adjustable to the form
+    changes overtime, therefore is widely used as long distance main city water pipe.
+    because it's flexibility, you save a lot of fittings.
+    - welding temperature 210 degree C
+  - if your supply use 4(20mm) pipe, does not make a lot sense to use 6(25mm) pipe in home https://www.163.com/dy/article/FLHV3S95054034NQ.html
+  - join metal pipe with ppr https://youtu.be/aUeyjugrdDM?t=264
+  - yard faucet. make a hole on the wall, a faucet for the yard. https://youtu.be/cALQ3PR7k30?t=29
+- hot melt 
+  - hot melt connection is much secure than threaded connection
+    - if buried in wall or ground, hot melt is a MUST
+    - https://zhuanlan.zhihu.com/p/111056055
+    - hot melt is a great way to connect PE2PE or PPR2PPR, the joint merge in
+      molecular level, the binding is even stronger than the material iteself. But
+      PE2PPR is not a good idea, since PE and PPR has different molecule. - https://www.betterpipe.com/ppr-pe-hot-melt-connection/
+  - water main facuet https://www.bilibili.com/video/BV1HJ411v7Dm/?t=52s
+  - hot melt tricks https://www.bilibili.com/video/BV1YE411w7KK
+    - PPR needs 2 seconds 260DegreeC contact with the heater
+    - rub the model surface when you are done
+    - how to do it neatly https://www.bilibili.com/video/BV1if4y1D7kM
+      - don't melt too long part of the pipe
+- water tank
+  - use tank for kitchen and bathroom, but outdoor faucet should connect to
   water main directly for two reasons: NO.1 watering the plants uses lots of
   water, tank will be drained. NO.2 when water main pressure is not enough, then
   tank can not get water, a faucet not using tank is now a backup.
-- where should bathroom water go?
-  - it contains chemicals that kills the useful bacteria in a spetic tank, so
-    do I need to build a unique tank for it?
-- for 24hr water supply, I need to install a water tank
-  - probably in the room where water main enters the house
-- use the door that water main goes through as the way to get sewer pipe out
-  - this also dictates which rooms I shall use as kitchen and bathroom
-- PTFE tape for threaded connection
-- PE is more flexiable, used as outdoor water supply, ppr is harder, used as indoor water supply
-  - https://zhuanlan.zhihu.com/p/141037695
-- hot melt connection is much secure than threaded connection
-  - if buried in wall or ground, hot melt is a MUST
-  - https://zhuanlan.zhihu.com/p/111056055
-  - hot melt is a great way to connect PE2PE or PPR2PPR, the joint merge in
-    molecular level, the binding is even stronger than the material iteself. But
-    PE2PPR is not a good idea, since PE and PPR has different molecule. - https://www.betterpipe.com/ppr-pe-hot-melt-connection/
-- my water main pipe is '白色自来水管子 PE 管' on Pinduoduo
-  - diameter 20mm(seems a bit bigger than 20mm, but much much smaller than
-    25mm)
-  - this is called 4 分管 DN15,https://www.pipestd.com/schedule-std-pipe-1-2-inch-dn15-mm/
-    - main land standard, the outside diamater is 20mm, US standard is 21.3mm
-  - it is flexible enough to be buried undergrand and adjustable to the form
-    changes overtime, therefore is widely used as long distance main city water pipe.
-    because it's flexibility, you save a lot of fittings.
-  - welding temperature 210 degree C
-- if your supply use 4(20mm) pipe, does not make a lot sense to use 6(25mm) pipe in home https://www.163.com/dy/article/FLHV3S95054034NQ.html
-- join metal pipe with ppr https://youtu.be/aUeyjugrdDM?t=264
-- my plan
-  - have a main valve at the door place, then inside rooms do all the pipes
-    surface mounted
-    - connect PE pipe for every and all the rooms, bury unused ends.
-  - make a hole on the wall, a faucet for the yard.
-    - https://youtu.be/cALQ3PR7k30?t=29
-- incoming water
-  - all the joint were well melted together, except the old PE pipe to new PE
-    pipe elbow. It's not as strong as other joint, and the melted material may
-    takes some room inside the pipe. so when have oppotunity, replace that.
-  - consider install heater and filter for water main, then you have clean and
-    hot water for the whole house https://kids.britannica.com/students/assembly/view/107334
+  - for 24hr water supply, I need to install a water tank
+    - probably in the room where water main enters the house
+- incoming water come into the yard from west side, I suppose
+  - I am convinced of this after I did trenches for the sewer.
+- have a main valve hidden inside cabinet
+- all the joint were well melted together, except the old PE pipe to new PE pipe elbow. It's not as strong as other joint, and the melted material may takes some room inside the pipe. so when have oppotunity, replace that.
+- consider install heater and filter for water main, then you have clean and hot water for the whole house https://kids.britannica.com/students/assembly/view/107334
 - https://www.youtube.com/watch?v=kSZOXjrAmrQ
-- connect pipe with melt https://www.bilibili.com/video/BV1ME411D7Qp/?spm_id_from=autoNext
+  - connect pipe with melt https://www.bilibili.com/video/BV1ME411D7Qp/?spm_id_from=autoNext
   - https://haokan.baidu.com/v?vid=2796391637940590857
   - https://www.bilibili.com/video/BV1a7411H7x5
   - https://www.bilibili.com/video/BV1dv411r77G/
@@ -295,6 +259,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     - I may need to install a professional heat recovery ventilator to push the air flow and
       keep bugs away
 - roof insulation, replace the clay layer with foam/rockfiber, https://youtu.be/ibjiChTQZEI?t=105
+  - Me: use some rockfiber, and do add a vapor barrier
   - masterLi: cover everything with drywall, seal the drywall perfectly, that's means no venting for the beams and rafters, he's confident that will cause no trouble. I like the idea, plasterboard is now another layer of insulation. Now the false ceiling is part of the roof, so I don't have a attic space really, just a compact roof. But, for security, I may check the wood behind the plasterboard from time to time.
 - material
   - wear mask and long sleeves to install both firberglass and stonewool https://youtu.be/wH4Oyj4fNxQ?t=503
