@@ -124,16 +124,14 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - right out of house https://youtu.be/Qbf6r3CL8Fg?t=348
   - toliet cleanout https://youtu.be/bbqZ12QhoY4?t=62
 - vents
-  - share vents
-    - septic tank and toliet share one vent
-    - have vents go alone the roof horizontally is a way to share https://youtu.be/C9Keoe0nh_E?t=102
-    - kitchen use one vent, one vent between toliet and washing machine so they share one vent
+  - septic tank and toliet share one vent
+  - have vents go alone the roof horizontally is a way to share https://youtu.be/C9Keoe0nh_E?t=102
+  - kitchen use one vent, one vent between toliet and washing machine so they share one vent
   - avoid vent below flood level https://youtu.be/xpsLXmntINE?t=243
   - use san tee to join vertial and horizontal https://youtu.be/bbqZ12QhoY4?t=325
   - use 50mm pipes for the vent(1.5 inch according to USA code https://youtu.be/bbqZ12QhoY4?
   - you can have multiple vents all connected to your main vent https://youtu.be/Y2o8upCxcqA?t=164
     - you need grade for the connecton https://youtu.be/bbqZ12QhoY4?t=284
-    - or you can share one vent, but you need thicker pipes(drain pipes, not vent pipes) https://youtu.be/gqwAETNyTnE?t=418
 - how to glue PVC
   - lay all pipes and fittings on site, then cut
   - wear water proof gloves for the glue
@@ -168,12 +166,9 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - at least 900mm under ground, 100mm sand under, 300mm sand above pipe
     - https://baike.baidu.com/item/UPVC%E7%AE%A1/10346548
   - use gravels to build a strong foundation for the pipes https://youtu.be/Qbf6r3CL8Fg?t=144
-- prefilter
-  - one day maybe I will get a after-filter https://youtu.be/QLm89HA4EFU?t=107
-  - for big particals, sand, rust...these things are not just bad for human,
-    but also may detroy your devices.
 - septic tank
   - inlet hole center: 97cm deep, outlet hole: 100cm deep(ground to hole center)
+  - 2m deep, 3m diameter(enough for ten years use MAYBE)
   - seal pipe penetration https://www.youtube.com/watch?v=QGLTaFf9Z1g
   - well cover the main access top hole to keep rain water away
   - inlet pipe 110mm dia PVC
@@ -188,17 +183,16 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - make sure the underground is easily accessible during rain season, native people sometimes needs to pump the water out from their drywell.
   - why a drywell does not make it?
     - water table not deep enough in my yard
-  - DIY concrete lid https://www.youtube.com/watch?v=Ys26t1daYjw
-  - use lots of gravels
-    - the idea is keep the dirt away from the gravels https://youtu.be/SjZ95sGaD-k?t=485
-    -  https://youtu.be/bBhLlkhaWY4?t=467
-  - you can build a dry well with just small stones https://youtu.be/AcIZtWarDuk?t=356
-  - house foundation 75cm
-  - 2m deep, 3m diameter(enough for ten years use MAYBE)
-  - after two resonable big rain with the manhole uncovered, the water level
-    is still at the drain, that means the I can fill safe to dump how much water I want
+    - but after two resonable big rain with the manhole uncovered, the water level
+    is still at the drain, that means the I can fill safe to dump how much water I want, so a leach filed may work well
+  - DIY concrete slab https://www.youtube.com/watch?v=Ys26t1daYjw
+    - use lots of gravels, and you should keep the dirt away from the gravels https://youtu.be/SjZ95sGaD-k?t=485 I don't use cloth, but slab.
 
 ## Plumping: incoming water/water supply
+- prefilter
+  - one day maybe I will get a after-filter https://youtu.be/QLm89HA4EFU?t=107
+  - for big particals, sand, rust...these things are not just bad for human,
+    but also may detroy your devices.
 - materials
   - PE is more flexiable, used as outdoor water supply, ppr is harder, used as indoor water supply https://zhuanlan.zhihu.com/p/141037695
   - my water main pipe is '白色自来水管子 PE 管' on Pinduoduo
