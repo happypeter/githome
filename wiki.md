@@ -106,7 +106,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     - https://www.youtube.com/watch?v=g73-6j3Yzl8
 
 ## Plumbing: Drain and Sewer
-- the design, as in my sketch file
+- the design,  https://happypeter.github.io/githome/imgs/20210418/1.jpg
   - NO.1 kitchen pipe goes in there. 50mm pipe. 
     - fittings: 50mm, 90degree elbow, San Tee,  50mm to 75mm connector. 75mm 45degree+Wye
     - Don't use san tee for the vertical connect, if water reach the bottom here https://youtu.be/bbqZ12QhoY4?t=191.
