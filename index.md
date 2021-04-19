@@ -220,3 +220,8 @@ horizontal. S6, since it is a 2m or so pipe, so add one brick under the pipe.
 Img 1 is the plumbing plan, Img2 is the floor plan for things.
 
 [img](imgs/20210418)
+
+## 20210419 leach field
+Build the foundation of my half drywell half leach field. the shape is like a Github fork icon, will cover the channels with concrete slabs.
+
+[img](imgs/20210419)
