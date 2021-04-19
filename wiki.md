@@ -106,29 +106,31 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     - https://www.youtube.com/watch?v=g73-6j3Yzl8
 
 ## Plumbing: Drain and Sewer
-- the design,  https://happypeter.github.io/githome/imgs/20210418/1.jpg
-  - NO.1 kitchen pipe goes in there. 50mm pipe. 
+- plumbing plan/the design, V2:  https://happypeter.github.io/githome/imgs/20210419/3.jpg
+  - NO.1 toliet vent, it is also for septic tank
+  - NO.2 45degree turn
+  - NO.3 45degree turn
+  - NO.4 45degree turn
+  - NO.5 45degree turn
+  - NO.6 Outdoor 90 degree turn and cleanout place.
+    - Fittings: a 110 cleanout, a wye and a 45degree
+  - NO.7 vent on the wall, also for exhaust fan, end of main plumbing vent.
+    - Fittings: a 50mm vent mesh screen, 4 way Tee.
+  - NO.8 Main P, shared by all floor vents, the cleanout of the P is the
+    toliet floor drain
+    - Fittings: 75mm P trap
+  - NO.9 P joins main drain pipe here. vent goes undergroud to the wall
+    - Fittings: 75mm a 90degree elbow, a san tee, 45degree, 110mm wye with a
+      75mm arm(PVC110*75).
+  - NO.10 shower drain pipe overpass main drain pipe.
+    - Fittings: None.
+  - NO.11 kitchen pipe goes in there. 50mm pipe. 
     - fittings: 50mm, 90degree elbow, San Tee,  50mm to 75mm connector. 75mm 45degree+Wye
     - Don't use san tee for the vertical connect, if water reach the bottom here https://youtu.be/bbqZ12QhoY4?t=191.
-  - NO.2 bury the main drain deeper, so I can get the grade I need for 75mm secondary main drain pipe. 
-    - fittings: a 110mm Wye, a 110 to 75 connector, a 75mm 45degree 
-  - NO.3 Just a 90degree turn.
-    - fittings: 110m a wye and 45degree
-  - NO.4 Outdoor 90 degree turn and cleanout place.
-    - Fittings: a 110 cleanout, a wye and a 45degree
-  - NO.5 vent on the wall, also for exhaust fan, end of main plumbing vent.
-    - Fittings: a 50mm vent mesh screen, 4 way Tee.
-  - NO.6 P connects to 75mm secondary main drain line. Note: secondary main drain line is behind dry wall. That’s means the end of P can go perfectly vertically to reach the secondary main drain. 
-    - fittings:  75mm a san tees, a 45degree+wye.
-  - NO.7 outdoor faucet
-  - NO.8 vanity, A 50mm P trap setup. 
+  - NO.12 vanity, A 50mm P trap setup.
     - Fittings: 50mm, a 90degree elbow, a P trap, a san tee, a 45degree+wye, 
-  - NO.9 shower drain, build the main P trap here, that other  floor drains share. Note: outlet of the P face north, so that vent line can touch the wall. 
-    - Fittings: a 75mm P trap
-  - NO.10 vent between toliet and washing machine, to avoid, washing flush, destory toliet water seal
-    - Fittings: 50mm a 90degree elbow, 75mm san tee connected to 50mm
-  - NO.11 kitchen join here
-    - Fittings: 110-75mm wye and 45degree set
+  - NO.13 vanity drain line joins main drain here
+    - Fittings: 50mm 45degree + `PVC110*50` Wye
 
 - drain pipe length
   - from house foundation hole to the inlet of septic tank, 4.2m
