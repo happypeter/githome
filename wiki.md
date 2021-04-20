@@ -106,30 +106,36 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     - https://www.youtube.com/watch?v=g73-6j3Yzl8
 
 ## Plumbing: Drain and Sewer
-- plumbing plan/the design, V2:  https://happypeter.github.io/githome/imgs/20210419/3.jpg
+- plumbing plan/the design, V2:  https://happypeter.github.io/githome/imgs/20210420/5.jpg
   - NO.1 toliet vent, it is also for septic tank
   - NO.2 45degree turn
   - NO.3 45degree turn
   - NO.4 45degree turn
-  - NO.5 45degree turn
-  - NO.6 Outdoor 90 degree turn and cleanout place.
-    - Fittings: a 110 cleanout, a wye and a 45degree
-  - NO.7 vent on the wall, also for exhaust fan, end of main plumbing vent.
+  - NO.5 cleanout
+  - NO.6 45degree turn
+    - Fittings: 110mm a 45degree
+  - NO.7 45degree turn
+    - Fittings: 110mm a 45degree
+  - NO.8 cleanout and water pump inlet
+    - Fittings: 110mm a cap
+  - NO.9 vent on the wall, also for exhaust fan, end of main plumbing vent.
     - Fittings: a 50mm vent mesh screen, 4 way Tee.
-  - NO.8 Main P, shared by all floor vents, the cleanout of the P is the
-    toliet floor drain
+  - NO.10 Underground P, shared by all floor drains, the inlet of the P is the
+    toliet floor drain which also serve as cleanout
     - Fittings: 75mm P trap
-  - NO.9 P joins main drain pipe here. vent goes undergroud to the wall
-    - Fittings: 75mm a 90degree elbow, a san tee, 45degree, 110mm wye with a
-      75mm arm(PVC110*75).
-  - NO.10 shower drain pipe overpass main drain pipe.
+  - NO.11 P joins main drain pipe here. vent goes undergroud to the wall
+    - Fittings: 75mm a 90degree elbow, a san tee, 45degree, 110mm wye reduced to
+      75mm(PVC110*75).
+  - NO.12 shower drain pipe overpass main drain pipe.
     - Fittings: None.
-  - NO.11 kitchen pipe goes in there. 50mm pipe. 
-    - fittings: 50mm, 90degree elbow, San Tee,  50mm to 75mm connector. 75mm 45degree+Wye
+  - NO.13 kitchen pipe goes in there. 50mm pipe. 
+    - fittings: 50mm, 90degree elbow, San Tee,  50mm to 75mm connector. 75mm 45degree x 2 
     - Don't use san tee for the vertical connect, if water reach the bottom here https://youtu.be/bbqZ12QhoY4?t=191.
-  - NO.12 vanity, A 50mm P trap setup.
+  - NO.14 kitchen pipes join main drain line
+    - fittings: 75mm 45degree, 110mm wye reduced to 75mm(PVC110*75)
+  - NO.15 vanity, A 50mm P trap setup.
     - Fittings: 50mm, a 90degree elbow, a P trap, a san tee, a 45degree+wye, 
-  - NO.13 vanity drain line joins main drain here
+  - NO.16 vanity drain line joins main drain here
     - Fittings: 50mm 45degree + `PVC110*50` Wye
 
 - drain pipe length
@@ -643,23 +649,20 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - PVC pipe
   - 50mm pipe 20RMB/4m x7 total: 140RMB
   - 50mm vent cowl 3.8RMB
+  - 50mm elbow with checkout 3.2RMB
   - 75mm diameter 36RMB/4m x2 total: 72RMB
   - 110mm diameter 50RMB/4m x3 total: 150RMB
   - 110mm 45degree elbow 5rmb x 2 total: 10RMB
+  - 110mm 45degree elbow 5.6rmb x 2 total: 11.2RMB
+  - 110mm stand cleanout 12.5RMB
+  - 110mm Tee 9.2RMB x 2 total: 18.4RMB
+  - 110mm Wye 14.82RMB x2 total: 29.64RMB
+  - 110mm cap 1.5RMB
   - 50mm T with lid 4EMB
   - PVC Glue: 15RMB(for the big can) and 5RMB(for the small)
   - 50mm T(三通) 3RMB x 2 total: 6RMB
-  - to buy
-    - 50mm direct connector(直连) x 4
-    - 50mm 90degree elbow（90 度弯头） x 6
-    - 50mm cap（管帽） x 2
-    - 50mm P trap with cleanout(P 型检查口存水弯) x 2
-    - 50mm wye（斜三通） x 4
-    - 50mm stand cleanout x 1
-    - 75mm P trap with cleanouts x 1
-    - 110mm wye（斜三通） x 2
-    - 110mm 45degree elbow（45 度弯头）x 2(ordered)
-    - 110mm cap(管帽) x 1
+- 11.2m twisted steel 44RMB  
+- gravels 1cbm 200RMB
 - MaterLi
   - 300RMB/day
 - May Hire: 240 per labor per day, may needs 7 days to finish the painting of

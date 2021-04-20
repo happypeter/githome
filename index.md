@@ -225,3 +225,8 @@ Img 1 is the plumbing plan, Img2 is the floor plan for things.
 Build the foundation of my half drywell half leach field. the shape is like a Github fork icon, will cover the channels with concrete slabs.
 
 [img](imgs/20210419)
+
+## 20210420 Concrete Slab
+Build a slab, the left concrete was used to cover some holes.
+
+[img](imgs/20210420)
