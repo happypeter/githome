@@ -142,6 +142,11 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     - Fittings: 50mm 90degree elbow, a P trap, a san tee, a 45degree                , 
   - NO.16 vanity drain line joins main drain here
     - Fittings:  `PVC110*50` Wye
+  - to use purchased fittings:
+    - 110x50 san-tee: 110 san-tee + 110x50 补芯 
+    - 50mm 90degree x 1: 45degreex2
+    - 110x75 wye x2: 110 wyex2 + 110x75 补芯 x2
+    - 75x50 45degree: 50mm 45degree + 75x50 补芯
 
 - drain pipe length
   - from house foundation hole to the inlet of septic tank, 4.2m
