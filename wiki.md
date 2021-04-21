@@ -108,21 +108,27 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 ## Plumbing: Drain and Sewer
 - plumbing plan/the design, V2:  https://happypeter.github.io/githome/imgs/20210420/5.jpg
   - NO.1 toliet vent, it is also for septic tank
+    - NOTE: since we need to do two 45 degree here, so the vertical space is limited, then we need to do vent on horizontal pipe, buy a wye PVC110*50, with the 50 hole goes uphill
+    - fittings: PVC110*50 wye, 110mm 45degreex2, 
   - NO.2 45degree turn
+    - fittings: 110mm 45degree
   - NO.3 45degree turn
+    - fittings: 110mm 45degree
   - NO.4 45degree turn
+    - fittings: 110mm 45degree
   - NO.5 cleanout
+      - fittings: 110mm tee, with cap
   - NO.6 45degree turn
     - Fittings: 110mm a 45degree
-  - NO.7 45degree turn
-    - Fittings: 110mm a 45degree
+  - NO.7 septic inlet. Scrum may accumulate in the built-in clay thick pipe here, if it get solidified, we have problem. So I need to leave a cleanout here.
+    - Fittings: 110mm a 45degree, a cleanout.
   - NO.8 cleanout and water pump inlet
     - Fittings: 110mm a cap
   - NO.9 vent on the wall, also for exhaust fan, end of main plumbing vent.
     - Fittings: a 50mm vent mesh screen, 4 way Tee.
   - NO.10 Underground P, shared by all floor drains, the inlet of the P is the
     toliet floor drain which also serve as cleanout
-    - Fittings: 75mm P trap
+    - Fittings: 75mm P trap, 4-way-Tee PVC75*50
   - NO.11 P joins main drain pipe here. vent goes undergroud to the wall
     - Fittings: 75mm a 90degree elbow, a san tee, 45degree, 110mm wye reduced to
       75mm(PVC110*75).

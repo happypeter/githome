@@ -230,3 +230,8 @@ Build the foundation of my half drywell half leach field. the shape is like a Gi
 Build a slab, the left concrete was used to cover some holes.
 
 [img](imgs/20210420)
+
+## 20210421 Glue PVC
+It's not easy, requires a lot of attention for these angles.
+
+[img](imgs/20210421)
