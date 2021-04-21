@@ -108,8 +108,8 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 ## Plumbing: Drain and Sewer
 - plumbing plan/the design, V2:  https://happypeter.github.io/githome/imgs/20210420/5.jpg
   - NO.1 toliet vent, it is also for septic tank
-    - NOTE: since we need to do two 45 degree here, so the vertical space is limited, then we need to do vent on horizontal pipe, buy a wye PVC110*50, with the 50 hole goes uphill
-    - fittings: PVC110*50 wye, 110mm 45degreex2, 
+    - Note: vent for underground P will join this vent here
+    - fittings: PVC110*50 san tee, 110mm 45degreex2, 50mm 90degree tee
   - NO.2 45degree turn
     - fittings: 110mm 45degree
   - NO.3 45degree turn
@@ -117,32 +117,31 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - NO.4 45degree turn
     - fittings: 110mm 45degree
   - NO.5 cleanout
-      - fittings: 110mm tee, with cap
+      - fittings: 110mm san tee,  cap
   - NO.6 45degree turn
-    - Fittings: 110mm a 45degree
+    - Fittings: 110mm 45degree
   - NO.7 septic inlet. Scrum may accumulate in the built-in clay thick pipe here, if it get solidified, we have problem. So I need to leave a cleanout here.
-    - Fittings: 110mm a 45degree, a cleanout.
+    - Fittings: 110mm a 45degree, a cap.
   - NO.8 cleanout and water pump inlet
-    - Fittings: 110mm a cap
+    - Fittings: 110mm cap
   - NO.9 vent on the wall, also for exhaust fan, end of main plumbing vent.
     - Fittings: a 50mm vent mesh screen, 4 way Tee.
   - NO.10 Underground P, shared by all floor drains, the inlet of the P is the
     toliet floor drain which also serve as cleanout
-    - Fittings: 75mm P trap, 4-way-Tee PVC75*50
+    - Fittings: 75mm P trap, 4-way-Tee PVC75*50 平面四通
   - NO.11 P joins main drain pipe here. vent goes undergroud to the wall
-    - Fittings: 75mm a 90degree elbow, a san tee, 45degree, 110mm wye reduced to
-      75mm(PVC110*75).
+    - Fittings: 75mm 45degree, 110x75 wye, 75x50 san-tee, 50mm 90degree
   - NO.12 shower drain pipe overpass main drain pipe.
     - Fittings: None.
   - NO.13 kitchen pipe goes in there. 50mm pipe. 
-    - fittings: 50mm, 90degree elbow, San Tee,  50mm to 75mm connector. 75mm 45degree x 2 
+    - fittings: 50mm, 90degree elbow, San Tee,  50x75 45degree, 75mm 45degree
     - Don't use san tee for the vertical connect, if water reach the bottom here https://youtu.be/bbqZ12QhoY4?t=191.
   - NO.14 kitchen pipes join main drain line
     - fittings: 75mm 45degree, 110mm wye reduced to 75mm(PVC110*75)
   - NO.15 vanity, A 50mm P trap setup.
-    - Fittings: 50mm, a 90degree elbow, a P trap, a san tee, a 45degree+wye, 
+    - Fittings: 50mm 90degree elbow, a P trap, a san tee, a 45degree                , 
   - NO.16 vanity drain line joins main drain here
-    - Fittings: 50mm 45degree + `PVC110*50` Wye
+    - Fittings:  `PVC110*50` Wye
 
 - drain pipe length
   - from house foundation hole to the inlet of septic tank, 4.2m
