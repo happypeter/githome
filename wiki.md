@@ -625,6 +625,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - So once the wall surface is cleaned
   - firstly I need to enhance the structure
   - use wall glue 墙固 to keep the clay layer from falling in the future, as MasterLi guided.
+    - add 15% water, don't spray, paint.
   - use plasterboard for all the walls, to hide pipes and water tanks
 - some ceilings may also use drywall
   - https://www.bilibili.com/video/BV17t4y1D74f/
