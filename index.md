@@ -235,3 +235,6 @@ Build a slab, the left concrete was used to cover some holes.
 It's not easy, requires a lot of attention for these angles.
 
 [img](imgs/20210421)
+
+## 20210422 Rainy Day
+Place an order for PVC glazing.
