@@ -120,7 +120,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
       - fittings: 110mm san tee,  cap
   - NO.6 45degree turn
     - Fittings: 110mm 45degree
-  - NO.7 septic inlet. Scrum may accumulate in the built-in clay thick pipe here, if it get solidified, we have problem. So I need to leave a cleanout here.
+  - NO.7 septic inlet. Scrum may accumulate in the built-in clay thick pipe here, if it get solidified, we have problem. So I need to leave a cleanout here. Make sure the end of the pipe is facing downwards, so that it's hard for rats to come in.
     - Fittings: 110mm a 45degree, a cap.
   - NO.8 cleanout and water pump inlet
     - Fittings: 110mm cap
@@ -128,6 +128,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     - Fittings: a 50mm vent mesh screen, 4 way Tee.
   - NO.10 Underground P, shared by all floor drains, the inlet of the P is the
     toliet floor drain which also serve as cleanout
+    - Note: when 2 conditions met, I don't need to vent the P trap: NO.1 the tail of the P is less then 24inch(60cm), NO.1 the main drain it connects to have a really close vent upstream. It seems both apply to my case. https://youtu.be/T5LdT2lr1lY?t=132 
     - Fittings: 75mm P trap, 4-way-Tee PVC75*50 平面四通
   - NO.11 P joins main drain pipe here. vent goes undergroud to the wall
     - Fittings: 75mm 45degree, 110x75 wye, 75x50 san-tee, 50mm 90degree
@@ -147,7 +148,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     - 50mm 90degree x 1: 45degreex2
     - 110x75 wye x2: 110 wyex2 + 110x75 补芯 x2
     - 75x50 45degree: 50mm 45degree + 75x50 补芯
-
+- washing machine standpipe https://youtu.be/xpsLXmntINE?t=32
 - drain pipe length
   - from house foundation hole to the inlet of septic tank, 4.2m
   - from house foundation hole to the inlet of drywell, 7m
@@ -170,7 +171,13 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - toliet cleanout https://youtu.be/bbqZ12QhoY4?t=62
 - traps and vents
   - add filter at the end the vent line to keep small bugs away
+  - p trap
+    - the tail should not be too shore to avoid siphon. https://youtu.be/JrNv7svgzco?t=35
   - three floor drains(washing machine, toliet, shower) share one P trap
+    - do I need a standpipe for my washing machine drain?
+      - standpipe is there to avoid waster overflow for drains that not fast enough
+      - I my case my P for washing machine is 75cm gaint pipe, so I probably not need a standpipe
+      - however if I find overflow in the future, I will add the standpipe.
     - that is the the P for the middle of the three drain, the one used by washing machine, like https://www.quartzbyaco.com.au/how-to-design-a-bathroom-drainage-system/
     - don't bother to have a cleanout at the bottom/turn the P, make sure the drain cover of the middle/washing machine drain is easy to remove.
     - floor drains tend to dry very often, except the shower floor drain. Sharing means there is always water seal.
@@ -183,11 +190,13 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - you can have multiple vents all connected to your main vent https://youtu.be/Y2o8upCxcqA?t=164
     - you need grade for the connecton https://youtu.be/bbqZ12QhoY4?t=284
 - how to glue PVC
+  - Not to glue at all
   - lay all pipes and fittings on site, then cut
   - wear water proof gloves for the glue
   - use grinder to get round edge of pipe wall for esay pluging in
   - use grinder to cut pipes https://www.bilibili.com/video/BV1rk4y1k7pw
-  - the glue will melt the pipe, so make the pipe surface clean before applying the glue, use right glue for the pipe
+  - plug everything together, place the whole line where it should go, then mark the angle of all the fittings https://youtu.be/yGgx_UFQIfw?t=183
+  - the glue will melt the pipe, so make the pipe surface clean before applying the glue, use right glue for the pipe  https://youtu.be/yGgx_UFQIfw?t=218  you have 5 seconds to do it.
   - push to as far as you can go, trun the pipe a bit to make glue even, hold for 5 seconds https://youtu.be/VqBAMEbo-OE?t=87ß
 - DONTs
   - don't expose pipes outside the finished walls, otherwise how can you install a cabinet neatly
@@ -371,6 +380,8 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     about)
 - how to insulate without attic?
   - have a nice compact roof(as the house was built)
+  - use film above plasterboard https://youtu.be/ZLcfYZqpGXQ?t=5
+  - bury wood in fiberglass https://youtu.be/ZLcfYZqpGXQ?t=138
   - insulation on top of roof(with air insulation and barrier) also works https://youtu.be/Ld8pzIu45F8?t=1739
   - search '屋顶隔热', I got nice thick foam with foil on one side and glue
     on the other, which I think is a good solution.
@@ -635,6 +646,9 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - pocket doors or barn doors are nice interior options
 
 ## Portable Home? or not
+- Inflation is here, it make a lot of sense to own my own tools/cars/materials to secure my wealth.
+  - Things are also best hedge to my stocks/coins.
+- begin with a shipping container workspace https://www.youtube.com/watch?v=bjU7QKcEUFY
 - 深河大集 bazzar is the place to buy second hand shipping container houses
 - serious considering build with shipping containers https://www.youtube.com/watch?v=LvUI3-0QkI0
   - purchasable in china https://www.bilibili.com/video/BV1dK411J7kS
@@ -674,6 +688,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - 50mm T(三通) 3RMB x 2 total: 6RMB
 - 11.2m twisted steel 44RMB  
 - gravels 1cbm 200RMB
+- mineral wool: 600RMB/20sqlm + 160(shipping+transportation)
 - MaterLi
   - 300RMB/day
 - May Hire: 240 per labor per day, may needs 7 days to finish the painting of

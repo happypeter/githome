@@ -238,3 +238,9 @@ It's not easy, requires a lot of attention for these angles.
 
 ## 20210422 Rainy Day
 Place an order for PVC glazing.
+
+## 20210423 Get Mineral Wool
+Went to fetch my mineral wool at a logistics center. the last 24hr rain
+flooded my tank system.
+
+[img](imgs/20210423)
