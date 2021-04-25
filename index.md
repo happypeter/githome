@@ -244,3 +244,13 @@ Went to fetch my mineral wool at a logistics center. the last 24hr rain
 flooded my tank system.
 
 [img](imgs/20210423)
+
+## 20210424 Day Off
+Research on different windows, fell in love with thermal break aluminum.
+
+## 20210425 Bury PVC
+Finally, I could start to bury the PVC pipes, Did the second concrete slab.
+After one day, water level dropped 2 or 3 centimeters, not as fast as I
+wished.
+
+[img](imgs/20210425)

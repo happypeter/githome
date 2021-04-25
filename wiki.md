@@ -17,6 +17,9 @@
 
 - warm color is great https://youtu.be/9By4mh34Rvg?t=154
 
+## Power
+- connect cable soft to hard https://www.youtube.com/watch?v=KETdXX_hzP0
+
 ## Design Goals
 
 - try to build everything modular/portable/usable as possible, cause I don't know when the gov will take down the whole village
@@ -313,6 +316,8 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - roof insulation, replace the clay layer with foam/rockfiber, https://youtu.be/ibjiChTQZEI?t=105
   - Me: use some rockfiber, and do add a vapor barrier
   - masterLi: cover everything with drywall, seal the drywall perfectly, that's means no venting for the beams and rafters, he's confident that will cause no trouble. I like the idea, plasterboard is now another layer of insulation. Now the false ceiling is part of the roof, so I don't have a attic space really, just a compact roof. But, for security, I may check the wood behind the plasterboard from time to time.
+- use vapor barrier
+  - https://youtu.be/RAoSs392u8o?t=530 have a continuous system with no weakness 
 - material
   - wear mask and long sleeves to install both firberglass and stonewool https://youtu.be/wH4Oyj4fNxQ?t=503
   - fiberglass holds the water BAD https://youtu.be/5OEvZXSNaoY?t=209
@@ -426,6 +431,9 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - windows
   - windows needs to be protected from summer sun https://youtu.be/xepx8yp1IPM?t=206
   - invest in three layer glass windows to save heating cost
+  - why not vinle windows?
+    - welded corner is not aesthetic https://youtu.be/wyyM5es8MeI?t=34
+    - aluminum is much more easier to install(maybe uninstall)https://www.jyjbs.com/lhj/1613.html
   - same logic here, build a shed to shelter the west wall from setting sun
 - isulation is MUST
   - a properly designed isulation system can reducing energy cost by 90% https://youtu.be/Hz6qomFM_dw?t=51
@@ -688,6 +696,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - 50mm T(三通) 3RMB x 2 total: 6RMB
 - 11.2m twisted steel 44RMB  
 - gravels 1cbm 200RMB
+- plastic film 143RMB
 - mineral wool: 600RMB/20sqlm + 160(shipping+transportation)
 - MaterLi
   - 300RMB/day
