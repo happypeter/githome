@@ -254,3 +254,11 @@ After one day, water level dropped 2 or 3 centimeters, not as fast as I
 wished.
 
 [img](imgs/20210425)
+
+## 20210426 Plumbing
+Reture some foundation rocks, then bury the pipe close to the foundation. When
+outlet water is 20cm deep, then that inlet water is at the edge of the lower
+side of the pipe, that means no more water or waste goes in to the tank, and
+the system is paralyzed.
+
+[img](imgs/20210426)
