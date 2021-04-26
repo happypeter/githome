@@ -109,6 +109,8 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     - https://www.youtube.com/watch?v=g73-6j3Yzl8
 
 ## Plumbing: Drain and Sewer
+- data:
+  - the outside cleanout is 90cmx30cm to the walls of the house. ![](imgs/20210426/5.jpg)
 - plumbing plan/the design, V2:  https://happypeter.github.io/githome/imgs/20210420/5.jpg
   - NO.1 toliet vent, it is also for septic tank
     - Note: vent for underground P will join this vent here
