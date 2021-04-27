@@ -110,8 +110,9 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 
 ## Plumbing: Drain and Sewer
 - data:
-  - the outside cleanout is 90cmx30cm to the walls of the house. ![](imgs/20210426/5.jpg)
-- plumbing plan/the design, V2:  https://happypeter.github.io/githome/imgs/20210420/5.jpg
+  - the outside cleanout is 90cmx30cm to the walls of the house. ![](imgs/20210426/3.jpg)
+  - when outlet water is 20cm deep, inlet water is at the lower edge of the pipe, that means water can no longer go into the tank. ![](imgs/20210426/5.jpg)
+- plumbing plan/the design, V3:  ![](https://happypeter.github.io/githome/imgs/20210420/5.jpg)
   - NO.1 toliet vent, it is also for septic tank
     - Note: vent for underground P will join this vent here
     - fittings: PVC110*50 san tee, 110mm 45degreex2, 50mm 90degree tee
@@ -145,9 +146,16 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - NO.14 kitchen pipes join main drain line
     - fittings: 75mm 45degree, 110mm wye reduced to 75mm(PVC110*75)
   - NO.15 vanity, A 50mm P trap setup.
-    - Fittings: 50mm 90degree elbow, a P trap, a san tee, a 45degree                , 
+    - Fittings: 50mm 90degree elbow, a P trap, a san tee, a 45degree x 2                , 
   - NO.16 vanity drain line joins main drain here
-    - Fittings:  `PVC110*50` Wye
+    - Fittings:  `PVC110*50` Wye x 50mm 45degree
+  - NO.17 turn
+    - fittings: 50mm 45degree
+  - NO.18 a floor drain
+    - fittings: 50mm 45degree x 2
+  - NO.19 a floor drain
+    - fittings: 50mm 45degree x 2
+
   - to use purchased fittings:
     - 110x50 san-tee: 110 san-tee + 110x50 补芯 
     - 50mm 90degree x 1: 45degreex2
