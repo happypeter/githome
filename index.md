@@ -265,4 +265,5 @@ the system is paralyzed.
 
 ## 20210427 Interior Plumbing
 Laydown all the fittings on the ground, bought some missing fittings. It's hard to get the 45degrees right, when you need to consider grade, sometimes 45+45 is not a 90. Drywell water level bared dropped since yesterday, maybe half a centimeter, hard to tell.
+
 [img](imgs/20210427)
