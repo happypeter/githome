@@ -112,7 +112,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - data:
   - the outside cleanout is 90cmx30cm to the walls of the house. ![](imgs/20210426/3.jpg)
   - when outlet water is 20cm deep, inlet water is at the lower edge of the pipe, that means water can no longer go into the tank. ![](imgs/20210426/5.jpg)
-- plumbing plan/the design, V3:  ![](https://happypeter.github.io/githome/imgs/20210420/5.jpg)
+- plumbing plan/the design, V4:  ![](https://happypeter.github.io/githome/imgs/20210421/1.jpg)
   - NO.1 toliet vent, it is also for septic tank
     - Note: vent for underground P will join this vent here
     - fittings: PVC110*50 san tee, 110mm 45degreex2, 50mm 90degree tee
