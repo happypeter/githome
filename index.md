@@ -268,6 +268,16 @@ Laydown all the fittings on the ground, bought some missing fittings. It's hard 
 
 [img](imgs/20210427)
 
+## 20210428 Main Drain Done
+By twisting 2 45degree, you get any angle between 90degree and 135degree, so you get your grade.
+
+[img](imgs/20210428)
+
+## 20210429 leach field
+Cover leach field.
+
+[img](imgs/20210429)
+
 ## 20210430 Spetic tank
 Build structures for the tank, old grave+sand trick for everything, it's fun to use cement to finish the structures and repair some parts of the stone wall.
 
