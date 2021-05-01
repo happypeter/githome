@@ -681,6 +681,10 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - tools
 - make it portable
 
+## Tools
+- impact drill
+  - hold fast when you drill sth hard, otherwise it may rotate and hit you.
+
 ## Cost
 - 4000RMB/year for rent
 - 400RMB/year for cleaning

@@ -282,3 +282,8 @@ Cover leach field.
 Build structures for the tank, old grave+sand trick for everything, it's fun to use cement to finish the structures and repair some parts of the stone wall.
 
 [img](imgs/20210430)
+
+## 20210501 Drain Line Done
+Main Drain Line was done.
+
+[img](imgs/20210501)
