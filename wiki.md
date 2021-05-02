@@ -112,6 +112,14 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - data:
   - the outside cleanout is 90cmx30cm to the walls of the house. ![](imgs/20210426/3.jpg)
   - when outlet water is 20cm deep, inlet water is at the lower edge of the pipe, that means water can no longer go into the tank. ![](imgs/20210426/5.jpg)
+  - septic tank
+    - the outlet slabs are 60cm deep [img](imgs/20210502/5.jpg) 
+    - outlet cleanout is 220cm east of main cleanout center [img](imgs/20210502/6.jpg)
+    - inlet cleanout is 120cm west and 70cm south of main cleanout hole center. [img](imgs/20210502/8.jpg)
+    - inlet pipe cap is 30cm deep from ground, outlet pipe cap is 10cm. [img](imgs/20210502/9.jpg)
+    - inlet concrete structure is 60cm deep from ground
+    - the tank is full when inlet pipe cap to water level is 60cm. [img](imgs/20210502/10.jpg)
+  - pipes, this is how underground lines go https://happypeter.github.io/githome/imgs/20210502/
 - plumbing plan/the design, V4:  ![](https://happypeter.github.io/githome/imgs/20210421/1.jpg)
   - NO.1 toliet vent, it is also for septic tank
     - Note: vent for underground P will join this vent here
