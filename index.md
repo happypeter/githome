@@ -287,3 +287,8 @@ Build structures for the tank, old grave+sand trick for everything, it's fun to 
 Main Drain Line was done.
 
 [img](imgs/20210501)
+
+## 20210502 All underground pipes done
+Connected pipes in the morning, fill the hole in the afternoon.
+
+[img](imgs/20210502)
