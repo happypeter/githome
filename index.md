@@ -292,3 +292,45 @@ Main Drain Line was done.
 Connected pipes in the morning, fill the hole in the afternoon.
 
 [img](imgs/20210502)
+
+## 20210503 Day Off
+Fingers still painful.
+
+## 20210504 Toliet
+
+Hired BrotherLi to install underfloor heater.
+
+
+## 20210505 Septic Tank Covered
+
+All the underground plumbing work done. Also, went to check shipping container houses.
+
+[img](imgs/20210505)
+
+
+## 20210506 Bury Leach field
+A lot of soil needs to be filled into the big hole.
+
+## 20210507 Move
+Move my mat here to the village. Tomorrow, Billie will move to Mars.
+
+## 20210508 Day Off
+Move to mars.
+
+## 20210509 Underfloor Heater
+3cm board bottom, then reflection film.
+
+[img](imgs/20210509)
+
+## 20210510 Heater pipes
+
+Install pipes
+
+[img](imgs/20210510)
+
+
+## 20210511 Concrete to Protect Pipes
+
+Bury pipes with concrete.
+
+[img](imgs/20210511)

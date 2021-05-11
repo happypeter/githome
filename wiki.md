@@ -321,6 +321,8 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - incoming water main valve and filter https://www.bilibili.com/video/BV1Uv411B7g1
 
 ## Insulation
+- fresh air
+  - use pipes to connect all the room, open vent on every ceiling, only have one one vent connected to outside, considering having HRV at the vent, https://youtu.be/secB3R0sIYU?t=338
 - why I can not have insulation false ceiling?
   - once I have false ceiling. ventilation is MUST in winter to prevent the
     wood to rot
@@ -610,6 +612,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 ## interior surface (walls, ceiling and floors)
 - materials
   - use steam room board 桑拿板 for the wall
+    - it looks greate https://youtu.be/qWvoYMf5iC4?t=59
     - it's perfectly OK to mix steamroom board with white
     - so I think I will use steamroom board for kitchen and bath
       - toliet https://www.pinterest.jp/pin/717057571924820193/
