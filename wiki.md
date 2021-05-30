@@ -692,9 +692,18 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - tools
 - make it portable
 
+## Gate
+- Mother-son Gate is cool
+- width
+  - common car with 1.9m
+  - 2.4m is good
+- ordered Japanese style on PDD
+  - 3000RMB
+
 ## Tools
 - impact drill
   - hold fast when you drill sth hard, otherwise it may rotate and hit you.
+
 
 ## Cost
 - 4000RMB/year for rent
@@ -723,6 +732,11 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - gravels 1cbm 200RMB
 - plastic film 143RMB
 - mineral wool: 600RMB/20sqlm + 160(shipping+transportation)
+- Underfloor Heater
+  - 2100RMB for labor
+  - 2000RMB for material
+- Well
+  - 6000RMB
 - MaterLi
   - 300RMB/day
 - May Hire: 240 per labor per day, may needs 7 days to finish the painting of
