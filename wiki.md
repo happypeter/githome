@@ -269,6 +269,11 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     - use lots of gravels, and you should keep the dirt away from the gravels https://youtu.be/SjZ95sGaD-k?t=485 I don't use cloth, but slab.
 
 ## Plumbing: incoming water/water supply
+- well
+  - Dia 2200mm Depth 71m
+  - 12m deep iron pipe for the soil layer to keep dirty water away
+  - water came out at 30m deep
+  - 
 - prefilter
   - one day maybe I will get a after-filter https://youtu.be/QLm89HA4EFU?t=107
   - for big particals, sand, rust...these things are not just bad for human,
@@ -692,6 +697,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - tools
 - make it portable
 
+
 ## Gate
 - Mother-son Gate is cool
 - width
@@ -736,7 +742,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - 2100RMB for labor
   - 2000RMB for material
 - Well
-  - 6000RMB
+  - 71m*70RMB/m+2360RMB(for 2 IronPipe)
 - MaterLi
   - 300RMB/day
 - May Hire: 240 per labor per day, may needs 7 days to finish the painting of

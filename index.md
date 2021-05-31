@@ -334,3 +334,13 @@ Install pipes
 Bury pipes with concrete.
 
 [img](imgs/20210511)
+
+## 20210512~20210530 Moving to Mars
+
+Mars is another home in the village.
+
+## 20210531 Drilling Well
+
+10 ton tower machine and a air drilling machine came. The tower machine was really close to the center of my septic tank when it went by, maybe only 40cm to the slabs. The work started at 3:00pm and ended 6:40pm, with most of time spent on preparing and finishing. First I saw soil pumped out, we used 12m iron pipes to protect this layer to keep dirty water away, then I saw rock ash floating, the rock layer was 20m, then we reached gravel layer at 30m or so deep, now we have water. From 30m to the final 71m, it's rock and gravel layers alternately, water came from the gravel layers as I was told. So I was recommended to add PVC pipes to protect the well from being plugged.
+
+[img](imgs/20210531)
