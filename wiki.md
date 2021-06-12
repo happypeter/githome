@@ -273,7 +273,10 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - Dia 2200mm Depth 71m
   - 12m deep iron pipe for the soil layer to keep dirty water away
   - water came out at 30m deep
-  - 
+  - PVC pipes
+    - to avoid rocks plugging the well
+    - as screen to prevent pumping off mud from the wall of well to make the
+      water muddy
 - prefilter
   - one day maybe I will get a after-filter https://youtu.be/QLm89HA4EFU?t=107
   - for big particals, sand, rust...these things are not just bad for human,
@@ -742,7 +745,8 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - 2100RMB for labor
   - 2000RMB for material
 - Well
-  - 71m*70RMB/m+2360RMB(for 2 IronPipe)
+  - 71mx70RMB/m+2360RMB(for 2 IronPipe)
+  - pump 1100RMB+wire/rope/pipe 600RMB
 - MaterLi
   - 300RMB/day
 - May Hire: 240 per labor per day, may needs 7 days to finish the painting of
