@@ -359,4 +359,4 @@ was told, but I really suspect it as only 2cm), the thick part is 7cm deep. 5
 o'clock in the afternoon, the developers told me, the floor would have cracked
 if it would ever crack. So I was lucky.
 
-[img](imgs/20210616)
+[img](imgs/20210615)
