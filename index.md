@@ -350,3 +350,13 @@ Mars is another home in the village.
 It is a 1100RMB pump.
 
 [img](imgs/20210612)
+
+## 20210615 Floor
+
+2600RMB for the labor, 1200RMB for sand and cement. The foundation was not on
+the same level, the end result is the thin part of the concrete is 3cm(as I
+was told, but I really suspect it as only 2cm), the thick part is 7cm deep. 5
+o'clock in the afternoon, the developers told me, the floor would have cracked
+if it would ever crack. So I was lucky.
+
+[img](imgs/20210616)
