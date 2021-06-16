@@ -718,6 +718,9 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - 4000RMB/year for rent
 - 400RMB/year for cleaning
 - 159RMB for the ladder
+- concrete floor
+  - 1200RMB cement and sand
+  - 2600RMB labor
 - 100RMB for power wiring and outdoor switch
 - 18(per bag)x10RMB for cement
 - 130(per sqm)x2RMB for sand
