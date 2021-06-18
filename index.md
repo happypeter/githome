@@ -360,3 +360,10 @@ o'clock in the afternoon, the developers told me, the floor would have cracked
 if it would ever crack. So I was lucky.
 
 [img](imgs/20210615)
+
+## 20210618 Gate Pillars
+
+I watched the whole process, and convinced that no matter how much time given,
+I can not do it. That is great concrete work the team has done for me.
+
+[img](imgs/20210617)
