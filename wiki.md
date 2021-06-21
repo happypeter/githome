@@ -224,7 +224,8 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - don't use the main vent outlet too big, otherwise strong wind may
     lead to bounce of toliet water https://youtu.be/Y2o8upCxcqA?t=202
   - don't use chimney as main vent, it is upward facing, lose most heat, not easy to install one-way valve
-    - I will seal all the chimneys before winter
+    - I will seal all the chimneys before winter, maybe with spray foam.
+    - other than the roof, the chimney wall also needs to be insulated.
   - don't have a drain you don't use very often, when the water seal dries, it is
     a smell hole.
   - don't use two tees together, use double tee https://youtu.be/xpsLXmntINE?t=214
@@ -346,6 +347,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - masterLi: cover everything with drywall, seal the drywall perfectly, that's means no venting for the beams and rafters, he's confident that will cause no trouble. I like the idea, plasterboard is now another layer of insulation. Now the false ceiling is part of the roof, so I don't have a attic space really, just a compact roof. But, for security, I may check the wood behind the plasterboard from time to time.
 - use vapor barrier
   - https://youtu.be/RAoSs392u8o?t=530 have a continuous system with no weakness 
+
 - material
   - wear mask and long sleeves to install both firberglass and stonewool https://youtu.be/wH4Oyj4fNxQ?t=503
   - fiberglass holds the water BAD https://youtu.be/5OEvZXSNaoY?t=209
@@ -703,11 +705,15 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 
 ## Gate
 - Mother-son Gate is cool
+- final usage width 215cm
+- door width 240cm
 - width
   - common car with 1.9m
   - 2.4m is good
 - ordered Japanese style on PDD
   - 3000RMB
+- labor and concrete
+  - 1860RMB
 
 ## Tools
 - impact drill
@@ -715,6 +721,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 
 
 ## Cost
+- gate: labor 1400RMB concrete+bricks 460RMB the metal gate 3000RMB
 - 4000RMB/year for rent
 - 400RMB/year for cleaning
 - 159RMB for the ladder
