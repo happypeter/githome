@@ -367,3 +367,10 @@ I watched the whole process, and convinced that no matter how much time given,
 I can not do it. That is great concrete work the team has done for me.
 
 [img](imgs/20210617)
+
+## 20210622 Concrete Work
+
+Build the bathroom floor myself, not easy. One Spatula cement, three sand, is
+the right ratio. Also installed the gate, and ordered windows.
+
+[img](imgs/20210622)

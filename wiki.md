@@ -329,6 +329,18 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - test if the pipe joints are well sealed https://www.bilibili.com/video/BV1Af4y1U7Wj
 - incoming water main valve and filter https://www.bilibili.com/video/BV1Uv411B7g1
 
+## Bathroom
+- water-proof
+  - paint 2 times
+    - wait 6hr before the second paint
+  - dry area is taller than wet area, no slope needed 
+    - https://www.bilibili.com/video/BV1YA411379s?from=search&seid=13385341877063408161
+  - use concrete to build a dam, before you do the painting
+  - spary some water, wait before the water is totally dry to paint
+    - https://www.bilibili.com/video/BV1ri4y1P7ku/?spm_id_from=333.788.b_7265636f5f6c697374.5
+  - faucet on the wall may leak water, make sure the screw is out of the exterior layer of the wall
+- slope for the drain, and second layer draining
+  - https://www.bilibili.com/video/BV1Fb4y197x7?t=4m18s
 ## Insulation
 - fresh air
   - use pipes to connect all the room, open vent on every ceiling, only have one one vent connected to outside, considering having HRV at the vent, https://youtu.be/secB3R0sIYU?t=338
