@@ -379,4 +379,4 @@ the right ratio. Also installed the gate, and ordered windows.
 
 Make a cut in the middle of a frame bar, try to pry beneath it.
 
-[img](imgs/20210622)
+[img](imgs/20210707)
