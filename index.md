@@ -374,3 +374,9 @@ Build the bathroom floor myself, not easy. One Spatula cement, three sand, is
 the right ratio. Also installed the gate, and ordered windows.
 
 [img](imgs/20210622)
+
+## 20210707 Removing Old Windows
+
+Make a cut in the middle of a frame bar, try to pry beneath it.
+
+[img](imgs/20210622)
