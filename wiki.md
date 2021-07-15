@@ -64,10 +64,10 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     outage.
 
 ## exteior/yard
-
 - windows/doors
-  - I want the all black, cause the house itself has to much details aready,
-    white frame adds more lines to the general dark look
+  - people said, the glazing is 5cm(glass)*2+18mm(air gap) thick, real number is 24mm
+  - people said the thickness of the frame is 70mm(thickness), which is very generous.
+  
   - To do install wood blocker to protect the doors from sudden wind.
 - yard wall
   - use wood on top of stone is good idea https://youtu.be/t4_2pRnSN4E?t=28

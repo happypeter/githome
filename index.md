@@ -380,3 +380,9 @@ the right ratio. Also installed the gate, and ordered windows.
 Make a cut in the middle of a frame bar, try to pry beneath it.
 
 [img](imgs/20210707)
+
+## 20210713 Installing Windows/Dooes
+
+It was supprisingly much glue and spary foam used.
+
+[img](imgs/20210713)
