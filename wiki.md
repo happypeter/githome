@@ -20,6 +20,7 @@
 ## Power
 - connect cable soft to hard https://www.youtube.com/watch?v=KETdXX_hzP0
 
+
 ## Design Goals
 
 - try to build everything modular/portable/usable as possible, cause I don't know when the gov will take down the whole village
@@ -67,6 +68,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - windows/doors
   - I want the all black, cause the house itself has to much details aready,
     white frame adds more lines to the general dark look
+  - To do install wood blocker to protect the doors from sudden wind.
 - yard wall
   - use wood on top of stone is good idea https://youtu.be/t4_2pRnSN4E?t=28
 - sewer pipe https://www.bilibili.com/video/BV1eA411x79o
@@ -342,6 +344,9 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - slope for the drain, and second layer draining
   - https://www.bilibili.com/video/BV1Fb4y197x7?t=4m18s
 ## Insulation
+- roof
+  - concrete is not 100% water tight, so I see half wet clay under it, I see mold on the rafters.
+    - TODO: water tight the roof
 - fresh air
   - use pipes to connect all the room, open vent on every ceiling, only have one one vent connected to outside, considering having HRV at the vent, https://youtu.be/secB3R0sIYU?t=338
 - why I can not have insulation false ceiling?
