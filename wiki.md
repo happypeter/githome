@@ -345,6 +345,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - https://www.bilibili.com/video/BV1Fb4y197x7?t=4m18s
 ## Insulation
 - roof
+  - Ref: cover the rafters with insulation: https://www.bilibili.com/video/BV1ib4y1C7LQ?t=5s
   - concrete is not 100% water tight, so I see half wet clay under it, I see mold on the rafters.
     - TODO: water tight the roof
 - fresh air
