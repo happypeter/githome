@@ -386,3 +386,9 @@ Make a cut in the middle of a frame bar, try to pry beneath it.
 It was supprisingly much glue and spary foam used.
 
 [img](imgs/20210713)
+
+## 20210721 Concrete Walkway
+
+It took mum and me 4 days to finish part of the walkway, we only work 3 hours in the morning. I make it really high to be sure when it rains heavily, mud won't cover the surface. Since its a large surface, so proper slope is kept to drive water away. Besides, walking out of the backdoor, the beauty of the flowers shocked me.
+
+[img](imgs/20210721)
