@@ -381,7 +381,7 @@ Make a cut in the middle of a frame bar, try to pry beneath it.
 
 [img](imgs/20210707)
 
-## 20210713 Installing Windows/Dooes
+## 20210713 Installing Windows/Doors
 
 It was supprisingly much glue and spary foam used.
 
@@ -392,3 +392,9 @@ It was supprisingly much glue and spary foam used.
 It took mum and me 4 days to finish part of the walkway, we only work 3 hours in the morning. I make it really high to be sure when it rains heavily, mud won't cover the surface. Since its a large surface, so proper slope is kept to drive water away. Besides, walking out of the backdoor, the beauty of the flowers shocked me.
 
 [img](imgs/20210721)
+
+## 20210802 More Concrete Walkway
+
+Key Tips: Set the form right before everything. Make solid edges with gravels and no sand before puring concrete.
+
+[img](imgs/20210802)

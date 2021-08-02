@@ -62,11 +62,17 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - rock road https://www.bilibili.com/video/BV1eA411x79o?t=9m
 
 ## Concrete
-- Walkway
+- Gateway
   - have expansion joint to do the work in multiple days https://youtu.be/h7tIjBEPiPU?t=275
   - a concrete road is the best and most expensive one that I can build on my own, so the first question is do I really need it, will brick paver or stepping stone will do.
   - keep a slope to drive water away
   - make sure the foundation is strong, or make the concrete no less than 5cm thick
+- Walkway
+  - dont use concrete, use step stones https://www.bilibili.com/video/BV1k44y1q7en
+  - how to build stones with concrete https://www.youtube.com/watch?v=Ey_yiH7jiQY
+  - how to build a form https://www.youtube.com/watch?v=rU7S5IUcfXM
+  - use mesh https://youtu.be/rU7S5IUcfXM?t=202
+  - one day I may need to resurface the way https://www.youtube.com/watch?v=lkl3bY7Z88k
 - use foam as mold https://www.youtube.com/watch?v=Oe_zL0B3EYU
   - use foam as skeleton https://www.youtube.com/watch?v=QGiRFZSLmTU
 - don't do concrete when it still freezes at night
