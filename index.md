@@ -398,3 +398,12 @@ It took mum and me 4 days to finish part of the walkway, we only work 3 hours in
 Key Tips: Set the form right before everything. Make solid edges with gravels and no sand before puring concrete.
 
 [img](imgs/20210802)
+
+## 20210807 Remove Clay layer off the roof
+
+The clay layer was there to support the concrete slab in day1, so it has its
+own structural use. But since the concrete layer is dry and has its arched
+shape, I believe it will stay stong without the soft clay layer as support.
+
+
+[img](imgs/20210807)
