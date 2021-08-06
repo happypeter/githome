@@ -50,7 +50,9 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - wood stove will be useful, when we have guest living in the room, or power
     outage.
 
-## exteior/yard
+## exteior/yard/patio
+- chairs and concrete arrangment inspirations
+  - 
 - windows/doors
   - people said, the glazing is 5cm(glass)*2+18mm(air gap) thick, real number is 24mm
   - people said the thickness of the frame is 70mm(thickness), which is very generous.
@@ -340,8 +342,11 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - faucet on the wall may leak water, make sure the screw is out of the exterior layer of the wall
 - slope for the drain, and second layer draining
   - https://www.bilibili.com/video/BV1Fb4y197x7?t=4m18s
+
 ## Insulation
 - roof
+  - robustness
+    - the roof is in arch shape, so it is self-supporting, the under-layer clay and straws were temparary support when the roof was built.
   - Ref: cover the rafters with insulation: https://www.bilibili.com/video/BV1ib4y1C7LQ?t=5s
   - concrete is not 100% water tight, so I see half wet clay under it, I see mold on the rafters.
     - TODO: water tight the roof
