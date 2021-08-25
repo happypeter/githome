@@ -407,3 +407,9 @@ shape, I believe it will stay stong without the soft clay layer as support.
 
 
 [img](imgs/20210807)
+
+## 20210825 Support Doors
+
+Used bricks to support the doors, and applied some concrete.
+
+[img](imgs/20210825)
