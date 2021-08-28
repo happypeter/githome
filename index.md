@@ -413,3 +413,8 @@ shape, I believe it will stay stong without the soft clay layer as support.
 Used bricks to support the doors, and applied some concrete.
 
 [img](imgs/20210825)
+
+## 20210828 Setup Office!!!
+
+We have internet and everything.
+[img](imgs/20210828)
