@@ -418,3 +418,9 @@ Used bricks to support the doors, and applied some concrete.
 
 We have internet and everything.
 [img](imgs/20210828)
+
+## 20210907 Assemble Bed
+
+It's nice.
+
+[img](imgs/20210907)
