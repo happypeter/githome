@@ -424,3 +424,9 @@ We have internet and everything.
 It's nice.
 
 [img](imgs/20210907)
+
+## 20210916 False Ceiling
+
+Unvented attic with wood, David think it is bad idea?
+
+[img](imgs/20210916)
