@@ -430,3 +430,10 @@ It's nice.
 Unvented attic with wood, David think it is bad idea?
 
 [img](imgs/20210916)
+
+## 20210917 False Ceiling Day2
+
+Screws are used to mount the rocksheets, quit strong. Wood frames are to the
+south and north of cable in the living room, 2cm away each.
+
+[img](imgs/20210917)

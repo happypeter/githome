@@ -741,6 +741,14 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 
 
 ## Cost
+- false ceiling
+  - nails: 200RMB
+  - wood frame: 400RMB
+  - rocksheet: 600RMB
+- foamboard: 300RMB*1.5cubicmeter(CBM)
+- hotwater pipe 20mm: 24RMB*8
+- cable
+  - 2.5smm: 3RMB*155m 4smm: 30m*3.5RMB
 - gate: labor 1400RMB concrete+bricks 460RMB the metal gate 3000RMB
 - 4000RMB/year for rent
 - 400RMB/year for cleaning
@@ -778,7 +786,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - 71mx70RMB/m+2360RMB(for 2 IronPipe)
   - pump 1100RMB+wire/rope/pipe 600RMB
 - MaterLi
-  - 300RMB/day
+  - 300RMB/day x 6 = 1800RMB for the ceiling
 - May Hire: 240 per labor per day, may needs 7 days to finish the painting of
   githome, Putty included. If I want the meterial+labor, it is 25RMB/sqm,
   githome is around 120sqm(wall surface), so it's 3000RMB for water proof
