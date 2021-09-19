@@ -437,3 +437,9 @@ Screws are used to mount the rocksheets, quit strong. Wood frames are to the
 south and north of cable in the living room, 2cm away each.
 
 [img](imgs/20210917)
+
+## 20210918 False Ceiling Day3
+
+Mark the wood frame around the lamp cable
+
+[img](imgs/20210918)
