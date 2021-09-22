@@ -745,6 +745,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - nails: 200RMB
   - wood frame: 400RMB
   - rocksheet: 600RMB
+  - labor: 1800RMB for installing rocksheets
 - foamboard: 300RMB*1.5cubicmeter(CBM)
 - hotwater pipe 20mm: 24RMB*8
 - cable

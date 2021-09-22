@@ -443,3 +443,9 @@ south and north of cable in the living room, 2cm away each.
 Mark the wood frame around the lamp cable
 
 [img](imgs/20210918)
+
+## 20210922 Rip Off Wall Finish
+
+It's 1400RMB work, one worker work for 4 days.
+
+[img](imgs/20210922)
