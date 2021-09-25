@@ -741,6 +741,8 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 
 
 ## Cost
+- walls
+  - removing old surface: 1400RMB
 - false ceiling
   - nails: 200RMB
   - wood frame: 400RMB
