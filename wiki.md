@@ -49,7 +49,10 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - wood stove for the living room, living room is also the guest room
   - wood stove will be useful, when we have guest living in the room, or power
     outage.
+## build Walls
 
+- with bricks and concrete
+  - https://www.bilibili.com/video/BV1xQ4y1f7Mj?spm_id_from=333.999.0.0
 ## exteior/yard/patio
 - chairs and concrete arrangment inspirations
   - 
@@ -281,6 +284,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
       water muddy
 - prefilter
   - one day maybe I will get a after-filter https://youtu.be/QLm89HA4EFU?t=107
+  - pressure https://www.bilibili.com/video/BV1kq4y1G7im?spm_id_from=333.788.dynamic.content.click
   - for big particals, sand, rust...these things are not just bad for human,
     but also may detroy your devices.
 - materials
@@ -743,6 +747,11 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 ## Cost
 - walls
   - removing old surface: 1400RMB
+  - apply concrete 11000RMB
+    - 4 people, 30 Oct - 2 Nov 4days of really hard work
+    - rebuild 3 clay wall, and apply concrete to all interior walls
+- pathway
+  - 100RMB/m2
 - false ceiling
   - nails: 200RMB
   - wood frame: 400RMB
