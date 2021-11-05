@@ -449,3 +449,15 @@ Mark the wood frame around the lamp cable
 It's 1400RMB work, one worker work for 4 days.
 
 [img](imgs/20210922)
+
+## 2021101 Apply Concrete To Walls
+
+It's 11000RMB work, 4.5 worker work for 4.5 days.
+
+[img](imgs/20211101)
+
+## 2021103 Gateway
+
+Pathway.
+
+[img](imgs/20211103)

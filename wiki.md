@@ -745,13 +745,14 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 
 
 ## Cost
-- walls
+- interior walls: 12400RMB
   - removing old surface: 1400RMB
   - apply concrete 11000RMB
-    - 4 people, 30 Oct - 2 Nov 4days of really hard work
+    - 4.5 people, 30 Oct - 2 Nov 4.5days of really hard work
     - rebuild 3 clay wall, and apply concrete to all interior walls
-- pathway
-  - 100RMB/m2
+- gateway: 4000RMB
+  - 15cm thick
+  - 5people 1.5 days
 - false ceiling
   - nails: 200RMB
   - wood frame: 400RMB
