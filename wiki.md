@@ -67,6 +67,11 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - rock road https://www.bilibili.com/video/BV1eA411x79o?t=9m
 
 ## Concrete
+- how to get smooth surface?
+  -  do the many body with rock-rich concrete
+  - on the top use rock-less concrete
+  - add just cement on top, smooth out
+  - wait for three hours, add more cement on top, smooth out
 - Gateway
   - have expansion joint to do the work in multiple days https://youtu.be/h7tIjBEPiPU?t=275
   - a concrete road is the best and most expensive one that I can build on my own, so the first question is do I really need it, will brick paver or stepping stone will do.
@@ -274,6 +279,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     - use lots of gravels, and you should keep the dirt away from the gravels https://youtu.be/SjZ95sGaD-k?t=485 I don't use cloth, but slab.
 
 ## Plumbing: incoming water/water supply
+- use "管道装饰护角" to hide the pipes exposed
 - well
   - Dia 2200mm Depth 71m
   - 12m deep iron pipe for the soil layer to keep dirty water away
@@ -621,6 +627,12 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - ceiling height: 320cm
 
 ## Kitchen
+- shelf
+  - PDD “角钢置物架” Angle Steel Shelf
+    - One big and maybe two smaller ones
+    - white
+- sink counter
+  - PDD white cabinet I bookmarked
 - floor must be un sticky to stains, choose the right painting
 - have two bowl sink, mum will use one as her swill bucket
 - fridge should not be put in kitchen
@@ -629,9 +641,6 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - no need, things in fridge are usually not dirty or leaky
   - dinning room is a good place
 - different height for sink and stove https://www.sohu.com/a/161454935_99890682
-- install counterop https://www.youtube.com/watch?v=HLi0ZVJKzYM
-- build a U shape counter with one side against the north wall
-  - lighting should not be a problem, the north side gets a windows, the west and east side all gets sunshine from south
 
 ## cleaning system
 - hang everything

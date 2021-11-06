@@ -461,3 +461,9 @@ It's 11000RMB work, 4.5 worker work for 4.5 days.
 Pathway.
 
 [img](imgs/20211103)
+
+## 2021106 Door Style Inspirations
+
+Plain Wood board without painting can be esthetic.
+
+[img](imgs/20211106)
