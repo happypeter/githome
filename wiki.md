@@ -737,6 +737,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 
 
 ## Gate
+- refer to https://happypeter.github.io/githome/imgs/20211106
 - Mother-son Gate is cool
 - final usage width 215cm
 - door width 240cm
