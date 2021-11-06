@@ -463,6 +463,10 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - Wangpeng suggested if we have thick wall, we don't really need wall
     insulation so much. I aggree, at least not as key as ceiling/floor/windows.
 - ceiling
+  - vent inside rooms
+    - open one whole close the soutch window and another close to north wall
+    - this is from the villager's suggestion
+    
   - aviod condensation/ventilation
     - old houses don't need ventilation to avoid moisture, partly because they
       have chimneys https://youtu.be/QEPzyrynU6Q?t=299
