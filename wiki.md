@@ -1,4 +1,5 @@
 ## TODOs
+- TODO: install leakage protector
 
 ## style
 
@@ -6,6 +7,9 @@
 
 ## Power
 - connect cable soft to hard https://www.youtube.com/watch?v=KETdXX_hzP0
+- 空开 circuit braker 和漏洞保护器 earth leakage circuit breaker(ELCB)
+  - https://www.bilibili.com/video/BV14h411Z7ir/?spm_id_from=autoNext
+   leakage protector works when a human being touched the power
 
 
 ## Design Goals
@@ -14,7 +18,7 @@
 
 ## entryway
 
-- MUST HAVES: mirror, tmper storage(a table or shelf), shoe stools
+- MUST HAVES: mirror, tmp storage(a table or shelf), shoe stools
 
 ## furnature
 
@@ -40,27 +44,20 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 ## lighting
 
 - I will go professional on lighting system
+- install 3 lights on each beam
 
 ## Heating
 
 - floor heating is good
   - it is most energy efficient way to do heating, not sure
   - with it, I don't need to worry about insulation for floor
-- wood stove for the living room, living room is also the guest room
-  - wood stove will be useful, when we have guest living in the room, or power
-    outage.
-## build Walls
 
-- with bricks and concrete
-  - https://www.bilibili.com/video/BV1xQ4y1f7Mj?spm_id_from=333.999.0.0
 ## exteior/yard/patio
-- chairs and concrete arrangment inspirations
-  - 
 - windows/doors
   - people said, the glazing is 5cm(glass)*2+18mm(air gap) thick, real number is 24mm
   - people said the thickness of the frame is 70mm(thickness), which is very generous.
   
-  - To do install wood blocker to protect the doors from sudden wind.
+  - TODO: install wood blocker to protect the doors from sudden wind.
 - yard wall
   - use wood on top of stone is good idea https://youtu.be/t4_2pRnSN4E?t=28
 - sewer pipe https://www.bilibili.com/video/BV1eA411x79o
@@ -68,7 +65,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 
 ## Concrete
 - how to get smooth surface?
-  -  do the many body with rock-rich concrete
+  - do the many body with rock-rich concrete
   - on the top use rock-less concrete
   - add just cement on top, smooth out
   - wait for three hours, add more cement on top, smooth out
@@ -281,6 +278,8 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 ## Plumbing: incoming water/water supply
 - use "管道装饰护角" to hide the pipes exposed
 - well
+  - pressure tank 压力罐
+    - 304 steel, the bottom outlet is for clean out
   - Dia 2200mm Depth 71m
   - 12m deep iron pipe for the soil layer to keep dirty water away
   - water came out at 30m deep
@@ -466,7 +465,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - vent inside rooms
     - open one whole close the soutch window and another close to north wall
     - this is from the villager's suggestion
-    
+
   - aviod condensation/ventilation
     - old houses don't need ventilation to avoid moisture, partly because they
       have chimneys https://youtu.be/QEPzyrynU6Q?t=299
