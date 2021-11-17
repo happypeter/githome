@@ -1,16 +1,15 @@
 ## TODOs
 - TODO: install leakage protector
+- heater wire for well pipes, make it to 60cm underground, mind how to tie them at the end, ask people
+- apply concrete to well pit
+  - add insulation
+- add air circuit breaker 空气开关 空开 https://happypeter.github.io/githome/imgs/20211113/1.jpg
+- 地暖循环泵（320元）深河老胡五金
+  - 电热炉 1300RMB
 
 ## style
 
 - warm color is great https://youtu.be/9By4mh34Rvg?t=154
-
-## Power
-- connect cable soft to hard https://www.youtube.com/watch?v=KETdXX_hzP0
-- 空开 circuit braker 和漏洞保护器 earth leakage circuit breaker(ELCB)
-  - https://www.bilibili.com/video/BV14h411Z7ir/?spm_id_from=autoNext
-   leakage protector works when a human being touched the power
-
 
 ## Design Goals
 
@@ -278,8 +277,13 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 ## Plumbing: incoming water/water supply
 - use "管道装饰护角" to hide the pipes exposed
 - well
-  - pressure tank 压力罐
+  - well pressure tank 压力罐
+    - https://happypeter.github.io/githome/imgs/20211113/7.jpg
+      - meter reads under 0.1, then the pump starts to work
+      - 0.2-0.4 is normal value
+      - the tank will supply 1 big bucket of water between each starting of the pump
     - 304 steel, the bottom outlet is for clean out
+    - https://happypeter.github.io/githome/imgs/20211113
   - Dia 2200mm Depth 71m
   - 12m deep iron pipe for the soil layer to keep dirty water away
   - water came out at 30m deep
@@ -542,6 +546,10 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 
 ## toliet
 - how to install wall hung toliet https://youtu.be/UNw3Sy4uP1Y?t=114
+  - https://www.ixigua.com/6954746530406334987?logTag=5c74856b7f607572e464
+  - https://www.ixigua.com/6976275164212232715?logTag=5f5a21fee8a7ad46cf36
+  - https://www.ixigua.com/6964631681210778112?logTag=64515f9d3bb116520a64
+  - wall https://www.ixigua.com/6984255064164532743?logTag=d34f0480513741d4e284
 - most simple design https://www.bilibili.com/video/BV1L741177RV/
   - if you are not to sensitive to the smell, all it takes is a well https://www.bilibili.com/video/BV197411T7qy no sewer or septic tank needed.
 - air ventilation and pipe slope https://youtu.be/e8YpYmGTigI?t=180
@@ -594,10 +602,39 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - How to chase a wall and fit a metal back box - Chasing a Concrete Wall https://www.youtube.com/watch?v=g_spnVPsJ4I
 
 ## Power
+- my current solution
+  - circuit breaker panel
+    - 2p circult breaker: add live(L) and neutral(N) wire on top and then output at the bottom
+      - https://www.bilibili.com/video/BV1ZJ41187GC
+  - 零排 Neutral bar 和地排 ground bar
+    - with leakage protector, you don't need ground wire https://www.ixigua.com/6661773987195912717?logTag=699c489270fdb3f29170
+    - in my case I dont need a neutral bar, only a ground bar
+    - https://page.om.qq.com/page/OfKFFcNPdxZpzbov0ByZ-IfA0
+    - https://www.sohu.com/a/210748647_466936
+    - https://www.bilibili.com/video/BV1Jg4y1v7w7
+      - ground Bar should connect to the pannel box, then how can I make sure the box is properly grounded itself?
+    - not easy to create a ground wire https://www.ixigua.com/6914943936633307661?id=7012258457906577924&logTag=fb576b77436ce657508c
+    - the problem without a ground wire
+      - https://www.ixigua.com/6860738537499656717?logTag=64d0ebef3f85ba82c1dd
+      - it is the default in countryside https://www.ixigua.com/6870705692689465863?logTag=4d42b9887120471f9104
+
+- connect cable soft to hard https://www.youtube.com/watch?v=KETdXX_hzP0
+- 空开，空气开关 circuit breaker panel 和漏洞保护器 earth leakage circuit breaker(ELCB)
+  - c16 means 16A C25 means 25A
+  - https://www.bilibili.com/video/BV14h411Z7ir/?spm_id_from=autoNext
+   leakage protector works when a human being touched the power
+  - you can add two wires to one output of the breaker, even when the wires are not of same thickness
 - switch/sockets need to be 36inches away from water https://youtu.be/NfRuLlTp5s8?t=442
 - 漏电保护器 leakage protector is a MUST HAVE, Elon pluged a knife into a socket today.
   - how to install a braker https://www.youtube.com/watch?v=mYJTFMqJFS4
+  - https://www.ixigua.com/6924731677830808071?logTag=69a1119c1c6516c2b8d2
+    - ususally you don't need this for light ciruit, only power outlet circuit
 - how to differentiate Neutral wire, Live wire and ground wire https://www.zhihu.com/zvideo/1354431516022386688
+- how to connect two wires at the same time, make sure the connections are not together, keep ceratin distance to make sure they don't heat each other
+
+- only power receptables needs leakage protector, light cable does not
+  - https://www.ixigua.com/6914943936633307661?id=6925157977683034637&logTag=16cb55eee593b98936b5
+- how to check if a socket is properly grounded, use two 
 - 4sqmm for air conditioning, 6sqmm for heater
   - https://zhuanlan.zhihu.com/p/71841887
 - hide cords in PVC pipe is common practice
