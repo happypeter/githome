@@ -275,6 +275,9 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     - use lots of gravels, and you should keep the dirt away from the gravels https://youtu.be/SjZ95sGaD-k?t=485 I don't use cloth, but slab.
 
 ## Plumbing: incoming water/water supply
+- insulation
+  - 电伴热带 https://www.ixigua.com/7029214543645508107
+  - https://www.ixigua.com/6902748767410684424
 - use "管道装饰护角" to hide the pipes exposed
 - well
   - well pressure tank 压力罐

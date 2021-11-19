@@ -477,3 +477,9 @@ Plain Wood board without painting can be esthetic.
 Hard work, you need to measure 100 times.
 
 [img](imgs/20211117)
+
+## 2021119 Water System Insulation
+
+water pipe insulation reached more than 50cm underground.
+
+[img](imgs/20211119)
