@@ -483,3 +483,9 @@ Hard work, you need to measure 100 times.
 water pipe insulation reached more than 50cm underground.
 
 [img](imgs/20211119)
+
+## 2021202 Toliet Wall
+
+Apply concrete to the wall with more than 2cm thickness was a mistake.
+
+[img](imgs/20211202)

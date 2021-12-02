@@ -63,10 +63,17 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - rock road https://www.bilibili.com/video/BV1eA411x79o?t=9m
 
 ## Concrete
+- wall https://www.ixigua.com/6910163216739860996?logTag=810c2f3f2b8638b13c69
+  - apply first, then use ruler to get flat surface
+- Pitfalls
+  - don't try to put yourself in a place that you have to apply more than 2cm thickness, just not possible without multi days dry and apply again cycle.
+- repair floor https://www.ixigua.com/6999130854740263455
+- corners https://www.ixigua.com/6566939658561782286
+  - how to use 靠尺, 
 - how to get smooth surface?
-  - do the many body with rock-rich concrete
-  - on the top use rock-less concrete
-  - add just cement on top, smooth out
+  - add just dry cement on top, smooth out
+    - https://www.ixigua.com/6682729471956484621
+    - with soft surface trowel https://www.ixigua.com/6441793292739805709
   - wait for three hours, add more cement on top, smooth out
 - Gateway
   - have expansion joint to do the work in multiple days https://youtu.be/h7tIjBEPiPU?t=275
@@ -605,7 +612,11 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - How to chase a wall and fit a metal back box - Chasing a Concrete Wall https://www.youtube.com/watch?v=g_spnVPsJ4I
 
 ## Power
+- fix PVC_Mini_Trunking to the wall https://www.ixigua.com/7023043781607817742
 - my current solution
+  - service drop wire 6 or 4 sqmm
+  - outlet bus 4 sqmm, but each outlet is 2.5 sqmm
+  - the red beaker is between two blue ones in the service meter box is mine
   - circuit breaker panel
     - 2p circult breaker: add live(L) and neutral(N) wire on top and then output at the bottom
       - https://www.bilibili.com/video/BV1ZJ41187GC
@@ -798,6 +809,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 
 
 ## Cost
+- get rid of the junk 300RMB
 - interior walls: 12400RMB
   - removing old surface: 1400RMB
   - apply concrete 11000RMB
