@@ -1,8 +1,8 @@
 ## TODOs
-- TODO: install leakage protector
-- heater wire for well pipes, make it to 60cm underground, mind how to tie them at the end, ask people
+- seal the chimney, otherwise water go straight to rock sheets.
 - apply concrete to well pit
-  - add insulation
+- vent inside rooms
+  - two vents in each room, one close to the door, one near the window
 - add air circuit breaker 空气开关 空开 https://happypeter.github.io/githome/imgs/20211113/1.jpg
 - 地暖循环泵（320元）深河老胡五金
   - 电热炉 1300RMB
@@ -63,15 +63,24 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - rock road https://www.bilibili.com/video/BV1eA411x79o?t=9m
 
 ## Concrete
-- wall https://www.ixigua.com/6910163216739860996?logTag=810c2f3f2b8638b13c69
-  - apply first, then use ruler to get flat surface
+- concrete flower pot is easy https://www.ixigua.com/7029232302513193505
+  - or mold with sand https://www.ixigua.com/6866945306760577539?
+  - https://www.ixigua.com/7036357030226952741?
+- 收光 smooth out road surface https://www.ixigua.com/6923831297160774151
+- wall https://www.ixigua.com/6910163216739860996
+  - https://www.ixigua.com/6850749091119366660
+  - apply first, then use ruler to remove protruding cement to get flat surface
+  
 - Pitfalls
   - don't try to put yourself in a place that you have to apply more than 2cm thickness, just not possible without multi days dry and apply again cycle.
+  - before you try to make surface smooth, make sure you get the surfaces as flat as possible
 - repair floor https://www.ixigua.com/6999130854740263455
 - corners https://www.ixigua.com/6566939658561782286
   - how to use 靠尺, 
+  - https://www.ixigua.com/6549050234725466638
 - how to get smooth surface?
-  - add just dry cement on top, smooth out
+  - USE RULER TO FLAT WALLS https://www.ixigua.com/6602790643943080451
+  - wait for 3hr, when the concrete hardens, add just dry cement on top, smooth out
     - https://www.ixigua.com/6682729471956484621
     - with soft surface trowel https://www.ixigua.com/6441793292739805709
   - wait for three hours, add more cement on top, smooth out
