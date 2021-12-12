@@ -1,5 +1,5 @@
 ## TODOs
-- seal the chimney, otherwise water go straight to rock sheets.
+- seal the chimney, otherwise water go straight to sheet rock.
 - apply concrete to well pit
 - vent inside rooms
   - two vents in each room, one close to the door, one near the window
