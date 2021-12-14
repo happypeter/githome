@@ -489,3 +489,9 @@ water pipe insulation reached more than 50cm underground.
 Apply concrete to the wall with more than 2cm thickness was a mistake.
 
 [img](imgs/20211202)
+
+## 2021214 Toliet
+
+Installed finally. 8hr work for just the installation.
+
+[img](imgs/20211214)
