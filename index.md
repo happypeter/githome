@@ -500,4 +500,4 @@ Installed finally. 8hr work for just the installation.
 
 Bought air nailers, compressor, miter saw, laswer level.
 
-[img](imgs/20211214)
+[img](imgs/20220115)
