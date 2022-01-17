@@ -495,3 +495,9 @@ Apply concrete to the wall with more than 2cm thickness was a mistake.
 Installed finally. 8hr work for just the installation.
 
 [img](imgs/20211214)
+
+## 20220115 Powertools
+
+Bought air nailers, compressor, miter saw, laswer level.
+
+[img](imgs/20211214)
