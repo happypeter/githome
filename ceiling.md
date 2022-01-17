@@ -1,0 +1,66 @@
+## false ceiling
+
+- Steel nail for concrete, how long should them be?
+  - 38 is common for ceiling https://tieba.baidu.com/p/5795598565
+    - no bolt needed
+    - the githome ceiling done by MasterLi used both ST38 and ST45 nails, no bolt used
+    - masterLi used F30 and T50, even T50 is longer than 2x20(the wood thickness), but I believe it make senses for the T joint cases
+
+- How To Install Drywall DIY Tutorial A to Z
+  -  https://www.youtube.com/watch?v=W-p7pvnMAq8
+  - tricks to hold dry wall if you work alone https://youtu.be/W-p7pvnMAq8?t=680
+  - how to cut drywall https://youtu.be/W-p7pvnMAq8?t=1438
+  - use thinner mud for the 3rd coat https://youtu.be/W-p7pvnMAq8?t=3060
+- wood or metal frame?
+  - wood tends to twist easily, for large area, metal is better
+  - wood is easily fixed with nails
+  - wood is cheap and esaier to install
+- 硅钙板 or 石膏板？
+  - https://www.suofeiya.com/gonglue/1115.html
+    - 硅钙板 is more water proof, less heavy, 3x more expensive
+    - but not that easy to apply putty?
+- 轻钢龙骨 metal frames https://www.ixigua.com/6890434122037395975
+  - https://www.ixigua.com/6963259485192356356
+  - 吊顶要用轻钢龙骨最好排三十的间距，吊筋80间距，副骨平整度0.5厘米内，拐角要拉斜筋，拐角封板要整板，二层板反面涂满白乳胶错缝大于30厘米，自攻螺丝间距不大于17厘米，板与板留缝半公分，，扇灰用专用填缝粉，还会开裂吗，一分钱一分货，价钱和质量成正比，不要想十元钱做出一百的活，本人深圳装修工，华润包工180一方
+- wood frames: https://www.ixigua.com/6732268444206498311
+  - https://www.ixigua.com/6848866472261845516
+    - 使用镀锌膨胀
+  - https://www.ixigua.com/6921889626366050819
+- add rockwool https://www.ixigua.com/6670772750170194440
+- laser level https://www.ixigua.com/6940732838375326241?logTag=c21543e517a1d4773da0
+- apply drywall mud 刮腻子 
+  - handle inset corner https://youtu.be/0M60wWmdFRU?t=393
+  - outset corner https://youtu.be/0M60wWmdFRU?t=828
+  - https://www.ixigua.com/7049986695735083534
+  - https://www.ixigua.com/7038158762141549071
+  - HomeRenoVision lots of details here https://www.youtube.com/watch?v=W-p7pvnMAq8
+
+- 修边机
+  - https://www.ixigua.com/7037819683311256071?logTag=bc7ad5500e15c85a726a
+  - 大有
+
+- nailer
+  - air compressor
+    - it is not that much pressure inside
+      - cola bottle version: https://www.ixigua.com/6449931719012254222
+    - https://www.ixigua.com/7037402822262194726?logTag=eaccc86683baac0d0cfd
+    - how to use the red button on top https://youtu.be/eJo3JMkv3JE?t=359
+    - what is a air-intaker  https://youtu.be/eJo3JMkv3JE?t=382
+    - when it is ready https://youtu.be/eJo3JMkv3JE?t=397
+    - can you plug and unplug with pressure in tank https://youtu.be/eJo3JMkv3JE?t=428
+    - why you may need a bigger tank https://youtu.be/eJo3JMkv3JE?t=446
+    - how to handle leakage https://youtu.be/ck-iOvFGWdw?t=511
+      - https://www.ixigua.com/6741629179424408067
+    - the drain, and drain it everyday https://youtu.be/ck-iOvFGWdw?t=530
+    - change air filter every 500hrs https://youtu.be/oqimm0E6x0U?t=261
+    - change pressure https://youtu.be/oqimm0E6x0U?t=403
+      - https://www.ixigua.com/6764330041347146243?logTag=4fe8fd45a2d46156bb6e
+      - https://www.ixigua.com/6798407334830801411
+    - 安全阀 Pressure Relief Valve
+      - 安全阀在系统中起安全保护作用。当系统压力超过规定值时，安全阀打开，将系统中的一部分气体排入大气，使系统压力不超过允许值，从而保证系统不因压力过高而发生事故。安全阀又称溢流阀
+      - https://www.ixigua.com/6764330041347146243
+      - replace a valve https://www.youtube.com/watch?v=PB6s7ssoIHg
+      - basics https://www.youtube.com/watch?v=Isc08DU6WTE
+      - my job is to make sure the value is not blocked by dragging from time to time
+        - https://youtu.be/oqimm0E6x0U?t=597
+      - http://www.chanun.com.cn/articles/kyjylr.html

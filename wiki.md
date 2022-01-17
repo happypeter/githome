@@ -47,6 +47,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 
 ## Heating
 
+- 空气能 is nice and cheap https://www.ixigua.com/7034431111501447716
 - floor heating is good
   - it is most energy efficient way to do heating, not sure
   - with it, I don't need to worry about insulation for floor
@@ -62,10 +63,10 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - sewer pipe https://www.bilibili.com/video/BV1eA411x79o
 - rock road https://www.bilibili.com/video/BV1eA411x79o?t=9m
 
-## Wood work
-- hand tools https://www.ixigua.com/6957771654256656910
 
 ## Concrete
+- brick wall https://www.ixigua.com/6955607650042282510
+  - use foam board to smooth out the concrete
 - concrete flower pot is easy https://www.ixigua.com/7029232302513193505
   - or mold with sand https://www.ixigua.com/6866945306760577539?
   - https://www.ixigua.com/7036357030226952741?
@@ -366,6 +367,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - incoming water main valve and filter https://www.bilibili.com/video/BV1Uv411B7g1
 
 ## Bathroom
+- ceiling: 耐水石膏板 is OK https://www.ixigua.com/6967584244864549409
 - water-proof
   - paint 2 times
     - wait 6hr before the second paint
@@ -881,5 +883,4 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   githome, Putty included. If I want the meterial+labor, it is 25RMB/sqm,
   githome is around 120sqm(wall surface), so it's 3000RMB for water proof
   painting.
-- May Hire: 20RMB/sqm for the false ceiling with plaster board.
 - Excavator for cow feeders, trench, hole 900RMB
