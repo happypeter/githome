@@ -6,14 +6,27 @@
 - add air circuit breaker 空气开关 空开 https://happypeter.github.io/githome/imgs/20211113/1.jpg
 - 地暖循环泵（320元）深河老胡五金
   - 电热炉 1300RMB
+- fix the falling drywalls
+  - remove the pieces falling(maybe cut part of that piece)
+  - nail new wood frame
+  - screw the dry wall back
+- use veneers/wood on false ceiling
+  - https://www.ixigua.com/6834496795943371276?logTag=5efb83a1ee40da4bc227
+  - https://www.ixigua.com/6986058908309652002?logTag=922d8de2df1b75400c3d
+  - details with wood frames https://www.ixigua.com/7052143636187873795?logTag=a8e09b9f7cab0cf5cf92
+  - sauna board https://www.ixigua.com/6829250036472218127?logTag=f64a01401098b94a9797
 
-## style
-
-- warm color is great https://youtu.be/9By4mh34Rvg?t=154
-
-## Design Goals
+## Design Guideline
 
 - try to build everything modular/portable/usable as possible, cause I don't know when the gov will take down the whole village
+- warm color is great https://youtu.be/9By4mh34Rvg?t=154
+- interior general style: concrete wall + part of wood surface
+  - http://www.home-designing.com/2015/02/a-modern-summer-cottage-utilizes-tons-of-gorgeous-walnut/wood-and-concrete
+  - I don't really need wood veneer, nailing wood(well finished plywood, aka 生态板) board to the wall is easier/cheaper/resuable/customizable
+  - I don't need worry about floor trim
+    - https://www.trendir.com/concrete-interior-design-by-afgh/
+  - since concrete is more water proof(for bathroom and kitch), and budget friendly, so I will use a lot of the concrete surface for the walls
+    - the ceiling will be paint to white, concrete works well with white https://design-anthology.com/story/interiors-grey-taipei-ca-design
 
 ## entryway
 
@@ -52,6 +65,26 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - it is most energy efficient way to do heating, not sure
   - with it, I don't need to worry about insulation for floor
 
+## Interior Walls
+- apply another layer of cement(mixed with some 墙固，水性固化剂)
+  - like this https://www.youtube.com/watch?v=3lehA6IO56w
+  - if I want more smooth surface, I can sand the walls
+  - 墙固 can even make sand water proof https://www.bilibili.com/video/BV17Z4y1G7ZT
+  - from 抖音@大理十宿民宿东哥
+    - “纯水泥加水搅拌，调到类似乳胶漆的粘稠度，用滚筒滚在墙面上”
+- make the surface easy to clean
+  - apply 水性地坪漆：”三青漆地坪漆水泥地面漆“ ”罩光透明清漆“， bookmarked on Douyin
+    - 墙固 is like double side tape, it is sticky even after it drys.
+      - NOTE: 墙固 is also called 界面剂，which is NOT 罩面漆. 
+      - 抖音@大理十宿民宿东哥: 罩面漆就是透明胶，界面剂就是双面胶
+  - before 罩面漆，you need to garentee the suface has been "水泥收光找平”.
+- bathroom walls
+  - copy 抖音@大理十宿民宿东哥 , use "柔韧性防水，加水泥的”
+- make rooms bright
+  - concrete does not reflect well
+  - so I will nail light color plywood to the walls if necessary
+  - or hang some big white background pics
+
 ## exteior/yard/patio
 - windows/doors
   - people said, the glazing is 5cm(glass)*2+18mm(air gap) thick, real number is 24mm
@@ -63,31 +96,6 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - sewer pipe https://www.bilibili.com/video/BV1eA411x79o
 - rock road https://www.bilibili.com/video/BV1eA411x79o?t=9m
 
-
-## Concrete
-- brick wall https://www.ixigua.com/6955607650042282510
-  - use foam board to smooth out the concrete
-- concrete flower pot is easy https://www.ixigua.com/7029232302513193505
-  - or mold with sand https://www.ixigua.com/6866945306760577539?
-  - https://www.ixigua.com/7036357030226952741?
-- 收光 smooth out road surface https://www.ixigua.com/6923831297160774151
-- wall https://www.ixigua.com/6910163216739860996
-  - https://www.ixigua.com/6850749091119366660
-  - apply first, then use ruler to remove protruding cement to get flat surface
-  
-- Pitfalls
-  - don't try to put yourself in a place that you have to apply more than 2cm thickness, just not possible without multi days dry and apply again cycle.
-  - before you try to make surface smooth, make sure you get the surfaces as flat as possible
-- repair floor https://www.ixigua.com/6999130854740263455
-- corners https://www.ixigua.com/6566939658561782286
-  - how to use 靠尺, 
-  - https://www.ixigua.com/6549050234725466638
-- how to get smooth surface?
-  - USE RULER TO FLAT WALLS https://www.ixigua.com/6602790643943080451
-  - wait for 3hr, when the concrete hardens, add just dry cement on top, smooth out
-    - https://www.ixigua.com/6682729471956484621
-    - with soft surface trowel https://www.ixigua.com/6441793292739805709
-  - wait for three hours, add more cement on top, smooth out
 - Gateway
   - have expansion joint to do the work in multiple days https://youtu.be/h7tIjBEPiPU?t=275
   - a concrete road is the best and most expensive one that I can build on my own, so the first question is do I really need it, will brick paver or stepping stone will do.
@@ -111,28 +119,12 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     they told me with 100% confidence that it is still as strong.
 - driveway
   - https://youtu.be/vK9BRLVAbQQ?t=192
-- grinder
-  - a lot of heads https://www.youtube.com/watch?v=Z4_grBC-U80
-  - it needs a handle https://youtu.be/FmgDFa-jO_E?t=611
-  - you can use masonary blade for metal https://youtu.be/ZOFrzLpBqf4?t=98
-  - mind the direction of the blade, when installing
-- circular saw
-  - how to use https://youtu.be/ZOFrzLpBqf4?t=325
+
 - how to fix the cracked beams
   - Repairing 200 Years old wood Beams https://www.youtube.com/watch?v=R1NA1R6v5FY
 - how to break concrete? use pulse drills https://youtu.be/3m8Ka4U6B5s?t=103
   - https://youtu.be/gbXEsDDeZAk?t=724
-- wall
-  - clean the clay on the wall https://youtu.be/YIg3IAafK6k?t=144
-  - open a window
-  - https://youtu.be/Wcbli_RTJPI?t=35
-  - mesh under concrete https://youtu.be/Wcbli_RTJPI?t=128
-  - paint white without smooth surface https://youtu.be/JEXrw5SB6Yg?t=292
-  - how to expose the stone of the wall https://www.youtube.com/watch?v=n8Uw5HboRO0
-  - how to clean the wall https://youtu.be/YIg3IAafK6k?t=109
-  - how to break the wall, bigger windows https://youtu.be/3nmK8qZzOsU?t=388
-    - https://www.youtube.com/watch?v=g73-6j3Yzl8
-
+ 
 ## Plumbing: Drain and Sewer
 - data:
   - the outside cleanout is 90cmx30cm to the walls of the house. ![](imgs/20210426/3.jpg)

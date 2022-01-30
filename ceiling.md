@@ -38,7 +38,31 @@
 - 修边机
   - https://www.ixigua.com/7037819683311256071?logTag=bc7ad5500e15c85a726a
   - 大有
-
+- circular saw 电圆锯
+  - 11 WORST CIRCULAR SAW MISTAKES! https://www.youtube.com/watch?v=YPz1orpvbyI
+  - circular saw is more vosatile than a table saw, but lack the accuracy
+    - but if you only have budget for one, you have to go to circular saw
+    - you can get accuracy by setup https://youtu.be/CfyWDp9uRes?t=419
+    - I do need a ruler like this https://youtu.be/CfyWDp9uRes?t=593
+      - or you can make your own guide https://www.youtube.com/watch?v=-GgvUY7mALY
+  - how to fix saw stuck in the middle https://youtu.be/3VUO5_bpU8g?t=602
+  - if you want to use circular saw as a table saw, a lock button 锁定按钮 is a must
+    - Does 东成 have it?
+    - makita does.
+  - 牧田 makita vs 东成
+    - makita is king of all circular saws
+    - being light is a advantage
+      - makita M5802B 185mm is 4.0kg
+      - 东成 ff02 is 6.5kg
+    - more powerful is good
+      - makita 1050w
+      - 东成 2000w
+    - 可倒装 upside down install?
+      - makita has the power lock button
+      - 东成 可倒装, but not sure about the button?
+    - cut depth?
+      - makita: 90degree 68mm, 45degree 46mm
+      - 东成： 90degree 85mm, 45degree, 600mm
 - nailer
   - air compressor
     - it is not that much pressure inside

@@ -501,3 +501,9 @@ Installed finally. 8hr work for just the installation.
 Bought air nailers, compressor, miter saw, laswer level.
 
 [img](imgs/20220115)
+
+## 20220130 Woodwork
+
+Did my own table saw.
+
+[img](imgs/20220130)
