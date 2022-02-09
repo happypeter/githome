@@ -829,7 +829,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - wood frame: 400RMB
   - rocksheet: 600RMB
   - labor: 1800RMB for installing rocksheets
-- foamboard: 300RMB*1.5cubicmeter(CBM)
+- foamboard: 300RMB per 1.5cubicmeter(CBM)
 - hotwater pipe 20mm: 24RMB*8
 - cable
   - 2.5smm: 3RMB*155m 4smm: 30m*3.5RMB
@@ -862,7 +862,10 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - 11.2m twisted steel 44RMB  
 - gravels 1cbm 200RMB
 - plastic film 143RMB
-- mineral wool: 600RMB/20sqlm + 160(shipping+transportation)
+- mineral wool: 5cm thickness, 600RMB/20sqlm + 160(shipping+transportation)
+  = second purchase, 249RMB, 1.2x40m, 10cm thickness
+    - 60RMB/sqm to 5RMB/sqm, more than 10 times price differece!
+      - but sure this time the dencity is low, cause it is rolls, not boards
 - Underfloor Heater
   - 2100RMB for labor
   - 2000RMB for material
