@@ -507,3 +507,9 @@ Bought air nailers, compressor, miter saw, laswer level.
 Did my own table saw.
 
 [img](imgs/20220130)
+
+## 20220209 more Woodwork
+
+Build boxes.
+
+[img](imgs/20220209)
