@@ -513,3 +513,9 @@ Did my own table saw.
 Build boxes.
 
 [img](imgs/20220209)
+
+## 20220212 DIY fasle ceiling
+
+All do it myself.
+
+[img](imgs/20220212)

@@ -10,11 +10,6 @@
   - remove the pieces falling(maybe cut part of that piece)
   - nail new wood frame
   - screw the dry wall back
-- use veneers/wood on false ceiling
-  - https://www.ixigua.com/6834496795943371276?logTag=5efb83a1ee40da4bc227
-  - https://www.ixigua.com/6986058908309652002?logTag=922d8de2df1b75400c3d
-  - details with wood frames https://www.ixigua.com/7052143636187873795?logTag=a8e09b9f7cab0cf5cf92
-  - sauna board https://www.ixigua.com/6829250036472218127?logTag=f64a01401098b94a9797
 
 ## Design Guideline
 
