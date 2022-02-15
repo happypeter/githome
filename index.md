@@ -519,3 +519,9 @@ Build boxes.
 All do it myself.
 
 [img](imgs/20220212)
+
+## 20220215 fasle ceiling, wiring and insulation
+
+Enhanced the structure in the center for pendant fan. the virtical wire and the adjacent strips is 3(to the south), 13(to the west and east).
+
+[img](imgs/2022015)

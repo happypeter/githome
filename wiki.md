@@ -1,4 +1,5 @@
 ## TODOs
+- use plywood as kitchen cabinet top https://youtu.be/fXtzfnT9smM?t=110
 - seal the chimney, otherwise water go straight to sheet rock.
 - apply concrete to well pit
 - vent inside rooms
