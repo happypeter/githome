@@ -524,4 +524,10 @@ All do it myself.
 
 Enhanced the structure in the center for pendant fan. the virtical wire and the adjacent strips is 3(to the south), 13(to the west and east).
 
-[img](imgs/2022015)
+[img](imgs/20220215)
+
+## 20220216 Shelf
+
+Build my own shelf.
+
+[img](imgs/2022016)
