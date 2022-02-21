@@ -537,3 +537,9 @@ Build my own shelf.
 For the french cleat system. see `edocs/tape_holder.c`
 
 [img](imgs/20220218)
+
+## 20220221 Nice Ply+MDF+Strip Box
+
+cool result
+
+[img](imgs/20220221)

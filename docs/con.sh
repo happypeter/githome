@@ -11,6 +11,7 @@ fi
 cd imgs
 echo create dir $dirname
 mkdir $dirname && cd $dirname
+touch aaaaa
 mv ~/Desktop/*.jpeg .
 for f in *.jpeg; do
   filename=${f%.jpeg}
