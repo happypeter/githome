@@ -549,3 +549,9 @@ cool result
 grinding is fun
 
 [img](imgs/20220222)
+
+## 20220223 New holders
+
+upgrade my tape/pen holders
+
+[img](imgs/20220223)
