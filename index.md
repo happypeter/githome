@@ -555,3 +555,8 @@ grinding is fun
 upgrade my tape/pen holders
 
 [img](imgs/20220223)
+
+## 20220226 New holders
+
+Ceiling.
+[img](imgs/20220226)
