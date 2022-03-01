@@ -559,4 +559,10 @@ upgrade my tape/pen holders
 ## 20220226 New holders
 
 Ceiling.
+
 [img](imgs/20220226)
+
+## 20220301 New holders
+
+done with sheathing.
+[img](imgs/20220301)
