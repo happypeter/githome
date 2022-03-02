@@ -566,3 +566,8 @@ Ceiling.
 
 done with sheathing.
 [img](imgs/20220301)
+
+## 20220302 Ceiling crown
+
+crown molding.
+[img](imgs/20220302)
