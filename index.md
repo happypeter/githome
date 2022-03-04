@@ -571,3 +571,9 @@ done with sheathing.
 
 crown molding.
 [img](imgs/20220302)
+
+## 20220304 Boxes
+
+Embedded Boxes.
+
+[img](imgs/20220304)
