@@ -607,3 +607,9 @@ Things.
 Things.
 
 [img](imgs/20220325)
+
+## 20220326 Ceiling
+
+Things.
+
+[img](imgs/20220326)
