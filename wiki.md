@@ -1,84 +1,14 @@
-## Design Guideline
-
-- try to build everything modular/portable/usable as possible, cause I don't know when the gov will take down the whole village
-- warm color is great https://youtu.be/9By4mh34Rvg?t=154
-- interior general style: concrete wall + part of wood surface
-  - http://www.home-designing.com/2015/02/a-modern-summer-cottage-utilizes-tons-of-gorgeous-walnut/wood-and-concrete
-  - I don't really need wood veneer, nailing wood(well finished plywood, aka 生态板) board to the wall is easier/cheaper/resuable/customizable
-  - I don't need worry about floor trim
-    - https://www.trendir.com/concrete-interior-design-by-afgh/
-  - since concrete is more water proof(for bathroom and kitch), and budget friendly, so I will use a lot of the concrete surface for the walls
-    - the ceiling will be paint to white, concrete works well with white https://design-anthology.com/story/interiors-grey-taipei-ca-design
-
-## entryway
-
-- MUST HAVES: mirror, tmp storage(a table or shelf), shoe stools
-
-## furnature
-
-- use drawers
-  - especially for lower spaces, you don't need bend your back too much
-    everytime
-- all should have tall legs
-  - floating is even better than tall legs
-  - pros:
-    - Nordic style, really make the space airy and spacious
-    - Robot Vacuum friendly
-    - easy to clean
-  - cons:
-    - always more expensive
-
-## workbench
-
-https://www.youtube.com/watch?v=QNFnyD8gAYc
-
-- lawn
-  - it takes lots of time to take care of a lawn
-
-## lighting
-
-- I will go professional on lighting system
-- install 3 lights on each beam
-
-## Heating
-
-- 空气能 is nice and cheap https://www.ixigua.com/7034431111501447716
-- floor heating is good
-  - it is most energy efficient way to do heating, not sure
-  - with it, I don't need to worry about insulation for floor
-
-## Interior Walls
-- apply another layer of cement(mixed with some 墙固，水性固化剂)
-  - like this https://www.youtube.com/watch?v=3lehA6IO56w
-  - if I want more smooth surface, I can sand the walls
-  - 墙固 can even make sand water proof https://www.bilibili.com/video/BV17Z4y1G7ZT
-  - from 抖音@大理十宿民宿东哥
-    - “纯水泥加水搅拌，调到类似乳胶漆的粘稠度，用滚筒滚在墙面上”
-- make the surface easy to clean
-  - apply 水性地坪漆：”三青漆地坪漆水泥地面漆“ ”罩光透明清漆“， bookmarked on Douyin
-    - 墙固 is like double side tape, it is sticky even after it drys.
-      - NOTE: 墙固 is also called 界面剂，which is NOT 罩面漆. 
-      - 抖音@大理十宿民宿东哥: 罩面漆就是透明胶，界面剂就是双面胶
-  - before 罩面漆，you need to garentee the suface has been "水泥收光找平”.
-- bathroom walls
-  - copy 抖音@大理十宿民宿东哥 , use "柔韧性防水，加水泥的”
-- make rooms bright
-  - concrete does not reflect well
-  - so I will nail light color plywood to the walls if necessary
-  - or hang some big white background pics
-
-## exteior/yard/patio
-- windows/doors
+## windows/doors
   - people said, the glazing is 5cm(glass)*2+18mm(air gap) thick, real number is 24mm
   - people said the thickness of the frame is 70mm(thickness), which is very generous.
   
-  - TODO: install wood blocker to protect the doors from sudden wind.
-- yard wall
+
+## yard wall
   - use wood on top of stone is good idea https://youtu.be/t4_2pRnSN4E?t=28
 - sewer pipe https://www.bilibili.com/video/BV1eA411x79o
 - rock road https://www.bilibili.com/video/BV1eA411x79o?t=9m
 
-- Gateway
+## Gateway
   - have expansion joint to do the work in multiple days https://youtu.be/h7tIjBEPiPU?t=275
   - a concrete road is the best and most expensive one that I can build on my own, so the first question is do I really need it, will brick paver or stepping stone will do.
   - keep a slope to drive water away
@@ -337,101 +267,12 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - test if the pipe joints are well sealed https://www.bilibili.com/video/BV1Af4y1U7Wj
 - incoming water main valve and filter https://www.bilibili.com/video/BV1Uv411B7g1
 
-## Bathroom
-- ceiling: 耐水石膏板 is OK https://www.ixigua.com/6967584244864549409
-- water-proof
-  - paint 2 times
-    - wait 6hr before the second paint
-  - dry area is taller than wet area, no slope needed 
-    - https://www.bilibili.com/video/BV1YA411379s?from=search&seid=13385341877063408161
-  - use concrete to build a dam, before you do the painting
-  - spary some water, wait before the water is totally dry to paint
-    - https://www.bilibili.com/video/BV1ri4y1P7ku/?spm_id_from=333.788.b_7265636f5f6c697374.5
-  - faucet on the wall may leak water, make sure the screw is out of the exterior layer of the wall
-- slope for the drain, and second layer draining
-  - https://www.bilibili.com/video/BV1Fb4y197x7?t=4m18s
 
-## Insulation
-- roof
-  - robustness
-    - the roof is in arch shape, so it is self-supporting, the under-layer clay and straws were temparary support when the roof was built.
-  - Ref: cover the rafters with insulation: https://www.bilibili.com/video/BV1ib4y1C7LQ?t=5s
-  - concrete is not 100% water tight, so I see half wet clay under it, I see mold on the rafters.
-    - TODO: water tight the roof
-- fresh air
-  - use pipes to connect all the room, open vent on every ceiling, only have one one vent connected to outside, considering having HRV at the vent, https://youtu.be/secB3R0sIYU?t=338
-- why I can not have insulation false ceiling?
-  - once I have false ceiling. ventilation is MUST in winter to prevent the
-    wood to rot
-    - https://www.bilibili.com/video/BV1cy4y117Tc according to him ventilation
-      is not always necessary for wood
-  - but then I have to build a very thick false ceiling to stop the coldness
-    in attic space and make the original 10cm concrete heat proofing roof useless
-  - out door air connected ventilation is a MUST, espeially in winter
-    - I may need to install a professional heat recovery ventilator to push the air flow and
-      keep bugs away
-- roof insulation, replace the clay layer with foam/rockfiber, https://youtu.be/ibjiChTQZEI?t=105
-  - Me: use some rockfiber, and do add a vapor barrier
-  - masterLi: cover everything with drywall, seal the drywall perfectly, that's means no venting for the beams and rafters, he's confident that will cause no trouble. I like the idea, plasterboard is now another layer of insulation. Now the false ceiling is part of the roof, so I don't have a attic space really, just a compact roof. But, for security, I may check the wood behind the plasterboard from time to time.
-- use vapor barrier
-  - https://youtu.be/RAoSs392u8o?t=530 have a continuous system with no weakness 
+## insulations
 
-- material
-  - wear mask and long sleeves to install both firberglass and stonewool https://youtu.be/wH4Oyj4fNxQ?t=503
-  - fiberglass holds the water BAD https://youtu.be/5OEvZXSNaoY?t=209
-    - Rockwool won't change shape due to water(dementional stability), lower thermal drift
-      - not absorbant to water, water proof https://youtu.be/wH4Oyj4fNxQ?t=386
-      - https://youtu.be/3hBoPcNtL54?t=1252
-    - rockwool is a better product, and is twice as expensive https://youtu.be/wH4Oyj4fNxQ?t=284
-    - the r value all come from how much air they trap https://youtu.be/wH4Oyj4fNxQ?t=316
-  - https://youtu.be/OJ9u3pDQeM4?t=71
-    - 'closed cell spray foam' is special, the rest are all about the same r
-      value, around 3.6
-- “Houses need to BREATHE!” - Shut your filthy mouth https://www.youtube.com/watch?v=CIcrXut_EFA
-  - we need the house be perfectly air-tight, then we need controlled
-    ventilation system
-- four layers to control
-  - water, air, Vapor, Thermal(insulation)
-- why well-sealed false ceiling and everything?
-  - the biggest heat killer winter is air flow https://youtu.be/BDTYAz6pEHY?t=389
-  - how? https://youtu.be/vShj1l0PnF0?t=238 plastic sheets
-  - air flow prevention with spray foam https://youtu.be/1BcqeQJqp08?t=135
-  - exhaust fans are big enemies to sealing https://youtu.be/1BcqeQJqp08?t=586
-- How to vent attic space?
-  - my father's house use shingle vent plus gable vent, that's a lot of
-    venting, that's why the attic area is always same temperature as outer
-    space, as it should. - https://youtu.be/ckXfYty_Cqg?t=90 'you attic air is supposed to be the
-    same temperature as the outdoor air', of course, if you intentionally
-    have small vents, you can get a warmer attic, then you are doing it wrong, end
-    up with ice dams and ruin your house.
-  - https://youtu.be/vShj1l0PnF0?t=59 Both high and low vents are needed to get
-    good circulation.
-  - Eave vent as low vent, Roof vent as high.
-  - how big should the vents be?
-    - 1 to 150 rule https://youtu.be/vShj1l0PnF0?t=238
-    - use 1 to 300 rule if you have enough high vents
-- To false ceiling, or Not to?
-  - in my case, having a compact unvented roof is a clear win
-    - attic space is usually as cold as outer space, that's how it works,
-      otherwise it's not a properly vented attic, you will have problems like
-    - I will do false ceiling, but my insulation will be done on the underside
-      of the roof, so my attic is a conditioned space https://youtu.be/VcRPGQoeO9Q?t=107 ice daming or sth
-      - spary foam is perfect match for conditioned attic https://youtu.be/F7D4Q3mjgdQ?t=201 and it's common pratictise in USA
-  - I need to know the R-value of my current roof, that is the flyash layer.
-  - false ceiling is always air leaking, no matter how hard you try to prevent
-    that, since people run cable above the ceiling, you always need holes to install all sorts of devices. https://youtu.be/1BcqeQJqp08?t=1296, while my flyash baby is water proof, so is also mostly air tight.
-    - even the expert promoting it can not say vented attic always
-      win https://youtu.be/Ld8pzIu45F8?t=1397
-    - use false ceiling just for hiding ugly things, while use real roof for
-      heat/wind/water isolation, seems to be such a good modular design.
 - why vented attic space?
 
-  - even the guy who promote home-temprature attic space wants ventilation for
-    the rafters https://youtu.be/6F_IkZJ8NOY?t=209 'a vented roof, but unvented attic'
-    - building dusts in vented attic space is a bad idea https://youtu.be/Ld8pzIu45F8?t=233 the reason they want 'unvented attic' is for the ducts of HVAC system,
-      which don't apply to my case here.
-  - without ventilation, a false ceiling will makes the room hotter at summer
-    night.
+
   - without ventilation, roof gets warm in winter, so you get ice dams https://youtu.be/6F_IkZJ8NOY?t=223
   - ice dam can cause water leaking for your roof https://youtu.be/VcRPGQoeO9Q?t=44
   - ice dams shows up, because your whole roof(with or without attic space)
@@ -460,73 +301,22 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - make exterior wind resistant, interior heat resistant
   - Wangpeng suggested if we have thick wall, we don't really need wall
     insulation so much. I aggree, at least not as key as ceiling/floor/windows.
-- ceiling
-  - vent inside rooms
-    - open one whole close the soutch window and another close to north wall
-    - this is from the villager's suggestion
 
-  - aviod condensation/ventilation
 
-  - depending on where you have a vent to outside the house in your attic
-    space, you maybe need to do insulation on ceiling or false ceiling
-    - https://youtu.be/fJ9-mCl6Luk?t=220
-- Spray Polyurethane Foam
-  - https://www.youtube.com/watch?v=6-xPIgRLuBE
-  - http://www.xdbw11.com/15591418-Products-16986822/
-- interior vapor barrier is a MUST
-  - https://youtu.be/RAoSs392u8o?t=771
-  - have perfectly well sealed ceiling on the top of dry area of bathroom, to
-    protect the wood above, use exaust fan as vent
-- a DIY possible way to do it https://youtu.be/RAoSs392u8o?t=17 firber glass
-  - 'Insulation only work when you don't have air movement', aka, sealed well
-- windows
+
+##  windows
   - windows needs to be protected from summer sun https://youtu.be/xepx8yp1IPM?t=206
   - invest in three layer glass windows to save heating cost
   - why not vinle windows?
     - welded corner is not aesthetic https://youtu.be/wyyM5es8MeI?t=34
     - aluminum is much more easier to install(maybe uninstall)https://www.jyjbs.com/lhj/1613.html
   - same logic here, build a shed to shelter the west wall from setting sun
-- isulation is MUST
-  - a properly designed isulation system can reducing energy cost by 90% https://youtu.be/Hz6qomFM_dw?t=51
-- wall and windows https://youtu.be/Hz6qomFM_dw?t=200
-- painting the roof to light color helps a lot to keep the room cool in summer
-  - https://en.wikipedia.org/wiki/Building_insulation
-- General Principles of Thermal Insulation http://www.gharexpert.com/tips/articles/Construction/1607/Finishing-1607-Thermal-Insulation-Home_0
-  - Shining and heat reflecting coating may be applied on the top of exposed roof like paint.
-  - These coatings can serve dual purpose of water proofing and heat reflection.
-  - In case of flat roof you can create air space on top of roof by placing asbestos sheet on brick pillars.
-- heat proof roof
-  - paste a film on top of the roof, search 拼多多 '防晒隔热膜'
+
 
 ## laundry
 - wall hung hampers
 - hang basins and everything
 
-## Living Room
-- living room also bedroom, so wo need a versatile bed
-- a bed https://youtu.be/0df9v3xCzeU?t=85
-- sofa bed https://youtu.be/XwjFD6romAY?t=43
-
-## Bathroom
-- toliet needs to stay in it's own room
-  - not together with anything, not shower, not washing machine
-  - needs a powerful sparyer for its own
-- wet and dry zone
-  - shower is definetly wet zone, so requires its own drain and floor water barrier
-- why not a all-in-one portable prefabricated toliet unit?
-  - the floor is above the room floor, not safe when floor is wet
-  - I don't think I need a door for the toliet
-  - I want to share a exhaust fan with shower
-    - MasterLi: hide the fan behind plasterboard(Chinese drywell, 石膏板), drill a hole on the wall, share the hole with drainline venting
-  - so some simple half-transparent 1.5m glass screen will do
-  - I will build everything(shower/toliet) right on the floor and use black frame glass as seperators
-- wall hung vanity
-  - just a small basin, no need for extra space, otherwise more clean work
-  - no drawer or cabinet needed, install floating shelves on the side
-- hang everything
-- vent
-  - https://youtu.be/PqrZWd_CQIE?t=54
-  - install a exhaust fan https://youtu.be/AXP4uhIbmyQ?t=806
 
 ## toliet
 - how to install wall hung toliet https://youtu.be/UNw3Sy4uP1Y?t=114
@@ -586,6 +376,8 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - How to chase a wall and fit a metal back box - Chasing a Concrete Wall https://www.youtube.com/watch?v=g_spnVPsJ4I
 
 ## Power
+- conduit is 1m to the north of above ground PVC 5cm pipe
+  - https://happypeter.github.io/githome/imgs/20220327/
 - fix PVC_Mini_Trunking to the wall https://www.ixigua.com/7023043781607817742
 - my current solution
   - service drop wire 6 or 4 sqmm
@@ -655,10 +447,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - ceiling height: 320cm
 
 ## Kitchen
-- shelf
-  - PDD “角钢置物架” Angle Steel Shelf
-    - One big and maybe two smaller ones
-    - white
+
 - sink counter
   - PDD white cabinet I bookmarked
 - floor must be un sticky to stains, choose the right painting
@@ -670,79 +459,6 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - dinning room is a good place
 - different height for sink and stove https://www.sohu.com/a/161454935_99890682
 
-## cleaning system
-- hang everything
-  - including toliet
-- mop
-  - old style string mob and a platic bucket to take every where.
-  - don't build fixed basin for mop, it is not safe enough.
-  - this is good `https://www.youtube.com/watch?v=_w3E8isgONE`
-- swill bucket
-  - with filter and drain at the bottom of course
-
-## interior surface (walls, ceiling and floors)
-- materials
-  - use steam room board 桑拿板 for the wall
-    - it looks greate https://youtu.be/qWvoYMf5iC4?t=59
-    - it's perfectly OK to mix steamroom board with white
-    - so I think I will use steamroom board for kitchen and bath
-      - toliet https://www.pinterest.jp/pin/717057571924820193/
-      - kitchen ceiling https://www.pinterest.jp/pin/AZrSbmjzpQWevqzDmTWfPDUoTaw2iwwmQGSAx2HxqMv8-Wtf_9CbnyQ/
-      - bath https://www.sohu.com/a/352211714_559938 https://www.pinterest.jp/pin/351912460681803/ https://www.pinterest.jp/pin/805581452086030279/ https://www.pinterest.jp/pin/427067977167172517/
-  - kitchen wall in front of stove?
-    - use large piece of wood board, cover with some special painting or wall paper that is easy to clean
-  - I don't like Porcelain tile, cause it is not reusable
-  - can I use steamroom board in place of
-  - use 生态板 plywood if you want solid feel for the wall
-  - use plasterboard when for ceiling and where you need to open holes, cause its clean look
-  - try to use more expensiv [e wood because its reusable
-
-- use water-proof plaster for kitchen/bathroom
-  - https://www.bilibili.com/video/BV1oU4y1H7R4
-- ceiling
-  - cover everything with drywall, wrap around beam to keep the height of the room
-  - it's a good idea brought by MasterLi
-  - as to insulation and venting, check insulation
-- ceiling basic info
-  - beam to floor height: 259cm
-  - rafter: 12cm diameter and 172cm long
-  - structure: fix rotten rafters, support the broken beam with a pillar
-  - aesthetic: hide everything(beams, rafters, cable pipes) with platerboard ceiling
-    - leave a vent on the ceiling, let room air go freely to the attic space, so
-      we don't need real ventilation
-      - https://youtu.be/dee7g_HtMIQ?t=95
-    - so the false ceiling is not for insulation
-- use wood frame to hold plasterboard for the false ceiling, so that I can nail for
-  lighting fixtures.
-- https://youtu.be/weTsUYj0FXI?t=769 condensation is the root of all evil,
-  when it comes rotten wood.
-- HOWTO build the false ceiling https://www.bilibili.com/video/BV1Sy4y1m7PY
-  - wood frame is not for plasterboard ceiling, if you don't want cracks
-- About wood https://www.bilibili.com/video/BV1cy4y117Tc
-  - most wood is now imported from other countries
-  - the wood is pre-processed to kill bugs and dried
-- bath ceiling
-  - water proof drywall https://www.zhihu.com/zvideo/1346402176063963138
-    - 180RMB/sqm
-- the roof was built with fly ash, very good heat isulator, strong enough as part of the sturcture, I went to 慕义寨, checked other old house, the roofs
-  are all in good shape.
-- Floor
-  - I still love 自流平 cement floor.
-  - after finishing the base layers, give it a week before you do the hard surface
-  - self leveling concrete https://www.bilibili.com/video/BV1Zv411k7zU?t=1m52s
-- use wood frames like a typical US home does https://youtu.be/Arkq3lLuo0U?t=476
-- walls
-  - So once the wall surface is cleaned
-  - firstly I need to enhance the structure
-  - use wall glue 墙固 to keep the clay layer from falling in the future, as MasterLi guided.
-    - add 15% water, don't spray, paint.
-  - use plasterboard for all the walls, to hide pipes and water tanks
-- some ceilings may also use drywall
-  - https://www.bilibili.com/video/BV17t4y1D74f/
-
-## windows and doors
-- use black/drakgray windows, because the house aleadys have a lot of white shape or lines decorations, black is kind of invisible, does not add more details
-- pocket doors or barn doors are nice interior options
 
 ## Portable Home? or not
 - Inflation is here, it make a lot of sense to own my own tools/cars/materials to secure my wealth.
