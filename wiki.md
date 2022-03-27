@@ -466,15 +466,6 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     - this is from the villager's suggestion
 
   - aviod condensation/ventilation
-      - and also because the glazing is poor and foam is lacking, the inside
-        is not so warm and thus not so easy to have mositure anyway.
-      - does all the house need ventilation? Maybe NOT. https://youtu.be/QEPzyrynU6Q?t=430
-        - the the bathroom ceiling must be well sealed, and Maybe do a
-          vent to other room(if not outer space)
-    - https://youtu.be/dee7g_HtMIQ?t=94 this video suggest, if you have false
-      ceiling, a vent for attic space is a MUST
-    - so my plan is not to vent to outside space(e.g eave vent), but make big vent to indoor
-      space with a trap door(make the trap door fully sealable, and open it in witer to check the moisture rate of the roof), and use foam to cover the concrete room to avoid condensation, so the false ceiling is generally designed for aesthetic reason, not for insulation.
 
   - depending on where you have a vent to outside the house in your attic
     space, you maybe need to do insulation on ceiling or false ceiling
@@ -733,8 +724,7 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
 - bath ceiling
   - water proof drywall https://www.zhihu.com/zvideo/1346402176063963138
     - 180RMB/sqm
-- the roof was built with fly ash, very good heat isulator, strong enough as
-  part of the sturcture, I went to 慕义寨, checked other old house, the roofs
+- the roof was built with fly ash, very good heat isulator, strong enough as part of the sturcture, I went to 慕义寨, checked other old house, the roofs
   are all in good shape.
 - Floor
   - I still love 自流平 cement floor.
