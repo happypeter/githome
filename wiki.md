@@ -1,17 +1,3 @@
-## TODOs
-- use plywood as kitchen cabinet top https://youtu.be/fXtzfnT9smM?t=110
-- seal the chimney, otherwise water go straight to sheet rock.
-- apply concrete to well pit
-- vent inside rooms
-  - two vents in each room, one close to the door, one near the window
-- add air circuit breaker 空气开关 空开 https://happypeter.github.io/githome/imgs/20211113/1.jpg
-- 地暖循环泵（320元）深河老胡五金
-  - 电热炉 1300RMB
-- fix the falling drywalls
-  - remove the pieces falling(maybe cut part of that piece)
-  - nail new wood frame
-  - screw the dry wall back
-
 ## Design Guideline
 
 - try to build everything modular/portable/usable as possible, cause I don't know when the gov will take down the whole village
@@ -236,9 +222,6 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
   - don't expose pipes outside the finished walls, otherwise how can you install a cabinet neatly
   - don't use the main vent outlet too big, otherwise strong wind may
     lead to bounce of toliet water https://youtu.be/Y2o8upCxcqA?t=202
-  - don't use chimney as main vent, it is upward facing, lose most heat, not easy to install one-way valve
-    - I will seal all the chimneys before winter, maybe with spray foam.
-    - other than the roof, the chimney wall also needs to be insulated.
   - don't have a drain you don't use very often, when the water seal dries, it is
     a smell hole.
   - don't use two tees together, use double tee https://youtu.be/xpsLXmntINE?t=214
@@ -483,8 +466,6 @@ https://www.youtube.com/watch?v=QNFnyD8gAYc
     - this is from the villager's suggestion
 
   - aviod condensation/ventilation
-    - old houses don't need ventilation to avoid moisture, partly because they
-      have chimneys https://youtu.be/QEPzyrynU6Q?t=299
       - and also because the glazing is poor and foam is lacking, the inside
         is not so warm and thus not so easy to have mositure anyway.
       - does all the house need ventilation? Maybe NOT. https://youtu.be/QEPzyrynU6Q?t=430
