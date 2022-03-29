@@ -614,8 +614,14 @@ Things.
 
 [img](imgs/20220326)
 
-## 20220327 Retun To Gitome
+## 20220327 Return To Gitome
 
 Warm now, time to work on Githome renovation.
 
 [img](imgs/20220327)
+
+## 20220329 Ceiling
+
+Fix ventilation
+
+[img](imgs/20220329)
