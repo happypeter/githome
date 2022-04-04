@@ -625,3 +625,8 @@ Warm now, time to work on Githome renovation.
 Fix ventilation
 
 [img](imgs/20220329)
+
+## 20220404 Latch
+
+
+[img](imgs/20220404)
