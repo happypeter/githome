@@ -562,6 +562,8 @@
   githome is around 120sqm(wall surface), so it's 3000RMB for water proof
   painting.
 - Excavator for cow feeders, trench, hole 900RMB
+- 千业水泥 30RMB/bag x 10 
+  - by 杨户屯拖拉机胖胖师傅
 
 ## Mars workshop
 - Enhanced the structure in the center for pendant fan. the virtical wire and the adjacent strips is 3(to the south), 13(to the west and east).
