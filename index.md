@@ -633,3 +633,7 @@ Fix ventilation
 ## 20220402 Piping
 
 [img](imgs/20220402)
+
+## 20220420 Interior Doors
+
+[img](imgs/20220420)
