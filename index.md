@@ -637,3 +637,9 @@ Fix ventilation
 ## 20220420 Interior Doors
 
 [img](imgs/20220420)
+
+## 20220517 Plumbing
+
+I have internet and bathroom water by now.
+
+[img](imgs/20220517)
