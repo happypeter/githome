@@ -643,3 +643,9 @@ Fix ventilation
 I have internet and bathroom water by now.
 
 [img](imgs/20220517)
+
+## 20220529 Wifi
+
+this is how it looks when the wifi worked properly. Note light above number 2 was blinking.
+
+[img](imgs/20220517)

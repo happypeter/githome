@@ -1,3 +1,6 @@
+## wifi
+- see 20220529 note
+
 ## windows/doors
   - people said, the glazing is 5cm(glass)*2+18mm(air gap) thick, real number is 24mm
   - people said the thickness of the frame is 70mm(thickness), which is very generous.
