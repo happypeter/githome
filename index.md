@@ -649,3 +649,9 @@ I have internet and bathroom water by now.
 this is how it looks when the wifi worked properly. Note light above number 2 was blinking.
 
 [img](imgs/20220529)
+
+## 20220609 walls
+
+Mars bathroom light, and githome concrete work.
+
+[img](imgs/20220609)
