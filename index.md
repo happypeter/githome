@@ -655,3 +655,14 @@ this is how it looks when the wifi worked properly. Note light above number 2 wa
 Mars bathroom light, and githome concrete work.
 
 [img](imgs/20220609)
+
+## 20220620 Mars Sewer Pipe
+
+Note, the pipe outlet is at 1 third of the whole opening from east.
+
+[img](imgs/20220620)
+
+## 20220621 Retain Walls
+
+
+[img](imgs/20220621)
