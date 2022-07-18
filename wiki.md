@@ -8,7 +8,7 @@
   - the Fan should just show up in MiHome App
 
 ## windows/doors
-  - people said, the glazing is 5cm(glass)*2+18mm(air gap) thick, real number is 24mm
+  - people said, the glazing is `5cm(glass)*2+18mm(air gap)` thick, real number is 24mm
   - people said the thickness of the frame is 70mm(thickness), which is very generous.
   
 
@@ -522,7 +522,7 @@
   - rocksheet: 600RMB
   - labor: 1800RMB for installing rocksheets
 - foamboard: 300RMB per 1.5cubicmeter(CBM)
-- hotwater pipe 20mm: 24RMB*8
+- hotwater pipe 20mm: `24RMB*8`
 - cable
   - 2.5smm: 3RMB*155m 4smm: 30m*3.5RMB
 - gate: labor 1400RMB concrete+bricks 460RMB the metal gate 3000RMB

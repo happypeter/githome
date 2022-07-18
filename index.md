@@ -664,5 +664,10 @@ Note, the pipe outlet is at 1 third of the whole opening from east.
 
 ## 20220621 Retain Walls
 
-
 [img](imgs/20220621)
+
+## 20220718 Concrete shed pathway
+
+Three days work across 10 days time span.
+
+[img](imgs/20220718)
