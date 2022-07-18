@@ -1,6 +1,12 @@
 ## wifi
 - see 20220529 note
 
+## Mi Home Fan
+- press Power & NightMode to reset wifi
+  - when I change a new router
+  - then nothing else you need to do
+  - the Fan should just show up in MiHome App
+
 ## windows/doors
   - people said, the glazing is 5cm(glass)*2+18mm(air gap) thick, real number is 24mm
   - people said the thickness of the frame is 70mm(thickness), which is very generous.
