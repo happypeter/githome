@@ -671,3 +671,12 @@ Note, the pipe outlet is at 1 third of the whole opening from east.
 Three days work across 10 days time span.
 
 [img](imgs/20220718)
+
+## 20220722 Concrete Path Howto
+
+- smooth finish
+  - First, wait for at least 3hr till the surface is harden
+  - second, be very generous on putting cement powder, this is key
+
+
+[img](imgs/20220722)
