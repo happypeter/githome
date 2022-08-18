@@ -680,3 +680,9 @@ Three days work across 10 days time span.
 
 
 [img](imgs/20220722)
+
+## 20220818 Concrete & woodwork
+
+Table legs, more pathway, countertop.
+
+[img](imgs/20220818)

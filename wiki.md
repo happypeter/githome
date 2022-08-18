@@ -507,6 +507,9 @@
 
 
 ## Cost
+- 浅野水泥 650RMB/20bag
+- gravels: 300RMB for more than 2 m3, a tractor
+- sand: 300RMB for more than 2 m3, a tractor
 - get rid of the junk 300RMB
 - interior walls: 12400RMB
   - removing old surface: 1400RMB
