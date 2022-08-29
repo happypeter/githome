@@ -686,3 +686,9 @@ Three days work across 10 days time span.
 Table legs, more pathway, countertop.
 
 [img](imgs/20220818)
+
+## 20220828 Concrete Wall
+
+retain wall, and apply concrete to brick wall
+
+[img](imgs/20220828)
