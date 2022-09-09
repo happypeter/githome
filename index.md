@@ -692,3 +692,8 @@ Table legs, more pathway, countertop.
 retain wall, and apply concrete to brick wall
 
 [img](imgs/20220828)
+
+## 20220909 Billie Desk vs Yard Cable
+
+
+[img](imgs/20220909)

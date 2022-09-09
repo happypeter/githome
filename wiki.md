@@ -1,6 +1,11 @@
 ## wifi
 - see 20220529 note
 
+## power system
+
+- yard underground wires
+  - 60cm from the west wall of house,  40cm deep
+
 ## Mi Home Fan
 - press Power & NightMode to reset wifi
   - when I change a new router
