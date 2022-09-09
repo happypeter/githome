@@ -3,8 +3,9 @@
 
 ## power system
 
-- yard underground wires
-  - 60cm from the west wall of house,  40cm deep
+- yard underground wires/cables
+  - 50cm from the west wall of house,  40cm deep
+  - there are 3 points to the east of the house where you can drag the wires out of pipe, in case the wire fail to work, detail here https://happypeter.github.io/githome/imgs/20220909/
 
 ## Mi Home Fan
 - press Power & NightMode to reset wifi
