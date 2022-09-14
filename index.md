@@ -697,3 +697,8 @@ retain wall, and apply concrete to brick wall
 
 
 [img](imgs/20220909)
+
+## 20220914 shed
+
+
+[img](imgs/20220914)

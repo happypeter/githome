@@ -211,6 +211,9 @@
     - use lots of gravels, and you should keep the dirt away from the gravels https://youtu.be/SjZ95sGaD-k?t=485 I don't use cloth, but slab.
 
 ## Plumbing: incoming water/water supply
+- east wall(of master house) underground PE hose
+  - two PE hose inside a 5cm dia PVC pipe
+    - PVC pipe goes from south to north, from 1.5m from south yard wall to the south east corner of the master house.
 - insulation
   - 电伴热带 https://www.ixigua.com/7029214543645508107
   - https://www.ixigua.com/6902748767410684424
