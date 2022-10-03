@@ -709,3 +709,7 @@ retain wall, and apply concrete to brick wall
 ## 20220928 out gate slab
 
 [img](imgs/20220928)
+
+## 20221003 siding shed
+
+[img](imgs/20221003)
