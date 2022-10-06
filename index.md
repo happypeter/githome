@@ -713,3 +713,7 @@ retain wall, and apply concrete to brick wall
 ## 20221003 siding shed
 
 [img](imgs/20221003)
+
+## 20221006 DIY flanges
+
+[img](imgs/20221006)
