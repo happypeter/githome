@@ -717,3 +717,7 @@ retain wall, and apply concrete to brick wall
 ## 20221006 DIY flanges
 
 [img](imgs/20221006)
+
+## 20221013 Outdoor table
+
+[img](imgs/20221013)
