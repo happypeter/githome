@@ -721,3 +721,7 @@ retain wall, and apply concrete to brick wall
 ## 20221013 Outdoor table
 
 [img](imgs/20221013)
+
+## 20221015 Outdoor table and it's assitant
+
+[img](imgs/20221015)
