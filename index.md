@@ -1,3 +1,11 @@
+## 20221016 Side table
+
+Real joy to build things, foucs on the simplest solution, resue the same design patterns, a lot like building code, cool.
+
+[img](imgs/20221016/)
+
+---
+
 ## 20210307 cut grass
 
 First thing first.
