@@ -4,7 +4,11 @@ Real joy to build things, foucs on the simplest solution, resue the same design 
 
 [img](imgs/20221016/)
 
+[[ reverse ]]
+
 ---
+
+[[ in order ]]
 
 ## 20210307 cut grass
 
