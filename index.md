@@ -1,3 +1,9 @@
+## 20221017 Side table
+
+Now I can cut 4m lumber on my table, added shelves to the shed, measured foundation for my wookshop.
+
+[img](imgs/20221017/)
+
 ## 20221016 Side table
 
 Real joy to build things, foucs on the simplest solution, resue the same design patterns, a lot like building code, cool.
