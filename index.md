@@ -1,3 +1,10 @@
+## 20221020 shed foundation
+
+
+string lines and pits.
+
+[img](imgs/20221020/)
+
 ## 20221017 Side table
 
 Now I can cut 4m lumber on my table, added shelves to the shed, measured foundation for my wookshop.
