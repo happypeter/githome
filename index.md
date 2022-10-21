@@ -1,6 +1,9 @@
+## 20221021 shed foundation
+leveling and two footings.
+
+[img](imgs/20221021/)
+
 ## 20221020 shed foundation
-
-
 string lines and pits.
 
 [img](imgs/20221020/)
