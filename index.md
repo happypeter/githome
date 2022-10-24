@@ -1,3 +1,9 @@
+## 20221024 shelf box system
+
+pathway and box shelf system
+
+[img](imgs/20221024/)
+
 ## 20221021 shed foundation
 leveling and two footings.
 
