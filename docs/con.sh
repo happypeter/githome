@@ -20,4 +20,5 @@ for f in *.jpeg; do
   rm $f
 done
 
-echo 'now add img page link and diary in rootdir/index.md'
+# echo -e "$dirname\nsth else$(cat index.md)" > index.md
+echo 'done'
