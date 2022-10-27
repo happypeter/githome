@@ -1,6 +1,6 @@
 ## 20221027 concrete work
 
-pathway 
+pathway
 
 [img](imgs/20221027/)
 

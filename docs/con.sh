@@ -20,5 +20,7 @@ for f in *.jpeg; do
   rm $f
 done
 
-# echo -e "$dirname\nsth else$(cat index.md)" > index.md
+echo "adding img link to index.md"
+cd ../..
+echo "### $dirname\n[imgs](imgs/$dirname/)\n\n$(cat index.md)" >index.md
 echo 'done'
