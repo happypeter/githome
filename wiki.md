@@ -1,3 +1,6 @@
+- yard plan
+  - the northeast corner will be storage area
+  - low roofs
 ## wifi
 - see 20220529 note
 
