@@ -1,5 +1,4 @@
-# cp img from sketch file to shimo.im
-# download imgs with names ~/Downloads/1.jpg 2.jpg ... first
+# download imgs with names ~/Downloads/1.jpeg 2.jpeg ... first
 dirname=$1
 if [[ ! $dirname ]]
 then
@@ -11,9 +10,9 @@ fi
 cd imgs
 echo create dir $dirname
 mkdir $dirname && cd $dirname
-mv ~/Downloads/*.jpg .
-for f in *.jpg; do
-  filename=${f%.jpg}
+mv ~/Downloads/*.jpeg .
+for f in *.jpeg; do
+  filename=${f%.jpeg}
   echo ![]\(${filename}.jpg\)>>index.md
   convert "$f" -resize 50% "${filename}.jpg"
   echo $f converted...
