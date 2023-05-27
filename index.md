@@ -1,3 +1,9 @@
+### 20230527 Trellis, carport
+
+scooter port/shelter
+
+[imgs](imgs/20230527/)
+
 ### 20221209
 [imgs](imgs/20221209/)
 
@@ -17,6 +23,9 @@
 [imgs](imgs/20221112/)
 
 ### 20221108
+
+small storage shed, half open shed
+
 [imgs](imgs/20221108/)
 
 ### 20221105
@@ -24,6 +33,9 @@
 
 
 ### 20221031
+
+wood shelter, open shed against the wall
+
 [imgs](imgs/20221031/)
 
 ### 20221030
@@ -161,7 +173,6 @@ dig up the path to the tank
 ## 20210323 Clean up the Septic Tank Outlet
 
 dig up the outlet of the septic tank, surprised by how well the pipe was protected from plugged by earth with just a few random bricks
-[img](imgs/20210323/)
 
 ## 20210324 Clean up the Septic Tank Outlet
 
@@ -590,12 +601,6 @@ Bought air nailers, compressor, miter saw, laswer level.
 Did my own table saw.
 
 [img](imgs/20220130)
-
-## 20220209 more Woodwork
-
-Build boxes.
-
-[img](imgs/20220209)
 
 ## 20220212 DIY fasle ceiling
 
