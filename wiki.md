@@ -1,3 +1,6 @@
+- carport
+  - root dimension 240x390
+    - 260x410cm, for the tarp
 - yard plan
   - the northeast corner will be storage area
   - low roofs
