@@ -1,4 +1,4 @@
-# download imgs with names ~/Desktop/1.jpeg 2.jpeg ... first
+# download imgs with names ~/Desktop/1.jpg 2.jpg ... first
 dirname=$1
 if [[ ! $dirname ]]
 then
@@ -10,11 +10,11 @@ fi
 cd imgs
 echo create dir $dirname
 mkdir $dirname && cd $dirname
-mv ~/Desktop/*.jpeg .
-for f in *.jpeg; do
-  filename=${f%.jpeg}
-  echo ![]\(${filename}.jpg\)>>index.md
-  convert "$f" -resize 50% "${filename}.jpg"
+mv ~/Downloads/*.jpg .
+for f in *.jpg; do
+  filename=${f%.jpg}
+  echo ![]\(${filename}.jpeg\)>>index.md
+  convert "$f" -resize 50% "${filename}.jpeg"
   echo $f converted...
   rm $f
 done
