@@ -10,7 +10,7 @@ fi
 cd imgs
 echo create dir $dirname
 mkdir $dirname && cd $dirname
-mv ~/Downloads/*.jpg .
+mv ~/Desktop/*.jpg .
 for f in *.jpg; do
   filename=${f%.jpg}
   echo ![]\(${filename}.jpeg\)>>index.md
