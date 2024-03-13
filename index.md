@@ -1,3 +1,6 @@
+### 20240313
+blue sky, aka loft stroge shed [imgs](imgs/20240313/)
+
 ### 20240312
 assmble room [imgs](imgs/20240312/)
 
