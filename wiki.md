@@ -1,29 +1,9 @@
-- carport
-  - root dimension 240x390
-    - 260x410cm, for the tarp
-- yard plan
-  - the northeast corner will be storage area
-  - low roofs
-## wifi
-- see 20220529 note
 
-## power system
-
-- yard underground wires/cables
-  - 50cm from the west wall of house,  40cm deep
-  - there are 3 points to the east of the house where you can drag the wires out of pipe, in case the wire fail to work, detail here https://happypeter.github.io/githome/imgs/20220909/
-
-## Mi Home Fan
-- press Power & NightMode to reset wifi
-  - when I change a new router
-  - then nothing else you need to do
-  - the Fan should just show up in MiHome App¬
 
 ## windows/doors
   - people said, the glazing is `5cm(glass)*2+18mm(air gap)` thick, real number is 24mm
   - people said the thickness of the frame is 70mm(thickness), which is very generous.
   
-
 ## yard wall
   - use wood on top of stone is good idea https://youtu.be/t4_2pRnSN4E?t=28
 - sewer pipe https://www.bilibili.com/video/BV1eA411x79o
