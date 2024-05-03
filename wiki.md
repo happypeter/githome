@@ -142,8 +142,6 @@
     - you need grade for the connecton https://youtu.be/bbqZ12QhoY4?t=284
 - how to glue PVC
   - Not to glue at all
-  - lay all pipes and fittings on site, then cut
-  - wear water proof gloves for the glue
   - use grinder to get round edge of pipe wall for esay pluging in
   - use grinder to cut pipes https://www.bilibili.com/video/BV1rk4y1k7pw
   - plug everything together, place the whole line where it should go, then mark the angle of all the fittings https://youtu.be/yGgx_UFQIfw?t=183
