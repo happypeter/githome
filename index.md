@@ -1,7 +1,13 @@
+
 ### 20240724
 miter joint box
 
 [imgs](imgs/20240724/)
+
+### 20240723
+remove nails, pallet wood, reclaim wood
+
+[imgs](imgs/20240723/)
 
 ### 20240705
 [imgs](imgs/20240705/)
