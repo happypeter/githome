@@ -1,4 +1,5 @@
 
+
 ### 20240724
 miter joint box
 
@@ -8,6 +9,10 @@ miter joint box
 remove nails, pallet wood, reclaim wood
 
 [imgs](imgs/20240723/)
+
+### 20240712
+#westhouse #yardworkbench
+[imgs](imgs/20240712/)
 
 ### 20240705
 [imgs](imgs/20240705/)
