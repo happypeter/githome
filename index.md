@@ -1,3 +1,8 @@
+### 20240728
+#onemanshed #simple #storageshed #roofing
+
+[imgs](imgs/20240728/)
+
 ### 20240727
 #roofedpatio #sheddesigninspr
 
