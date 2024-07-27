@@ -1,3 +1,8 @@
+### 20240727
+#roofedpatio #sheddesigninspr
+
+[imgs](imgs/20240727/)
+
 
 
 ### 20240724
