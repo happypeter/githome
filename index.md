@@ -1,3 +1,8 @@
+### 20240822
+#boxhouse #routertable #yardcabinet
+
+[imgs](imgs/20240822/)
+
 ### 20240728
 #onemanshed #simple #storageshed #roofing
 
