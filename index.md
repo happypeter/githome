@@ -1,3 +1,8 @@
+### 20240902
+#crate_worktable #lumber_rack
+
+[imgs](imgs/20240902/)
+
 ### 20240828
 [imgs](imgs/20240828/)
 
