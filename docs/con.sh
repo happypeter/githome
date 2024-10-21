@@ -1,4 +1,4 @@
-# download imgs with names ~/Desktop/1.jpg 2.jpg ... first
+# download imgs with names ~/Downloads/1.jpg 2.jpg ... first
 dirname=$1
 if [[ ! $dirname ]]
 then
@@ -10,7 +10,7 @@ fi
 cd imgs
 echo create dir $dirname
 mkdir $dirname && cd $dirname
-mv ~/Desktop/*.jpg .
+mv ~/Downloads/*.jpg .
 for f in *.jpg; do
   filename=${f%.jpg}
   echo ![]\(${filename}.jpeg\)>>index.md
