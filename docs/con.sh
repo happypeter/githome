@@ -14,7 +14,7 @@ mv ~/Downloads/*.jpg .
 for f in *.jpg; do
   filename=${f%.jpg}
   echo ![]\(${filename}.jpeg\)>>index.md
-  convert "$f" -resize 50% "${filename}.jpeg"
+  magick"$f" -resize 50% "${filename}.jpeg"
   echo $f converted...
   rm $f
 done
